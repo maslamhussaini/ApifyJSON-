@@ -1,78 +1,388 @@
 {
-    "timestamp": "2026-02-18 03:11:49.474765",
+    "timestamp": "2026-02-18 03:13:01.687554",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "kjw9lo8e8CByiygX8",
+    "run_id": "ie9mgoV1Hze99dpKg",
     "run_status": "SUCCEEDED",
     "run_cost_usd": 0.0,
-    "compute_units": 0.019693333333333334,
+    "compute_units": 0.01275111111111111,
     "low_balance_warning": false,
     "actor_output": [
         {
-            "title": "Manhatta",
-            "description": "Set on the 60th floor, this ritzy, high-end restaurant features New American cuisine and city views.",
-            "price": "$100+",
-            "categoryName": "New American restaurant",
-            "address": "28 Liberty St 60th floor, New York, NY 10005",
-            "neighborhood": "Manhattan",
-            "street": "28 Liberty St 60th floor",
-            "city": "New York",
-            "postalCode": "10005",
+            "title": "Harvest Restaurant at Bent's Opera House Hotel",
+            "price": "$50\u2013100",
+            "categoryName": "Restaurant",
+            "address": "444 Main St, Medina, NY 14103",
+            "neighborhood": null,
+            "street": "444 Main St",
+            "city": "Medina",
+            "postalCode": "14103",
             "state": "New York",
             "countryCode": "US",
-            "website": "https://www.manhattarestaurant.com/",
-            "phone": "(212) 230-5788",
-            "phoneUnformatted": "+12122305788",
+            "website": "http://harvestatbent.com/",
+            "phone": "(585) 318-2110",
+            "phoneUnformatted": "+15853182110",
             "claimThisBusiness": false,
             "location": {
-                "lat": 40.7079974,
-                "lng": -74.0088826
+                "lat": 43.2205238,
+                "lng": -78.3871841
             },
-            "totalScore": 4.7,
+            "totalScore": 4.8,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJoTXWl8dbwokRpKA2BJFVsGA",
+            "placeId": "ChIJSSdfYWh31IkRQEwTcpKvh-8",
             "categories": [
-                "New American restaurant",
-                "Fine dining restaurant",
-                "Lounge"
+                "Restaurant",
+                "Bar",
+                "Bar & grill",
+                "Brunch restaurant"
             ],
-            "fid": "0x89c25bc797d635a1:0x60b055910436a0a4",
-            "cid": "6967162704871465124",
-            "reviewsCount": 3621,
-            "imagesCount": 11219,
+            "fid": "0x89d47768615f2749:0xef87af9272134c40",
+            "cid": "17259957140434668608",
+            "reviewsCount": 156,
+            "imagesCount": 327,
             "imageCategories": [],
-            "scrapedAt": "2026-02-17T22:11:37.257Z",
-            "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/pyjjUZqJ9lQ?source=pa&opi=79508299&hl=en-US&gei=lOeUaZOjPIXDkPIPo5fSwAs&sourceurl=https://www.google.com/search?tbm%3Dmap%26authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!4m8!1m3!1d3526330.7270685895!2d-98.02729939999999!3d30.331548999999995!3m2!1i1475!2i1327!4f13.1!7i20!10b1!12m25!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m65!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m16!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m2!1skOeUaa-eLM7AkPIPw72IkQ0!7e81!24m109!1m30!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m19!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1327!1m6!1m2!1i1425!2i0!2m2!1i1475!2i1327!1m6!1m2!1i0!2i0!2m2!1i1475!2i20!1m6!1m2!1i0!2i1307!2m2!1i1475!2i1327!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i757%26q%3Drestaurants%2Bin%2BNew%2BYork%26ech%3D1%26psi%3DkOeUaa-eLM7AkPIPw72IkQ0.1771366290352.1",
+            "scrapedAt": "2026-02-17T22:12:50.383Z",
+            "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/e7ziDe4PQK8?source=pa&opi=79508299&hl=en-US&gei=4eeUabuxF6rlwN4P4d_oiA8&sourceurl=https://www.google.com/search?tbm%3Dmap%26authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!4m8!1m3!1d6000623.631783452!2d-75.77004050000001!3d42.7462195!3m2!1i1475!2i1327!4f13.1!7i20!10b1!12m25!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m65!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m16!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m2!1s3ueUaZaqPP_Ap84PtcjokQo!7e81!24m109!1m30!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m19!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1327!1m6!1m2!1i1425!2i0!2m2!1i1475!2i1327!1m6!1m2!1i0!2i0!2m2!1i1475!2i20!1m6!1m2!1i0!2i1307!2m2!1i1475!2i1327!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i757%26q%3Drestaurants%2Bin%2BNew%2BYork%26ech%3D1%26psi%3D3ueUaZaqPP_Ap84PtcjokQo.1771366367176.1",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Monday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
+                    "hours": "Closed"
                 },
                 {
                     "day": "Tuesday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
+                    "hours": "Closed"
                 },
                 {
                     "day": "Wednesday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
+                    "hours": "5 to 9\u202fPM"
                 },
                 {
                     "day": "Thursday",
-                    "hours": "11:30\u202fAM to 10:30\u202fPM"
+                    "hours": "5 to 9\u202fPM"
                 },
                 {
                     "day": "Friday",
-                    "hours": "11:30\u202fAM to 10:30\u202fPM"
+                    "hours": "5 to 9\u202fPM"
                 },
                 {
                     "day": "Saturday",
-                    "hours": "11:30\u202fAM to 10:30\u202fPM"
+                    "hours": "5 to 9\u202fPM"
                 },
                 {
                     "day": "Sunday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
+                    "hours": "10\u202fAM to 3\u202fPM"
+                }
+            ],
+            "additionalOpeningHours": {
+                "Brunch": [
+                    {
+                        "day": "Monday",
+                        "hours": "Closed"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "hours": "Closed"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "hours": "Closed"
+                    },
+                    {
+                        "day": "Thursday",
+                        "hours": "Closed"
+                    },
+                    {
+                        "day": "Friday",
+                        "hours": "Closed"
+                    },
+                    {
+                        "day": "Saturday",
+                        "hours": "Closed"
+                    },
+                    {
+                        "day": "Sunday",
+                        "hours": "10\u202fAM\u20133\u202fPM"
+                    }
+                ]
+            },
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Service options": [
+                    {
+                        "Outdoor seating": true
+                    },
+                    {
+                        "Onsite services": true
+                    },
+                    {
+                        "Dine-in": true
+                    },
+                    {
+                        "Delivery": false
+                    }
+                ],
+                "Highlights": [
+                    {
+                        "Great beer selection": true
+                    },
+                    {
+                        "Great cocktails": true
+                    },
+                    {
+                        "Great coffee": true
+                    },
+                    {
+                        "Great dessert": true
+                    },
+                    {
+                        "Great wine list": true
+                    },
+                    {
+                        "Live music": true
+                    },
+                    {
+                        "Serves local specialty": true
+                    }
+                ],
+                "Popular for": [
+                    {
+                        "Lunch": true
+                    },
+                    {
+                        "Dinner": true
+                    },
+                    {
+                        "Solo dining": true
+                    }
+                ],
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    },
+                    {
+                        "Wheelchair accessible seating": true
+                    }
+                ],
+                "Offerings": [
+                    {
+                        "Alcohol": true
+                    },
+                    {
+                        "Beer": true
+                    },
+                    {
+                        "Cocktails": true
+                    },
+                    {
+                        "Coffee": true
+                    },
+                    {
+                        "Hard liquor": true
+                    },
+                    {
+                        "Healthy options": true
+                    },
+                    {
+                        "Organic dishes": true
+                    },
+                    {
+                        "Private dining room": true
+                    },
+                    {
+                        "Small plates": true
+                    },
+                    {
+                        "Vegetarian options": true
+                    },
+                    {
+                        "Wine": true
+                    }
+                ],
+                "Dining options": [
+                    {
+                        "Breakfast": true
+                    },
+                    {
+                        "Brunch": true
+                    },
+                    {
+                        "Lunch": true
+                    },
+                    {
+                        "Dinner": true
+                    },
+                    {
+                        "Dessert": true
+                    },
+                    {
+                        "Seating": true
+                    },
+                    {
+                        "Table service": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Bar onsite": true
+                    },
+                    {
+                        "Restroom": true
+                    }
+                ],
+                "Atmosphere": [
+                    {
+                        "Cozy": true
+                    },
+                    {
+                        "Historic": true
+                    },
+                    {
+                        "Romantic": true
+                    },
+                    {
+                        "Trendy": true
+                    },
+                    {
+                        "Upscale": true
+                    }
+                ],
+                "Crowd": [
+                    {
+                        "Groups": true
+                    },
+                    {
+                        "Tourists": true
+                    }
+                ],
+                "Planning": [
+                    {
+                        "Brunch reservations recommended": true
+                    },
+                    {
+                        "Reservations required": true
+                    },
+                    {
+                        "Dinner reservations recommended": true
+                    },
+                    {
+                        "Accepts reservations": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
+                    },
+                    {
+                        "Credit cards": true
+                    }
+                ],
+                "Children": [
+                    {
+                        "High chairs": true
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Free parking lot": true
+                    },
+                    {
+                        "Free street parking": true
+                    },
+                    {
+                        "Usually plenty of parking": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Harvest%20Restaurant%20at%20Bent's%20Opera%20House%20Hotel&query_place_id=ChIJSSdfYWh31IkRQEwTcpKvh-8",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20New%20York?hl=en",
+            "searchString": "restaurants in New York",
+            "language": "en",
+            "rank": 1,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoaOICZ_S3Fe4GIapxsWbHzu2KOuciqlDpqY9LCqKvZOPa7ET5HmXm-VUbHw7olEJ0sc98h3vrTWCHk7v04wBxorg0oXbSLkJ4QPELPT3UjntenhAjnFDXo9yKpHgurAoUV6QE=w408-h306-k-no",
+            "kgmid": "/g/11ngsrm33q"
+        },
+        {
+            "title": "Gramercy Tavern",
+            "description": "Michelin-starred Flatiron District tavern featuring a menu of modern, seasonal American dishes.",
+            "price": "$100+",
+            "categoryName": "New American restaurant",
+            "address": "42 E 20th St, New York, NY 10003",
+            "neighborhood": "Manhattan",
+            "street": "42 E 20th St",
+            "city": "New York",
+            "postalCode": "10003",
+            "state": "New York",
+            "countryCode": "US",
+            "website": "https://www.gramercytavern.com/",
+            "phone": "(212) 477-0777",
+            "phoneUnformatted": "+12124770777",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 40.7384555,
+                "lng": -73.9885064
+            },
+            "totalScore": 4.6,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJvSQIgqFZwokRFYQbJdzceSs",
+            "categories": [
+                "New American restaurant"
+            ],
+            "fid": "0x89c259a1820824bd:0x2b79dcdc251b8415",
+            "cid": "3132777853886366741",
+            "reviewsCount": 4801,
+            "imagesCount": 9366,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-17T22:12:50.385Z",
+            "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/9oGwybvQdm4?source=pa&opi=79508299&hl=en-US&gei=4eeUabuxF6rlwN4P4d_oiA8&sourceurl=https://www.google.com/search?tbm%3Dmap%26authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!4m8!1m3!1d6000623.631783452!2d-75.77004050000001!3d42.7462195!3m2!1i1475!2i1327!4f13.1!7i20!10b1!12m25!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m65!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m16!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m2!1s3ueUaZaqPP_Ap84PtcjokQo!7e81!24m109!1m30!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m19!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1327!1m6!1m2!1i1425!2i0!2m2!1i1475!2i1327!1m6!1m2!1i0!2i0!2m2!1i1475!2i20!1m6!1m2!1i0!2i1307!2m2!1i1475!2i1327!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i757%26q%3Drestaurants%2Bin%2BNew%2BYork%26ech%3D1%26psi%3D3ueUaZaqPP_Ap84PtcjokQo.1771366367176.1",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "11:30\u202fAM to 10:30\u202fPM"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "11:30\u202fAM to 10:30\u202fPM"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "11:30\u202fAM to 11\u202fPM"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "11:30\u202fAM to 11\u202fPM"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "11:30\u202fAM to 11\u202fPM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "11:30\u202fAM to 11\u202fPM"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "11:30\u202fAM to 10:30\u202fPM"
                 }
             ],
             "peopleAlsoSearch": [],
@@ -80,6 +390,9 @@
             "reviewsTags": [],
             "additionalInfo": {
                 "Service options": [
+                    {
+                        "Outdoor seating": true
+                    },
                     {
                         "Onsite services": true
                     },
@@ -104,6 +417,9 @@
                         "Great dessert": true
                     },
                     {
+                        "Great tea selection": true
+                    },
+                    {
                         "Serves local specialty": true
                     }
                 ],
@@ -113,6 +429,9 @@
                     },
                     {
                         "Dinner": true
+                    },
+                    {
+                        "Solo dining": true
                     }
                 ],
                 "Accessibility": [
@@ -138,6 +457,9 @@
                     },
                     {
                         "Coffee": true
+                    },
+                    {
+                        "Healthy options": true
                     },
                     {
                         "Organic dishes": true
@@ -180,6 +502,9 @@
                 "Atmosphere": [
                     {
                         "Cozy": true
+                    },
+                    {
+                        "Historic": true
                     },
                     {
                         "Romantic": true
@@ -246,86 +571,90 @@
                 ],
                 "Parking": [
                     {
-                        "Paid parking garage": true
+                        "Free street parking": true
                     },
                     {
                         "Paid street parking": true
+                    },
+                    {
+                        "Usually somewhat difficult to find a space": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Manhatta&query_place_id=ChIJoTXWl8dbwokRpKA2BJFVsGA",
+            "url": "https://www.google.com/maps/search/?api=1&query=Gramercy%20Tavern&query_place_id=ChIJvSQIgqFZwokRFYQbJdzceSs",
             "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20New%20York?hl=en",
             "searchString": "restaurants in New York",
             "language": "en",
-            "rank": 1,
+            "rank": 2,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipObmWt-zmje4apfGS8o6xO7AQ2Y38KE_0Nzlo3L=w408-h272-k-no",
-            "kgmid": "/g/11gh9qhb9q"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepsVzy8eXixCchXFp_knu5AbnxN_wbEbIF5tX27y5_OzxKgiYrLoc6VP43aDJOHKD6gx4jtJ2EVu_97kY5p_WOxqWUN0TF6F8O8SbjkqmKLiBSG-b1x6ZHw7L7QpOIcGe00sq9l=w408-h272-k-no",
+            "kgmid": "/m/020dmrk"
         },
         {
-            "title": "Au Cheval",
-            "description": "Restaurant featuring leather booths and a zinc bar, serving creative American fare.",
-            "price": "$50\u2013100",
-            "categoryName": "New American restaurant",
-            "address": "33 Cortlandt Alley, New York, NY 10013",
+            "title": "The Modern",
+            "description": "French/New American fare in a modernist space with garden views at the Museum of Modern Art.",
+            "price": "$100+",
+            "categoryName": "Restaurant",
+            "address": "9 W 53rd St, New York, NY 10019",
             "neighborhood": "Manhattan",
-            "street": "33 Cortlandt Alley",
+            "street": "9 W 53rd St",
             "city": "New York",
-            "postalCode": "10013",
+            "postalCode": "10019",
             "state": "New York",
             "countryCode": "US",
-            "website": "https://www.auchevaldiner.com/nyc/home",
-            "phone": "(646) 350-2429",
-            "phoneUnformatted": "+16463502429",
+            "website": "https://www.themodernnyc.com/the-modern/",
+            "phone": "(212) 333-1220",
+            "phoneUnformatted": "+12123331220",
             "claimThisBusiness": false,
             "location": {
-                "lat": 40.7181205,
-                "lng": -74.0017942
+                "lat": 40.761081,
+                "lng": -73.976753
             },
-            "totalScore": 4.7,
+            "totalScore": 4.6,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJt_HATrRbwokREfGhs1PnzwQ",
+            "placeId": "ChIJMW-gxPtYwokRzDlnsRgq9rA",
             "categories": [
-                "New American restaurant"
+                "Restaurant"
             ],
-            "fid": "0x89c25bb44ec0f1b7:0x4cfe753b3a1f111",
-            "cid": "346750043012854033",
-            "reviewsCount": 5677,
-            "imagesCount": 5524,
+            "fid": "0x89c258fbc4a06f31:0xb0f62a18b16739cc",
+            "cid": "12751425680490052044",
+            "reviewsCount": 2699,
+            "imagesCount": 8094,
             "imageCategories": [],
-            "scrapedAt": "2026-02-17T22:11:37.259Z",
+            "scrapedAt": "2026-02-17T22:12:50.386Z",
+            "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/IqhMF1j7prg?source=pa&opi=79508299&hl=en-US&gei=4eeUabuxF6rlwN4P4d_oiA8&sourceurl=https://www.google.com/search?tbm%3Dmap%26authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!4m8!1m3!1d6000623.631783452!2d-75.77004050000001!3d42.7462195!3m2!1i1475!2i1327!4f13.1!7i20!10b1!12m25!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m65!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m16!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m2!1s3ueUaZaqPP_Ap84PtcjokQo!7e81!24m109!1m30!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m19!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1327!1m6!1m2!1i1425!2i0!2m2!1i1475!2i1327!1m6!1m2!1i0!2i0!2m2!1i1475!2i20!1m6!1m2!1i0!2i1307!2m2!1i1475!2i1327!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i757%26q%3Drestaurants%2Bin%2BNew%2BYork%26ech%3D1%26psi%3D3ueUaZaqPP_Ap84PtcjokQo.1771366367176.1",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Monday",
-                    "hours": "5 to 10:30\u202fPM"
+                    "hours": "12 to 2:30\u202fPM, 5 to 9\u202fPM"
                 },
                 {
                     "day": "Tuesday",
-                    "hours": "5 to 10:30\u202fPM"
+                    "hours": "12 to 2:30\u202fPM, 5 to 9\u202fPM"
                 },
                 {
                     "day": "Wednesday",
-                    "hours": "12 to 10:30\u202fPM"
+                    "hours": "12 to 2:30\u202fPM, 5 to 9\u202fPM"
                 },
                 {
                     "day": "Thursday",
-                    "hours": "12 to 10:30\u202fPM"
+                    "hours": "12 to 2:30\u202fPM, 5 to 9\u202fPM"
                 },
                 {
                     "day": "Friday",
-                    "hours": "12 to 11:30\u202fPM"
+                    "hours": "12 to 2:30\u202fPM, 5 to 9:30\u202fPM"
                 },
                 {
                     "day": "Saturday",
-                    "hours": "11\u202fAM to 11:30\u202fPM"
+                    "hours": "12 to 2:30\u202fPM, 5 to 9:30\u202fPM"
                 },
                 {
                     "day": "Sunday",
-                    "hours": "11\u202fAM to 10:30\u202fPM"
+                    "hours": "12 to 2:30\u202fPM, 5 to 9\u202fPM"
                 }
             ],
             "peopleAlsoSearch": [],
@@ -334,30 +663,30 @@
             "additionalInfo": {
                 "Service options": [
                     {
-                        "Delivery": true
-                    },
-                    {
                         "Onsite services": true
                     },
                     {
-                        "Takeout": true
+                        "Dine-in": true
                     },
                     {
-                        "Dine-in": true
+                        "Delivery": false
+                    },
+                    {
+                        "Takeout": false
                     }
                 ],
                 "Highlights": [
                     {
-                        "Fast service": true
+                        "Great cocktails": true
                     },
                     {
-                        "Great cocktails": true
+                        "Great coffee": true
                     },
                     {
                         "Great dessert": true
                     },
                     {
-                        "Serves local specialty": true
+                        "Great tea selection": true
                     }
                 ],
                 "Popular for": [
@@ -396,13 +725,19 @@
                         "Coffee": true
                     },
                     {
-                        "Comfort food": true
+                        "Organic dishes": true
+                    },
+                    {
+                        "Small plates": true
+                    },
+                    {
+                        "Vegan options": true
+                    },
+                    {
+                        "Vegetarian options": true
                     }
                 ],
                 "Dining options": [
-                    {
-                        "Brunch": true
-                    },
                     {
                         "Lunch": true
                     },
@@ -432,10 +767,13 @@
                 ],
                 "Atmosphere": [
                     {
-                        "Casual": true
+                        "Cozy": true
                     },
                     {
-                        "Cozy": true
+                        "Quiet": true
+                    },
+                    {
+                        "Romantic": true
                     },
                     {
                         "Trendy": true
@@ -463,272 +801,8 @@
                 ],
                 "Planning": [
                     {
-                        "Brunch reservations recommended": true
-                    },
-                    {
                         "Lunch reservations recommended": true
                     },
-                    {
-                        "Dinner reservations recommended": true
-                    },
-                    {
-                        "Accepts reservations": true
-                    },
-                    {
-                        "Usually a wait": true
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Credit cards": true
-                    }
-                ],
-                "Children": [
-                    {
-                        "Good for kids": true
-                    },
-                    {
-                        "High chairs": true
-                    }
-                ],
-                "Parking": [
-                    {
-                        "Paid street parking": true
-                    },
-                    {
-                        "Usually difficult to find a space": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Au%20Cheval&query_place_id=ChIJt_HATrRbwokREfGhs1PnzwQ",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20New%20York?hl=en",
-            "searchString": "restaurants in New York",
-            "language": "en",
-            "rank": 2,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoM5fE28X9GAJiWb8xZRybMsijjLFjuWeVwVNUTBkUuMvLJ1XFGr3b8WCxLk-zelLBfiEEZ5PkdGaqyRnH_028aYnEx5YuNMfAF3MRJLHlvBLCaXvzp1EsLABMG_pGQ7agqPbj3=w408-h510-k-no",
-            "kgmid": "/g/11gyc6jp6q"
-        },
-        {
-            "title": "Jiang Nan NYC",
-            "description": "Contemporary takes on Chinese classics artfully presented in a chic, streamlined space.",
-            "price": "$30\u201350",
-            "categoryName": "Chinese restaurant",
-            "address": "103 Bowery, New York, NY 10002",
-            "neighborhood": "Manhattan",
-            "street": "103 Bowery",
-            "city": "New York",
-            "postalCode": "10002",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "https://jiangnanny.com/",
-            "phone": "(212) 775-8998",
-            "phoneUnformatted": "+12127758998",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 40.7175581,
-                "lng": -73.9949693
-            },
-            "totalScore": 4.8,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJg0ZHaSRZwokRHymWtw9gKJk",
-            "categories": [
-                "Chinese restaurant",
-                "Mandarin restaurant"
-            ],
-            "fid": "0x89c2592469474683:0x9928600fb796291f",
-            "cid": "11036176507492247839",
-            "reviewsCount": 1732,
-            "imagesCount": 2793,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-17T22:11:37.259Z",
-            "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/TwVVsoeIWU4?source=pa&opi=79508299&hl=en-US&gei=lOeUaZOjPIXDkPIPo5fSwAs&sourceurl=https://www.google.com/search?tbm%3Dmap%26authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!4m8!1m3!1d3526330.7270685895!2d-98.02729939999999!3d30.331548999999995!3m2!1i1475!2i1327!4f13.1!7i20!10b1!12m25!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m65!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m16!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m2!1skOeUaa-eLM7AkPIPw72IkQ0!7e81!24m109!1m30!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m19!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1327!1m6!1m2!1i1425!2i0!2m2!1i1475!2i1327!1m6!1m2!1i0!2i0!2m2!1i1475!2i20!1m6!1m2!1i0!2i1307!2m2!1i1475!2i1327!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i757%26q%3Drestaurants%2Bin%2BNew%2BYork%26ech%3D1%26psi%3DkOeUaa-eLM7AkPIPw72IkQ0.1771366290352.1",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Monday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
-                },
-                {
-                    "day": "Tuesday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
-                },
-                {
-                    "day": "Wednesday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
-                },
-                {
-                    "day": "Thursday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
-                },
-                {
-                    "day": "Friday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
-                },
-                {
-                    "day": "Saturday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
-                },
-                {
-                    "day": "Sunday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Service options": [
-                    {
-                        "Curbside pickup": true
-                    },
-                    {
-                        "No-contact delivery": true
-                    },
-                    {
-                        "Delivery": true
-                    },
-                    {
-                        "Drive-through": true
-                    },
-                    {
-                        "Onsite services": true
-                    },
-                    {
-                        "Takeout": true
-                    },
-                    {
-                        "Dine-in": true
-                    }
-                ],
-                "Highlights": [
-                    {
-                        "Fast service": true
-                    },
-                    {
-                        "Great cocktails": true
-                    },
-                    {
-                        "Serves local specialty": true
-                    },
-                    {
-                        "Sports": true
-                    }
-                ],
-                "Popular for": [
-                    {
-                        "Lunch": true
-                    },
-                    {
-                        "Dinner": true
-                    }
-                ],
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": false
-                    }
-                ],
-                "Offerings": [
-                    {
-                        "Alcohol": true
-                    },
-                    {
-                        "Beer": true
-                    },
-                    {
-                        "Cocktails": true
-                    },
-                    {
-                        "Comfort food": true
-                    },
-                    {
-                        "Hard liquor": true
-                    },
-                    {
-                        "Organic dishes": true
-                    },
-                    {
-                        "Small plates": true
-                    },
-                    {
-                        "Vegetarian options": true
-                    },
-                    {
-                        "Wine": true
-                    }
-                ],
-                "Dining options": [
-                    {
-                        "Lunch": true
-                    },
-                    {
-                        "Dinner": true
-                    },
-                    {
-                        "Dessert": true
-                    },
-                    {
-                        "Table service": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Bar onsite": true
-                    },
-                    {
-                        "Gender-neutral restroom": true
-                    },
-                    {
-                        "Restroom": true
-                    },
-                    {
-                        "Wi-Fi": true
-                    },
-                    {
-                        "Free Wi-Fi": true
-                    }
-                ],
-                "Atmosphere": [
-                    {
-                        "Casual": true
-                    },
-                    {
-                        "Cozy": true
-                    },
-                    {
-                        "Trendy": true
-                    },
-                    {
-                        "Upscale": true
-                    }
-                ],
-                "Crowd": [
-                    {
-                        "Family-friendly": true
-                    },
-                    {
-                        "Groups": true
-                    },
-                    {
-                        "Tourists": true
-                    }
-                ],
-                "Planning": [
                     {
                         "Dinner reservations recommended": true
                     },
@@ -757,119 +831,122 @@
                 ],
                 "Parking": [
                     {
-                        "Free street parking": true
+                        "Paid parking garage": true
                     },
                     {
-                        "Usually somewhat difficult to find a space": true
+                        "Paid street parking": true
+                    },
+                    {
+                        "Usually difficult to find a space": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Jiang%20Nan%20NYC&query_place_id=ChIJg0ZHaSRZwokRHymWtw9gKJk",
+            "url": "https://www.google.com/maps/search/?api=1&query=The%20Modern&query_place_id=ChIJMW-gxPtYwokRzDlnsRgq9rA",
             "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20New%20York?hl=en",
             "searchString": "restaurants in New York",
             "language": "en",
             "rank": 3,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweohtuofwR9Ays4-Y8qZo6g5QBEfIzMBbQZPNkH14Tosv082vL323INL2ycQH2G_wSjmGz4kk8tV2orXlM1--2bj4N3WpNeXGFsH6XDAbPU3mKezgs5yocTEKzCrHZ2eJcJXZZKitw=w408-h306-k-no",
-            "kgmid": "/g/11t1mwp0dc"
+            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPFegcqnHSeW_Ngyd9kDff_bofmJx6cA0Woh95o=w408-h272-k-no",
+            "kgmid": "/m/05yj_8q"
         },
         {
-            "title": "Le Gratin",
-            "price": "$100+",
+            "title": "Boucherie Union Square",
+            "description": "Bistro for dry-aged steaks and other French fare, with a bar that's strong on absinthe.",
+            "price": "$50\u2013100",
             "categoryName": "French restaurant",
-            "address": "5 Beekman St, New York, NY 10038",
+            "address": "225 Park Ave S, New York, NY 10003",
             "neighborhood": "Manhattan",
-            "street": "5 Beekman St",
+            "street": "225 Park Ave S",
             "city": "New York",
-            "postalCode": "10038",
+            "postalCode": "10003",
             "state": "New York",
             "countryCode": "US",
-            "website": "http://www.legratinnyc.com/",
-            "phone": "(212) 597-9020",
-            "phoneUnformatted": "+12125979020",
+            "website": "https://www.boucherieus.com/",
+            "phone": "(212) 353-0200",
+            "phoneUnformatted": "+12123530200",
             "claimThisBusiness": false,
             "location": {
-                "lat": 40.711274,
-                "lng": -74.0066676
+                "lat": 40.7372552,
+                "lng": -73.9882246
             },
             "totalScore": 4.7,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJj4fN7HBbwokRCB5xca3KF1E",
+            "placeId": "ChIJc1Vf7KFZwokR1YL2Rn9oxi8",
             "categories": [
                 "French restaurant",
-                "Bistro",
-                "Restaurant"
+                "Steak house"
             ],
-            "fid": "0x89c25b70eccd878f:0x5117caad71711e08",
-            "cid": "5843361887817899528",
-            "reviewsCount": 611,
-            "imagesCount": 1102,
+            "fid": "0x89c259a1ec5f5573:0x2fc6687f46f682d5",
+            "cid": "3442553861032018645",
+            "reviewsCount": 4652,
+            "imagesCount": 3970,
             "imageCategories": [],
-            "scrapedAt": "2026-02-17T22:11:37.259Z",
-            "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/BIg3ZPJR7P8?source=pa&opi=79508299&hl=en-US&gei=lOeUaZOjPIXDkPIPo5fSwAs&sourceurl=https://www.google.com/search?tbm%3Dmap%26authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!4m8!1m3!1d3526330.7270685895!2d-98.02729939999999!3d30.331548999999995!3m2!1i1475!2i1327!4f13.1!7i20!10b1!12m25!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m65!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m16!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m2!1skOeUaa-eLM7AkPIPw72IkQ0!7e81!24m109!1m30!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m19!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1327!1m6!1m2!1i1425!2i0!2m2!1i1475!2i1327!1m6!1m2!1i0!2i0!2m2!1i1475!2i20!1m6!1m2!1i0!2i1307!2m2!1i1475!2i1327!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i757%26q%3Drestaurants%2Bin%2BNew%2BYork%26ech%3D1%26psi%3DkOeUaa-eLM7AkPIPw72IkQ0.1771366290352.1",
+            "scrapedAt": "2026-02-17T22:12:50.386Z",
+            "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/4rmpVcuKUVY?source=pa&opi=79508299&hl=en-US&gei=4eeUabuxF6rlwN4P4d_oiA8&sourceurl=https://www.google.com/search?tbm%3Dmap%26authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!4m8!1m3!1d6000623.631783452!2d-75.77004050000001!3d42.7462195!3m2!1i1475!2i1327!4f13.1!7i20!10b1!12m25!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m65!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m16!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m2!1s3ueUaZaqPP_Ap84PtcjokQo!7e81!24m109!1m30!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m19!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1327!1m6!1m2!1i1425!2i0!2m2!1i1475!2i1327!1m6!1m2!1i0!2i0!2m2!1i1475!2i20!1m6!1m2!1i0!2i1307!2m2!1i1475!2i1327!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i757%26q%3Drestaurants%2Bin%2BNew%2BYork%26ech%3D1%26psi%3D3ueUaZaqPP_Ap84PtcjokQo.1771366367176.1",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Monday",
-                    "hours": "Closed"
+                    "hours": "11\u202fAM to 12\u202fAM"
                 },
                 {
                     "day": "Tuesday",
-                    "hours": "11:30\u202fAM to 9:45\u202fPM"
+                    "hours": "11\u202fAM to 12\u202fAM"
                 },
                 {
                     "day": "Wednesday",
-                    "hours": "11:30\u202fAM to 9:45\u202fPM"
+                    "hours": "11\u202fAM to 12\u202fAM"
                 },
                 {
                     "day": "Thursday",
-                    "hours": "11:30\u202fAM to 9:45\u202fPM"
+                    "hours": "11\u202fAM to 12\u202fAM"
                 },
                 {
                     "day": "Friday",
-                    "hours": "11:30\u202fAM to 9:45\u202fPM"
+                    "hours": "11\u202fAM to 12\u202fAM"
                 },
                 {
                     "day": "Saturday",
-                    "hours": "11\u202fAM to 9:45\u202fPM"
+                    "hours": "10\u202fAM to 12\u202fAM"
                 },
                 {
                     "day": "Sunday",
-                    "hours": "11\u202fAM to 9:45\u202fPM"
+                    "hours": "10\u202fAM to 12\u202fAM"
                 }
             ],
             "additionalOpeningHours": {
-                "Brunch": [
+                "Delivery": [
                     {
                         "day": "Monday",
-                        "hours": "Closed"
+                        "hours": "12\u20139:30\u202fPM"
                     },
                     {
                         "day": "Tuesday",
-                        "hours": "Closed"
+                        "hours": "12\u20139:30\u202fPM"
                     },
                     {
                         "day": "Wednesday",
-                        "hours": "Closed"
+                        "hours": "12\u20139:30\u202fPM"
                     },
                     {
                         "day": "Thursday",
-                        "hours": "Closed"
+                        "hours": "12\u20139:30\u202fPM"
                     },
                     {
                         "day": "Friday",
-                        "hours": "Closed"
+                        "hours": "12\u201310:30\u202fPM"
                     },
                     {
                         "day": "Saturday",
-                        "hours": "11\u202fAM\u20133\u202fPM"
+                        "hours": "12\u201310:30\u202fPM"
                     },
                     {
                         "day": "Sunday",
-                        "hours": "11\u202fAM\u20133\u202fPM"
+                        "hours": "12\u20139:30\u202fPM"
                     }
                 ]
             },
@@ -878,6 +955,24 @@
             "reviewsTags": [],
             "additionalInfo": {
                 "Service options": [
+                    {
+                        "Outdoor seating": true
+                    },
+                    {
+                        "Curbside pickup": true
+                    },
+                    {
+                        "No-contact delivery": true
+                    },
+                    {
+                        "Delivery": true
+                    },
+                    {
+                        "Onsite services": true
+                    },
+                    {
+                        "Takeout": true
+                    },
                     {
                         "Dine-in": true
                     }
@@ -938,22 +1033,28 @@
                         "Coffee": true
                     },
                     {
-                        "Happy hour food": true
+                        "Comfort food": true
+                    },
+                    {
+                        "Happy hour drinks": true
                     },
                     {
                         "Hard liquor": true
                     },
                     {
-                        "Organic dishes": true
+                        "Late-night food": true
                     },
                     {
-                        "Vegetarian options": true
+                        "Small plates": true
                     },
                     {
                         "Wine": true
                     }
                 ],
                 "Dining options": [
+                    {
+                        "Breakfast": true
+                    },
                     {
                         "Brunch": true
                     },
@@ -962,6 +1063,9 @@
                     },
                     {
                         "Dinner": true
+                    },
+                    {
+                        "Catering": true
                     },
                     {
                         "Dessert": true
@@ -989,10 +1093,16 @@
                 ],
                 "Atmosphere": [
                     {
+                        "Casual": true
+                    },
+                    {
                         "Cozy": true
                     },
                     {
                         "Romantic": true
+                    },
+                    {
+                        "Trending": true
                     },
                     {
                         "Trendy": true
@@ -1002,9 +1112,6 @@
                     }
                 ],
                 "Crowd": [
-                    {
-                        "Family-friendly": true
-                    },
                     {
                         "Groups": true
                     },
@@ -1019,6 +1126,12 @@
                     }
                 ],
                 "Planning": [
+                    {
+                        "Brunch reservations recommended": true
+                    },
+                    {
+                        "Lunch reservations recommended": true
+                    },
                     {
                         "Dinner reservations recommended": true
                     },
@@ -1047,103 +1160,96 @@
                 ],
                 "Parking": [
                     {
-                        "Usually difficult to find a space": true
+                        "Free street parking": true
+                    },
+                    {
+                        "Paid street parking": true
                     }
                 ],
                 "Pets": [
-                    {
-                        "Dogs allowed": true
-                    },
-                    {
-                        "Dogs allowed inside": true
-                    },
                     {
                         "Dogs allowed outside": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Le%20Gratin&query_place_id=ChIJj4fN7HBbwokRCB5xca3KF1E",
+            "url": "https://www.google.com/maps/search/?api=1&query=Boucherie%20Union%20Square&query_place_id=ChIJc1Vf7KFZwokR1YL2Rn9oxi8",
             "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20New%20York?hl=en",
             "searchString": "restaurants in New York",
             "language": "en",
             "rank": 4,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo4XejSRMVPewVsqRSZp07nWL-OdqGO3eu349SYQoE-73zryhPhtGTGYAjCQcpPKVNAZvh7b76hxpT0mxylKSk4kOycEwe_Vo5pRHvJL5j8mVZy9GgII226_D5mDmVb27FXZtd4wA=w408-h306-k-no",
-            "kgmid": "/g/11rvlsl36y"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer3kaZlchROBwPaAB8gKFgXc7irI2DX5PGBgWELGfVieLUf11RgQGVHCTbMG6v6rCjQwHu4hNaQt4hpC8oY9enE6Mat6T5nh2gt8PgsBtyW7Nuvexiqu96ZlH1I7c9KEPnSiKGD=w408-h305-k-no",
+            "kgmid": "/g/11hbv5rh0_"
         },
         {
-            "title": "Bubby's",
-            "description": "Weekend brunch hot spot serving homestyle American eats with many locally sourced ingredients.",
-            "price": "$20\u201330",
-            "categoryName": "American restaurant",
-            "address": "120 Hudson St, New York, NY 10013",
+            "title": "NOMAD",
+            "price": "$10\u201320",
+            "categoryName": "Sandwich shop",
+            "address": "179 Church St, New York, NY 10007",
             "neighborhood": "Manhattan",
-            "street": "120 Hudson St",
+            "street": "179 Church St",
             "city": "New York",
-            "postalCode": "10013",
+            "postalCode": "10007",
             "state": "New York",
             "countryCode": "US",
-            "website": "https://www.bubbys.com/",
-            "phone": "(212) 219-0666",
-            "phoneUnformatted": "+12122190666",
+            "website": "http://www.nomadnewyorkcity.com/",
+            "phone": "(929) 746-8839",
+            "phoneUnformatted": "+19297468839",
             "claimThisBusiness": false,
             "location": {
-                "lat": 40.719819,
-                "lng": -74.0083829
+                "lat": 40.7155947,
+                "lng": -74.0071989
             },
-            "totalScore": 4.4,
+            "totalScore": 4.9,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJETquaPVZwokRVYYGSKrg4E0",
+            "placeId": "ChIJkWzIVWtZwokRI4QPE8mVHvA",
             "categories": [
-                "American restaurant",
-                "Bakery",
-                "Bar",
+                "Sandwich shop",
                 "Breakfast restaurant",
                 "Brunch restaurant",
-                "Pancake restaurant",
-                "Pie shop",
+                "Fusion restaurant",
                 "Restaurant",
-                "Western restaurant"
+                "Salad shop",
+                "Seafood restaurant"
             ],
-            "fid": "0x89c259f568ae3a11:0x4de0e0aa48068655",
-            "cid": "5611732157661087317",
-            "reviewsCount": 8304,
-            "imagesCount": 8439,
+            "fid": "0x89c2596b55c86c91:0xf01e95c9130f8423",
+            "cid": "17302431509244773411",
+            "reviewsCount": 335,
+            "imagesCount": 235,
             "imageCategories": [],
-            "scrapedAt": "2026-02-17T22:11:37.260Z",
-            "reserveTableUrl": "https://www.google.com/maps/reserve/v/dine/c/ppvYRhnx-xg?source=pa&opi=79508299&hl=en-US&gei=lOeUaZOjPIXDkPIPo5fSwAs&sourceurl=https://www.google.com/search?tbm%3Dmap%26authuser%3D0%26hl%3Den%26gl%3Dus%26pb%3D!4m8!1m3!1d3526330.7270685895!2d-98.02729939999999!3d30.331548999999995!3m2!1i1475!2i1327!4f13.1!7i20!10b1!12m25!1m5!18b1!30b1!31m1!1b1!34e1!2m4!5m1!6e2!20e3!39b1!10b1!12b1!13b1!16b1!17m1!3e1!20m3!5e2!6b1!14b1!46m1!1b0!96b1!99b1!19m4!2m3!1i360!2i120!4i8!20m65!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!15m16!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!1m7!1m2!1m1!1e2!2m2!1i195!2i195!3i20!22m2!1skOeUaa-eLM7AkPIPw72IkQ0!7e81!24m109!1m30!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m19!3b1!4b1!5b1!6b1!9b1!13b1!14b1!17b1!20b1!21b1!22b1!27m1!1b0!28b0!32b1!33m1!1b1!34b1!36e2!10m1!8e3!11m1!3e1!14m1!3b0!17b1!20m2!1e3!1e6!24b1!25b1!26b1!27b1!29b1!30m1!2b1!36b1!37b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!61m2!1m1!1e1!65m5!3m4!1m3!1m2!1i224!2i298!72m22!1m8!2b1!5b1!7b1!12m4!1b1!2b1!4m1!1e1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_google_review_posts__and__hotel_and_vr_partner_review_posts!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!126b1!127b1!26m4!2m3!1i80!2i92!4i8!30m28!1m6!1m2!1i0!2i0!2m2!1i530!2i1327!1m6!1m2!1i1425!2i0!2m2!1i1475!2i1327!1m6!1m2!1i0!2i0!2m2!1i1475!2i20!1m6!1m2!1i0!2i1307!2m2!1i1475!2i1327!34m19!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!31b1!37m1!1e81!49m10!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!10e2!50m3!2e2!3m1!3b1!61b1!67m5!7b1!10b1!14b1!15m1!1b0!69i757%26q%3Drestaurants%2Bin%2BNew%2BYork%26ech%3D1%26psi%3DkOeUaa-eLM7AkPIPw72IkQ0.1771366290352.1",
+            "scrapedAt": "2026-02-17T22:12:50.387Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Monday",
-                    "hours": "8\u202fAM to 10\u202fPM"
+                    "hours": "8\u202fAM to 8\u202fPM"
                 },
                 {
                     "day": "Tuesday",
-                    "hours": "8\u202fAM to 10\u202fPM"
+                    "hours": "8\u202fAM to 8\u202fPM"
                 },
                 {
                     "day": "Wednesday",
-                    "hours": "8\u202fAM to 10\u202fPM"
+                    "hours": "8\u202fAM to 8\u202fPM"
                 },
                 {
                     "day": "Thursday",
-                    "hours": "8\u202fAM to 10\u202fPM"
+                    "hours": "8\u202fAM to 8\u202fPM"
                 },
                 {
                     "day": "Friday",
-                    "hours": "8\u202fAM to 10\u202fPM"
+                    "hours": "8\u202fAM to 8\u202fPM"
                 },
                 {
                     "day": "Saturday",
-                    "hours": "8\u202fAM to 10\u202fPM"
+                    "hours": "11\u202fAM to 7\u202fPM"
                 },
                 {
                     "day": "Sunday",
-                    "hours": "8\u202fAM to 10\u202fPM"
+                    "hours": "11\u202fAM to 7\u202fPM"
                 }
             ],
             "peopleAlsoSearch": [],
@@ -1152,7 +1258,10 @@
             "additionalInfo": {
                 "Service options": [
                     {
-                        "Outdoor seating": true
+                        "Curbside pickup": true
+                    },
+                    {
+                        "No-contact delivery": true
                     },
                     {
                         "Delivery": true
@@ -1167,38 +1276,12 @@
                         "Dine-in": true
                     }
                 ],
-                "Highlights": [
-                    {
-                        "Fast service": true
-                    },
-                    {
-                        "Great beer selection": true
-                    },
-                    {
-                        "Great cocktails": true
-                    },
-                    {
-                        "Great coffee": true
-                    },
-                    {
-                        "Great dessert": true
-                    },
-                    {
-                        "Great tea selection": true
-                    },
-                    {
-                        "Serves local specialty": true
-                    }
-                ],
                 "Popular for": [
                     {
                         "Breakfast": true
                     },
                     {
                         "Lunch": true
-                    },
-                    {
-                        "Dinner": true
                     },
                     {
                         "Solo dining": true
@@ -1209,25 +1292,10 @@
                         "Wheelchair accessible entrance": true
                     },
                     {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
-                    },
-                    {
                         "Wheelchair accessible parking lot": false
                     }
                 ],
                 "Offerings": [
-                    {
-                        "Alcohol": true
-                    },
-                    {
-                        "Beer": true
-                    },
-                    {
-                        "Cocktails": true
-                    },
                     {
                         "Coffee": true
                     },
@@ -1235,25 +1303,13 @@
                         "Comfort food": true
                     },
                     {
-                        "Happy hour drinks": true
-                    },
-                    {
-                        "Hard liquor": true
-                    },
-                    {
-                        "Late-night food": true
-                    },
-                    {
-                        "Organic dishes": true
+                        "Healthy options": true
                     },
                     {
                         "Quick bite": true
                     },
                     {
-                        "Small plates": true
-                    },
-                    {
-                        "Wine": true
+                        "Vegetarian options": true
                     }
                 ],
                 "Dining options": [
@@ -1271,26 +1327,6 @@
                     },
                     {
                         "Catering": true
-                    },
-                    {
-                        "Counter service": true
-                    },
-                    {
-                        "Dessert": true
-                    },
-                    {
-                        "Seating": true
-                    },
-                    {
-                        "Table service": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Bar onsite": true
-                    },
-                    {
-                        "Restroom": true
                     }
                 ],
                 "Atmosphere": [
@@ -1302,34 +1338,6 @@
                     },
                     {
                         "Trendy": true
-                    }
-                ],
-                "Crowd": [
-                    {
-                        "Family-friendly": true
-                    },
-                    {
-                        "Groups": true
-                    },
-                    {
-                        "Tourists": true
-                    }
-                ],
-                "Planning": [
-                    {
-                        "Brunch reservations recommended": true
-                    },
-                    {
-                        "Lunch reservations recommended": true
-                    },
-                    {
-                        "Dinner reservations recommended": true
-                    },
-                    {
-                        "Accepts reservations": true
-                    },
-                    {
-                        "Usually a wait": true
                     }
                 ],
                 "Payments": [
@@ -1349,49 +1357,26 @@
                 "Children": [
                     {
                         "Good for kids": true
-                    },
-                    {
-                        "High chairs": true
-                    },
-                    {
-                        "Kids' menu": true
                     }
                 ],
                 "Parking": [
                     {
-                        "Free street parking": true
-                    },
-                    {
-                        "On-site parking": true
-                    },
-                    {
-                        "Paid parking lot": true
-                    },
-                    {
                         "Paid street parking": true
                     },
                     {
-                        "Usually difficult to find a space": true
-                    }
-                ],
-                "Pets": [
-                    {
-                        "Dogs allowed inside": true
-                    },
-                    {
-                        "Dogs allowed outside": true
+                        "Usually somewhat difficult to find a space": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Bubby's&query_place_id=ChIJETquaPVZwokRVYYGSKrg4E0",
+            "url": "https://www.google.com/maps/search/?api=1&query=NOMAD&query_place_id=ChIJkWzIVWtZwokRI4QPE8mVHvA",
             "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20New%20York?hl=en",
             "searchString": "restaurants in New York",
             "language": "en",
             "rank": 5,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepxBJehpnBrK1tSSLtBMKfyTA6H6z1aAJ5y24AuLZ0Iq21S0YuciDlo09W0cTRVZN1SNGk5MYcmcaV1pSfrcVekBbaH9bHPNqct9unVLp9t1z10wLOkVeosHA32BRecvhoxnKxO=w408-h249-k-no",
-            "kgmid": "/m/0_xvvps"
+            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMDBXSfFZw5ERNZnv3-RqL27mbxzqI1fKCACNpe=w408-h544-k-no",
+            "kgmid": "/g/11vzgn_p1m"
         }
     ]
 }
