@@ -1,122 +1,56 @@
 {
-    "timestamp": "2026-02-19 16:20:41.270559",
+    "timestamp": "2026-02-19 16:25:09.599791",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "qaK6nzWiZDabMObTQ",
+    "run_id": "UWMix35VXPtkHjV9l",
     "run_status": "SUCCEEDED",
     "search_query": "restaurants in All (Cities) All (State), United States",
     "max_results_requested": 5,
     "records_retrieved": 5,
-    "run_cost_usd": 0.0202,
-    "compute_units": 0.04019111111111111,
+    "run_cost_usd": 0.0002,
+    "compute_units": 0.013057777777777778,
     "low_balance_warning": false,
     "actor_output": [
         {
-            "title": "All Spice",
-            "description": "Inventive Indian fusion cuisine served in a charming converted house with vivid teal walls.",
-            "price": null,
-            "categoryName": "Fine dining restaurant",
-            "address": "1602 S El Camino Real, San Mateo, CA 94402",
-            "neighborhood": "Central San Mateo",
-            "street": "1602 S El Camino Real",
-            "city": "San Mateo",
-            "postalCode": "94402",
-            "state": "California",
-            "countryCode": "US",
-            "website": "http://www.allspicerestaurant.com/",
-            "phone": "(650) 627-4303",
-            "phoneUnformatted": "+16506274303",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 37.5528778,
-                "lng": -122.3156444
-            },
-            "totalScore": 4.6,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJc3R6j16ej4ARSX5Uq0eROqI",
-            "categories": [
-                "Fine dining restaurant",
-                "Californian restaurant",
-                "New American restaurant"
-            ],
-            "fid": "0x808f9e5e8f7a7473:0xa23a9147ab547e49",
-            "cid": "11689815519796690505",
-            "reviewsCount": null,
-            "imagesCount": 1261,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-19T11:20:06.726Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Thursday",
-                    "hours": "5:30 to 8\u202fPM"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible seating": true
-                    },
-                    {
-                        "Wheelchair accessible entrance": false
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=All%20Spice&query_place_id=ChIJc3R6j16ej4ARSX5Uq0eROqI",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
-            "searchString": "restaurants in All (Cities) All (State), United States",
-            "language": "en",
-            "rank": 1,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep6nPD0qRntF0y4hmkL6hJy88PMzSDkgzEbAyHt4BCQnJ3bJdE4ltQcbEZg4sMw04nVLCZ56bQFQCcST_cxIaj6SoiCviAW0JftMOQ7XFV4KhE_tWzlS1a4Ed-9VpEKoyMwiK5G=w426-h240-k-no",
-            "kgmid": "/g/1td2mqrt"
-        },
-        {
-            "title": "Fogo de Ch\u00e3o Brazilian Steakhouse",
+            "title": "Fogo De Chao - Austin",
             "description": "Upscale Brazilian chain for all-you-can-eat meat carved tableside plus an extensive salad bar.",
             "price": null,
             "categoryName": "Brazilian restaurant",
-            "address": "201 3rd St Suite 100, San Francisco, CA 94103",
-            "neighborhood": "SoMa",
-            "street": "201 3rd St Suite 100",
-            "city": "San Francisco",
-            "postalCode": "94103",
-            "state": "California",
+            "address": "200 Congress Ave., Austin, TX 78701",
+            "neighborhood": "Downtown Austin",
+            "street": "200 Congress Ave.",
+            "city": "Austin",
+            "postalCode": "78701",
+            "state": "Texas",
             "countryCode": "US",
-            "website": "https://fogodechao.com/location/san-francisco/",
-            "phone": "(415) 427-0004",
-            "phoneUnformatted": "+14154270004",
+            "website": "https://fogodechao.com/location/austin/",
+            "phone": "(512) 472-0220",
+            "phoneUnformatted": "+15124720220",
             "claimThisBusiness": false,
             "location": {
-                "lat": 37.7850918,
-                "lng": -122.4001373
+                "lat": 30.264824,
+                "lng": -97.744512
             },
             "totalScore": 4.7,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJR0iloX2AhYARVm3_utxjhTI",
+            "placeId": "ChIJ7_1MCai1RIYRsFrrp7OT0zI",
             "categories": [
                 "Brazilian restaurant",
                 "Restaurant",
                 "Steak house"
             ],
-            "fid": "0x8085807da1a54847:0x328563dcbaff6d56",
-            "cid": "3640425673480170838",
+            "fid": "0x8644b5a8094cfdef:0x32d393b3a7eb5ab0",
+            "cid": "3662433321807993520",
             "reviewsCount": null,
-            "imagesCount": 4186,
+            "imagesCount": 3073,
             "imageCategories": [],
-            "scrapedAt": "2026-02-19T11:20:06.728Z",
+            "scrapedAt": "2026-02-19T11:24:59.621Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Thursday",
-                    "hours": "11:30\u202fAM to 10\u202fPM"
+                    "hours": "11\u202fAM to 10\u202fPM"
                 }
             ],
             "additionalOpeningHours": {
@@ -147,58 +81,148 @@
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Fogo%20de%20Ch%C3%A3o%20Brazilian%20Steakhouse&query_place_id=ChIJR0iloX2AhYARVm3_utxjhTI",
+            "url": "https://www.google.com/maps/search/?api=1&query=Fogo%20De%20Chao%20-%20Austin&query_place_id=ChIJ7_1MCai1RIYRsFrrp7OT0zI",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
+            "searchString": "restaurants in All (Cities) All (State), United States",
+            "language": "en",
+            "rank": 1,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqBgIX2AA1lAQZEtn6Zg-hB8Jc2mk5OEkhR6C4rEa_egTYZgvUlmJUZD73_bTcDFNZXlsBb-ZiaZc--X54beiZ4dtLI2j67VCCFAL8XZ9oWDm4Cs5SLEl9r9e7KjLH2TXd4OHAGRg=w408-h306-k-no",
+            "kgmid": "/g/1jky96nmg"
+        },
+        {
+            "title": "Lonesome Dove Austin",
+            "description": "Inventive, gamey fare such as rabbit-rattlesnake sausage in a space decked in taxidermied animals.",
+            "price": null,
+            "categoryName": "Restaurant",
+            "address": "123 W 6th St, Austin, TX 78701",
+            "neighborhood": "Downtown Austin",
+            "street": "123 W 6th St",
+            "city": "Austin",
+            "postalCode": "78701",
+            "state": "Texas",
+            "countryCode": "US",
+            "website": "http://www.lonesomedoveaustin.com/",
+            "phone": "(512) 368-2821",
+            "phoneUnformatted": "+15123682821",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 30.268263,
+                "lng": -97.7440193
+            },
+            "totalScore": 4.5,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJ83aXqgm1RIYRpzkWp2Xrjsk",
+            "categories": [
+                "Restaurant"
+            ],
+            "fid": "0x8644b509aa9776f3:0xc98eeb65a71639a7",
+            "cid": "14523804670143904167",
+            "reviewsCount": null,
+            "imagesCount": 1066,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-19T11:24:59.623Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Thursday",
+                    "hours": "4 to 10\u202fPM"
+                }
+            ],
+            "additionalOpeningHours": {
+                "Happy hours": [
+                    {
+                        "day": "Thursday",
+                        "hours": "4\u20136:30\u202fPM"
+                    }
+                ],
+                "Lunch": [
+                    {
+                        "day": "Thursday",
+                        "hours": "Closed"
+                    }
+                ]
+            },
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    },
+                    {
+                        "Wheelchair accessible seating": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Lonesome%20Dove%20Austin&query_place_id=ChIJ83aXqgm1RIYRpzkWp2Xrjsk",
             "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
             "searchString": "restaurants in All (Cities) All (State), United States",
             "language": "en",
             "rank": 2,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweof7ditOvNwywolBhbfPp7qjyAPnQoOwIlmTKlxhxhl-u5LJJGADK7wh7yw7benRVgC6zoIYbd3yPm1VxI9-nMRonDnzT3_UNoWRcYD9FXzl9L_g4-Bzz3O7BWzHbw1oHshqoIq=w408-h265-k-no",
-            "kgmid": "/g/11bxdybtq6"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweohSawNtl_XrhuRFxPmP9szZ44lObCM2kQJt1F4R1-kYJo07CBQUMNWE8ReMqfZatDnz9xRAb2FUVFK4mihKwss246wWKoVjccsH1qN6X20OYFRPYm58dEiiXwaW4DXvEkNHuxI=w408-h300-k-no",
+            "kgmid": "/g/11b7hynp8y"
         },
         {
-            "title": "Lazy Bear",
-            "description": "The revered pop-up gets a permanent setting with this midcentury space serving New American cuisine.",
+            "title": "Salty Sow",
+            "description": "Braised, poached & stewed dishes, plus cocktails & craft brews, are served in a laid-back setting.",
             "price": null,
-            "categoryName": "New American restaurant",
-            "address": "3416 19th St, San Francisco, CA 94110",
-            "neighborhood": "Mission District",
-            "street": "3416 19th St",
-            "city": "San Francisco",
-            "postalCode": "94110",
-            "state": "California",
+            "categoryName": "American restaurant",
+            "address": "1917 Manor Rd, Austin, TX 78722",
+            "neighborhood": "East Austin",
+            "street": "1917 Manor Rd",
+            "city": "Austin",
+            "postalCode": "78722",
+            "state": "Texas",
             "countryCode": "US",
-            "website": "http://www.lazybearsf.com/",
-            "phone": "(415) 874-9921",
-            "phoneUnformatted": "+14158749921",
+            "website": "http://www.saltysow.com/",
+            "phone": "(512) 391-2337",
+            "phoneUnformatted": "+15123912337",
             "claimThisBusiness": false,
             "location": {
-                "lat": 37.7604119,
-                "lng": -122.4197156
+                "lat": 30.2838279,
+                "lng": -97.7212317
             },
-            "totalScore": 4.7,
+            "totalScore": 4.6,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJk35bizx-j4AREil6UPp7Jn4",
+            "placeId": "ChIJ61i-aZO1RIYRKgxgoJHJc28",
             "categories": [
-                "New American restaurant",
-                "Fine dining restaurant",
-                "Restaurant"
+                "American restaurant"
             ],
-            "fid": "0x808f7e3c8b5b7e93:0x7e267bfa507a2912",
-            "cid": "9090089212916148498",
+            "fid": "0x8644b59369be58eb:0x6f73c991a0600c2a",
+            "cid": "8030984187829816362",
             "reviewsCount": null,
-            "imagesCount": 6750,
+            "imagesCount": 6648,
             "imageCategories": [],
-            "scrapedAt": "2026-02-19T11:20:06.728Z",
+            "scrapedAt": "2026-02-19T11:24:59.623Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Thursday",
-                    "hours": "5 to 10\u202fPM"
+                    "hours": "4:30 to 9\u202fPM"
                 }
             ],
+            "additionalOpeningHours": {
+                "Happy hours": [
+                    {
+                        "day": "Thursday",
+                        "hours": "4:30\u20136:30\u202fPM"
+                    }
+                ]
+            },
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
@@ -208,67 +232,76 @@
                         "Wheelchair accessible entrance": true
                     },
                     {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
                         "Wheelchair accessible restroom": true
                     },
                     {
                         "Wheelchair accessible seating": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": false
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Lazy%20Bear&query_place_id=ChIJk35bizx-j4AREil6UPp7Jn4",
+            "url": "https://www.google.com/maps/search/?api=1&query=Salty%20Sow&query_place_id=ChIJ61i-aZO1RIYRKgxgoJHJc28",
             "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
             "searchString": "restaurants in All (Cities) All (State), United States",
             "language": "en",
             "rank": 3,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwersRNy10nGL-d7jULQyIlMQaaVJkUMa-gJNC18_UfBMOPykEGdI9TO5e-CYgyBfg-aVBSE-ruhnZLj1LzoAa3rcubXYQOOnHaNjwR3hOqBgC-MpIkS4Td-hclrwY3Spbbll-dGD=w408-h306-k-no",
-            "kgmid": "/g/11b63f5_6r"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweomwWazCUh-YmQ1dTauFwqT-sSNxiCjybmbR64x9FvmgCnX8TaSKyGTtrTI_Tt0tla8e0LqxR9tJjGJUIzy1zWPzDtx4-AKOpHc8gYCcPrZ7Y-sfAETyAW1W1CM25UEFc_RmWzTeA=w408-h306-k-no",
+            "kgmid": "/g/11h12jb_n"
         },
         {
-            "title": "ROOFTOP 25",
-            "description": "Dim lighting sets the mood at this trendy spot with exposed-wood beams & creative American cuisine.",
+            "title": "Odd Duck",
+            "description": "Upscale eatery doling out locally sourced New American chow & drinks in a contemporary setting.",
             "price": null,
             "categoryName": "New American restaurant",
-            "address": "25 Lusk St, San Francisco, CA 94107",
-            "neighborhood": "China Basin",
-            "street": "25 Lusk St",
-            "city": "San Francisco",
-            "postalCode": "94107",
-            "state": "California",
+            "address": "1201 S Lamar Blvd, Austin, TX 78704",
+            "neighborhood": "Zilker",
+            "street": "1201 S Lamar Blvd",
+            "city": "Austin",
+            "postalCode": "78704",
+            "state": "Texas",
             "countryCode": "US",
-            "website": "http://www.25lusk.com/",
-            "phone": "(415) 495-5875",
-            "phoneUnformatted": "+14154955875",
+            "website": "http://oddduckaustin.com/",
+            "phone": "(512) 433-6521",
+            "phoneUnformatted": "+15124336521",
             "claimThisBusiness": false,
             "location": {
-                "lat": 37.7784685,
-                "lng": -122.3943108
+                "lat": 30.254672,
+                "lng": -97.762051
             },
-            "totalScore": 4.3,
+            "totalScore": 4.7,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJAzkmQNZ_j4ARs6PNLtDYE_g",
+            "placeId": "ChIJi8__nx-1RIYR56djED9FLLE",
             "categories": [
-                "New American restaurant"
+                "New American restaurant",
+                "Restaurant"
             ],
-            "fid": "0x808f7fd640263903:0xf813d8d02ecda3b3",
-            "cid": "17875869734613656499",
+            "fid": "0x8644b51f9fffcf8b:0xb12c453f1063a7e7",
+            "cid": "12766655180848736231",
             "reviewsCount": null,
-            "imagesCount": 1015,
+            "imagesCount": 6274,
             "imageCategories": [],
-            "scrapedAt": "2026-02-19T11:20:06.728Z",
+            "scrapedAt": "2026-02-19T11:24:59.624Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Thursday",
-                    "hours": "3 to 9\u202fPM"
+                    "hours": "4:30 to 9:30\u202fPM"
                 }
             ],
+            "additionalOpeningHours": {
+                "Happy hours": [
+                    {
+                        "day": "Thursday",
+                        "hours": "4:30\u20135:30\u202fPM"
+                    }
+                ]
+            },
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
@@ -278,65 +311,66 @@
                         "Wheelchair accessible entrance": true
                     },
                     {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
                         "Wheelchair accessible restroom": true
                     },
                     {
                         "Wheelchair accessible seating": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": false
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=ROOFTOP%2025&query_place_id=ChIJAzkmQNZ_j4ARs6PNLtDYE_g",
+            "url": "https://www.google.com/maps/search/?api=1&query=Odd%20Duck&query_place_id=ChIJi8__nx-1RIYR56djED9FLLE",
             "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
             "searchString": "restaurants in All (Cities) All (State), United States",
             "language": "en",
             "rank": 4,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPRKydNzfLf0Cj6Hp9xiHeYOfcOJ9EBXa5qibEf=w408-h306-k-no",
-            "kgmid": "/g/1txy2l0t"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqOXboHlW8FpFndypV1BZeSKOd4jPAfzNYbWEBG75RNtncDnV2F7hC14DC5Aafx778CmiU20naXPHBoA0sAMEQekVSyvubN4mYh2lP2NBHJo66-2vJ1FQuIvcvj7vIqmxtNRyCRWg=w408-h306-k-no",
+            "kgmid": "/g/1ptxn2gnl"
         },
         {
-            "title": "Hazie's",
+            "title": "Gus\u2019s World Famous Fried Chicken",
+            "description": "Long-running chain serving spicy fried chicken & comfort sides in a low-key setting.",
             "price": null,
-            "categoryName": "Restaurant",
-            "address": "501 Hayes St, San Francisco, CA 94102",
-            "neighborhood": "Hayes Valley",
-            "street": "501 Hayes St",
-            "city": "San Francisco",
-            "postalCode": "94102",
-            "state": "California",
+            "categoryName": "Chicken restaurant",
+            "address": "117 San Jacinto Blvd, Austin, TX 78701",
+            "neighborhood": "Downtown Austin",
+            "street": "117 San Jacinto Blvd",
+            "city": "Austin",
+            "postalCode": "78701",
+            "state": "Texas",
             "countryCode": "US",
-            "website": "https://www.haziessf.com/",
-            "phone": "(415) 678-5156",
-            "phoneUnformatted": "+14156785156",
+            "website": "http://gusfriedchicken.com/austin-texas-location/",
+            "phone": "(512) 474-4877",
+            "phoneUnformatted": "+15124744877",
             "claimThisBusiness": false,
             "location": {
-                "lat": 37.7765501,
-                "lng": -122.4247769
+                "lat": 30.2634799,
+                "lng": -97.741745
             },
-            "totalScore": 4.3,
+            "totalScore": 4.5,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJn-6m802BhYARruM4u0h9-Bc",
+            "placeId": "ChIJz50W9ge1RIYR_zs2KnEZIbs",
             "categories": [
-                "Restaurant",
-                "New American restaurant"
+                "Chicken restaurant",
+                "Restaurant"
             ],
-            "fid": "0x8085814df3a6ee9f:0x17f87d48bb38e3ae",
-            "cid": "1727268208428770222",
+            "fid": "0x8644b507f6169dcf:0xbb2119712a363bff",
+            "cid": "13484086733154171903",
             "reviewsCount": null,
-            "imagesCount": 482,
+            "imagesCount": 7318,
             "imageCategories": [],
-            "scrapedAt": "2026-02-19T11:20:06.729Z",
+            "scrapedAt": "2026-02-19T11:24:59.624Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Thursday",
-                    "hours": "11:30\u202fAM to 12\u202fAM"
+                    "hours": "11\u202fAM to 9\u202fPM"
                 }
             ],
             "peopleAlsoSearch": [],
@@ -348,6 +382,9 @@
                         "Wheelchair accessible entrance": true
                     },
                     {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
                         "Wheelchair accessible restroom": true
                     },
                     {
@@ -356,14 +393,14 @@
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Hazie's&query_place_id=ChIJn-6m802BhYARruM4u0h9-Bc",
+            "url": "https://www.google.com/maps/search/?api=1&query=Gus%E2%80%99s%20World%20Famous%20Fried%20Chicken&query_place_id=ChIJz50W9ge1RIYR_zs2KnEZIbs",
             "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
             "searchString": "restaurants in All (Cities) All (State), United States",
             "language": "en",
             "rank": 5,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq82anDa0V2PnS4QGJWb4wT9fjcZXVD4ybaXOLOsoN1nuKilfXnDgnqg2DJyV6z9FYV_SMEYuBP36Q7ihWsVaz_rVOEBADbY1FVzHvLlE850_37f6xj75juKia-sFNcEJKeznro1g=w408-h271-k-no",
-            "kgmid": "/g/11t349xlb3"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoHMDlAtguugEXEGuoSoSzZm4iTk79CIP1yFjQUH4hSki4pfMyvt8JxaBM-cJB4L5GvmQ8QnBcJIwHYgV57Pk2Ywgc__cDVeotzIzqotfftMkQXY-dXoNpJOpUP4mn4BUz5U8G6=w408-h306-k-no",
+            "kgmid": "/g/12hmlz7hl"
         }
     ]
 }
