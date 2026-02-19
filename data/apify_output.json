@@ -1,316 +1,132 @@
 {
-    "timestamp": "2026-02-19 15:48:34.515120",
+    "timestamp": "2026-02-19 16:20:41.270559",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "W3GBy92Z3z36kJb4o",
+    "run_id": "qaK6nzWiZDabMObTQ",
     "run_status": "SUCCEEDED",
-    "search_query": "restaurants in Sidney NY, United States",
+    "search_query": "restaurants in All (Cities) All (State), United States",
     "max_results_requested": 5,
     "records_retrieved": 5,
     "run_cost_usd": 0.0202,
-    "compute_units": 0.012395555555555555,
+    "compute_units": 0.04019111111111111,
     "low_balance_warning": false,
     "actor_output": [
         {
-            "title": "Club 55",
+            "title": "All Spice",
+            "description": "Inventive Indian fusion cuisine served in a charming converted house with vivid teal walls.",
             "price": null,
-            "categoryName": "Bar & grill",
-            "address": "55 Union St, Sidney, NY 13838",
-            "neighborhood": null,
-            "street": "55 Union St",
-            "city": "Sidney",
-            "postalCode": "13838",
-            "state": "New York",
+            "categoryName": "Fine dining restaurant",
+            "address": "1602 S El Camino Real, San Mateo, CA 94402",
+            "neighborhood": "Central San Mateo",
+            "street": "1602 S El Camino Real",
+            "city": "San Mateo",
+            "postalCode": "94402",
+            "state": "California",
             "countryCode": "US",
-            "website": "https://www.facebook.com/club55ofsidney",
-            "phone": "(607) 604-4033",
-            "phoneUnformatted": "+16076044033",
-            "claimThisBusiness": true,
-            "location": {
-                "lat": 42.307209,
-                "lng": -75.3933792
-            },
-            "totalScore": 4.7,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJmx_SSFyh24kRn67zZrqvfFA",
-            "categories": [
-                "Bar & grill"
-            ],
-            "fid": "0x89dba15c48d21f9b:0x507cafba66f3ae9f",
-            "cid": "5799703635272380063",
-            "reviewsCount": null,
-            "imagesCount": 38,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-19T10:48:24.980Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Thursday",
-                    "hours": "8\u202fAM to 8\u202fPM"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Club%2055&query_place_id=ChIJmx_SSFyh24kRn67zZrqvfFA",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20Sidney%20NY,%20United%20States?hl=en",
-            "searchString": "restaurants in Sidney NY, United States",
-            "language": "en",
-            "rank": 1,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepCnF8_4WqRSneyoCzFBtp4lhDO7GVQ_H00_gbLIl0BGo9l6xENBU5_yLg_OWZ3h4puEnRyZcdRj5rBdkB6hxgL7-r7HgCXujJIUnrc6trcYxIosx3KcZWKSbS8K00NWUVYOIT8dwtamr8=w408-h544-k-no",
-            "kgmid": "/g/11rxvs2n28"
-        },
-        {
-            "title": "Trackside Dining",
-            "price": null,
-            "categoryName": "Diner",
-            "address": "88 Main St, Sidney, NY 13838",
-            "neighborhood": null,
-            "street": "88 Main St",
-            "city": "Sidney",
-            "postalCode": "13838",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "https://www.facebook.com/TracksideDining/",
-            "phone": "(607) 563-3737",
-            "phoneUnformatted": "+16075633737",
-            "claimThisBusiness": true,
-            "location": {
-                "lat": 42.3141491,
-                "lng": -75.3909685
-            },
-            "totalScore": 4.2,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJNYODhNWj24kRAKBBtsaddrg",
-            "categories": [
-                "Diner",
-                "American restaurant",
-                "Breakfast restaurant",
-                "Restaurant"
-            ],
-            "fid": "0x89dba3d584838335:0xb8769dc6b641a000",
-            "cid": "13291984827017437184",
-            "reviewsCount": null,
-            "imagesCount": 70,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-19T10:48:24.981Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Thursday",
-                    "hours": "6\u202fAM to 8\u202fPM"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Trackside%20Dining&query_place_id=ChIJNYODhNWj24kRAKBBtsaddrg",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20Sidney%20NY,%20United%20States?hl=en",
-            "searchString": "restaurants in Sidney NY, United States",
-            "language": "en",
-            "rank": 2,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepffoei_MPAnTOPAYbj0G6cxV9DhbW6FSHwUjZw2qKHqr4A6v6fFZ1TqEbncoH-GwrbYEx96_iB-4Aci1Ii0z4cPlp8WZN6OmBK-Gvg2ibkPtv95secE5-keJiOgW0JrlGmZMjS=w408-h306-k-no",
-            "kgmid": "/g/1tctmsr_"
-        },
-        {
-            "title": "Okinawa",
-            "price": null,
-            "categoryName": "Japanese restaurant",
-            "address": "3 Main St, Sidney, NY 13838",
-            "neighborhood": null,
-            "street": "3 Main St",
-            "city": "Sidney",
-            "postalCode": "13838",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "http://www.okinawasidney.com/",
-            "phone": "(607) 561-9393",
-            "phoneUnformatted": "+16075619393",
+            "website": "http://www.allspicerestaurant.com/",
+            "phone": "(650) 627-4303",
+            "phoneUnformatted": "+16506274303",
             "claimThisBusiness": false,
             "location": {
-                "lat": 42.316055,
-                "lng": -75.392516
-            },
-            "totalScore": 4.7,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJCY0hH1Cj24kR8WMT-KFq2Qw",
-            "categories": [
-                "Japanese restaurant",
-                "Bubble tea store"
-            ],
-            "fid": "0x89dba3501f218d09:0xcd96aa1f81363f1",
-            "cid": "925888442285646833",
-            "reviewsCount": null,
-            "imagesCount": 76,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-19T10:48:24.981Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Thursday",
-                    "hours": "10:30\u202fAM to 8:30\u202fPM"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Okinawa&query_place_id=ChIJCY0hH1Cj24kR8WMT-KFq2Qw",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20Sidney%20NY,%20United%20States?hl=en",
-            "searchString": "restaurants in Sidney NY, United States",
-            "language": "en",
-            "rank": 3,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweovzhwzOgrP7YpgXnD9f427eC7pkTf7AGY2tsJB83wp5SIPx7nttfTEQXApPFxCLkx1QuOHW-O18w0jFkVvq1OlJrx5chy9B8eZ17XW4KKS36v8N40b0T28O6sLqDbUjUrcQ0HZKg=w408-h307-k-no",
-            "kgmid": "/g/11rdb5y_md"
-        },
-        {
-            "title": "La Patrona Restaurant & Bar",
-            "price": null,
-            "categoryName": "Restaurant",
-            "address": "64-66 Main St, Sidney, NY 13838",
-            "neighborhood": null,
-            "street": "64-66 Main St",
-            "city": "Sidney",
-            "postalCode": "13838",
-            "state": "New York",
-            "countryCode": "US",
-            "phone": "(607) 561-9055",
-            "phoneUnformatted": "+16075619055",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 42.3144912,
-                "lng": -75.3914375
-            },
-            "totalScore": 4,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJbw-obv-j24kRU9nfS_IsUSo",
-            "categories": [
-                "Restaurant"
-            ],
-            "fid": "0x89dba3ff6ea80f6f:0x2a512cf24bdfd953",
-            "cid": "3049267841873205587",
-            "reviewsCount": null,
-            "imagesCount": 21,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-19T10:48:24.982Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Thursday",
-                    "hours": "11\u202fAM to 9\u202fPM"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=La%20Patrona%20Restaurant%20%26%20Bar&query_place_id=ChIJbw-obv-j24kRU9nfS_IsUSo",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20Sidney%20NY,%20United%20States?hl=en",
-            "searchString": "restaurants in Sidney NY, United States",
-            "language": "en",
-            "rank": 4,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepEJvZMWw1ihd6wySDMy6H22hWwibjaAFGE7AjtBuUxY4WocQ0LtWkv6tfvFA3geZS-dHfxBJ17yP4a2ZPClGvznbj1TT2hLbiqiwofWV6Rq1A6XmPfBuqO5tTy637J-vjvgf20HkhFLMSf=w408-h306-k-no",
-            "kgmid": "/g/11mcx4f4ds"
-        },
-        {
-            "title": "Gavin\u2019s",
-            "price": null,
-            "categoryName": "Pizza restaurant",
-            "address": "12 Division St, Sidney, NY 13838",
-            "neighborhood": null,
-            "street": "12 Division St",
-            "city": "Sidney",
-            "postalCode": "13838",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "http://www.sidneyonline.com/pizza",
-            "phone": "(607) 563-2697",
-            "phoneUnformatted": "+16075632697",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 42.3146125,
-                "lng": -75.3923831
+                "lat": 37.5528778,
+                "lng": -122.3156444
             },
             "totalScore": 4.6,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJFQRzBmuj24kR9sBgV38x3B8",
+            "placeId": "ChIJc3R6j16ej4ARSX5Uq0eROqI",
             "categories": [
-                "Pizza restaurant",
-                "Delivery Restaurant"
+                "Fine dining restaurant",
+                "Californian restaurant",
+                "New American restaurant"
             ],
-            "fid": "0x89dba36b06730415:0x1fdc317f5760c0f6",
-            "cid": "2295764333048676598",
+            "fid": "0x808f9e5e8f7a7473:0xa23a9147ab547e49",
+            "cid": "11689815519796690505",
             "reviewsCount": null,
-            "imagesCount": 136,
+            "imagesCount": 1261,
             "imageCategories": [],
-            "scrapedAt": "2026-02-19T10:48:24.982Z",
+            "scrapedAt": "2026-02-19T11:20:06.726Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Thursday",
-                    "hours": "11\u202fAM to 9\u202fPM"
+                    "hours": "5:30 to 8\u202fPM"
                 }
             ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible seating": true
+                    },
+                    {
+                        "Wheelchair accessible entrance": false
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=All%20Spice&query_place_id=ChIJc3R6j16ej4ARSX5Uq0eROqI",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
+            "searchString": "restaurants in All (Cities) All (State), United States",
+            "language": "en",
+            "rank": 1,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep6nPD0qRntF0y4hmkL6hJy88PMzSDkgzEbAyHt4BCQnJ3bJdE4ltQcbEZg4sMw04nVLCZ56bQFQCcST_cxIaj6SoiCviAW0JftMOQ7XFV4KhE_tWzlS1a4Ed-9VpEKoyMwiK5G=w426-h240-k-no",
+            "kgmid": "/g/1td2mqrt"
+        },
+        {
+            "title": "Fogo de Ch\u00e3o Brazilian Steakhouse",
+            "description": "Upscale Brazilian chain for all-you-can-eat meat carved tableside plus an extensive salad bar.",
+            "price": null,
+            "categoryName": "Brazilian restaurant",
+            "address": "201 3rd St Suite 100, San Francisco, CA 94103",
+            "neighborhood": "SoMa",
+            "street": "201 3rd St Suite 100",
+            "city": "San Francisco",
+            "postalCode": "94103",
+            "state": "California",
+            "countryCode": "US",
+            "website": "https://fogodechao.com/location/san-francisco/",
+            "phone": "(415) 427-0004",
+            "phoneUnformatted": "+14154270004",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 37.7850918,
+                "lng": -122.4001373
+            },
+            "totalScore": 4.7,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJR0iloX2AhYARVm3_utxjhTI",
+            "categories": [
+                "Brazilian restaurant",
+                "Restaurant",
+                "Steak house"
+            ],
+            "fid": "0x8085807da1a54847:0x328563dcbaff6d56",
+            "cid": "3640425673480170838",
+            "reviewsCount": null,
+            "imagesCount": 4186,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-19T11:20:06.728Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Thursday",
+                    "hours": "11:30\u202fAM to 10\u202fPM"
+                }
+            ],
+            "additionalOpeningHours": {
+                "Brunch": [
+                    {
+                        "day": "Thursday",
+                        "hours": "Closed"
+                    }
+                ]
+            },
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
@@ -331,14 +147,223 @@
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Gavin%E2%80%99s&query_place_id=ChIJFQRzBmuj24kR9sBgV38x3B8",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20Sidney%20NY,%20United%20States?hl=en",
-            "searchString": "restaurants in Sidney NY, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Fogo%20de%20Ch%C3%A3o%20Brazilian%20Steakhouse&query_place_id=ChIJR0iloX2AhYARVm3_utxjhTI",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
+            "searchString": "restaurants in All (Cities) All (State), United States",
+            "language": "en",
+            "rank": 2,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweof7ditOvNwywolBhbfPp7qjyAPnQoOwIlmTKlxhxhl-u5LJJGADK7wh7yw7benRVgC6zoIYbd3yPm1VxI9-nMRonDnzT3_UNoWRcYD9FXzl9L_g4-Bzz3O7BWzHbw1oHshqoIq=w408-h265-k-no",
+            "kgmid": "/g/11bxdybtq6"
+        },
+        {
+            "title": "Lazy Bear",
+            "description": "The revered pop-up gets a permanent setting with this midcentury space serving New American cuisine.",
+            "price": null,
+            "categoryName": "New American restaurant",
+            "address": "3416 19th St, San Francisco, CA 94110",
+            "neighborhood": "Mission District",
+            "street": "3416 19th St",
+            "city": "San Francisco",
+            "postalCode": "94110",
+            "state": "California",
+            "countryCode": "US",
+            "website": "http://www.lazybearsf.com/",
+            "phone": "(415) 874-9921",
+            "phoneUnformatted": "+14158749921",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 37.7604119,
+                "lng": -122.4197156
+            },
+            "totalScore": 4.7,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJk35bizx-j4AREil6UPp7Jn4",
+            "categories": [
+                "New American restaurant",
+                "Fine dining restaurant",
+                "Restaurant"
+            ],
+            "fid": "0x808f7e3c8b5b7e93:0x7e267bfa507a2912",
+            "cid": "9090089212916148498",
+            "reviewsCount": null,
+            "imagesCount": 6750,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-19T11:20:06.728Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Thursday",
+                    "hours": "5 to 10\u202fPM"
+                }
+            ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    },
+                    {
+                        "Wheelchair accessible seating": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": false
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Lazy%20Bear&query_place_id=ChIJk35bizx-j4AREil6UPp7Jn4",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
+            "searchString": "restaurants in All (Cities) All (State), United States",
+            "language": "en",
+            "rank": 3,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwersRNy10nGL-d7jULQyIlMQaaVJkUMa-gJNC18_UfBMOPykEGdI9TO5e-CYgyBfg-aVBSE-ruhnZLj1LzoAa3rcubXYQOOnHaNjwR3hOqBgC-MpIkS4Td-hclrwY3Spbbll-dGD=w408-h306-k-no",
+            "kgmid": "/g/11b63f5_6r"
+        },
+        {
+            "title": "ROOFTOP 25",
+            "description": "Dim lighting sets the mood at this trendy spot with exposed-wood beams & creative American cuisine.",
+            "price": null,
+            "categoryName": "New American restaurant",
+            "address": "25 Lusk St, San Francisco, CA 94107",
+            "neighborhood": "China Basin",
+            "street": "25 Lusk St",
+            "city": "San Francisco",
+            "postalCode": "94107",
+            "state": "California",
+            "countryCode": "US",
+            "website": "http://www.25lusk.com/",
+            "phone": "(415) 495-5875",
+            "phoneUnformatted": "+14154955875",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 37.7784685,
+                "lng": -122.3943108
+            },
+            "totalScore": 4.3,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJAzkmQNZ_j4ARs6PNLtDYE_g",
+            "categories": [
+                "New American restaurant"
+            ],
+            "fid": "0x808f7fd640263903:0xf813d8d02ecda3b3",
+            "cid": "17875869734613656499",
+            "reviewsCount": null,
+            "imagesCount": 1015,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-19T11:20:06.728Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Thursday",
+                    "hours": "3 to 9\u202fPM"
+                }
+            ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    },
+                    {
+                        "Wheelchair accessible seating": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": false
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=ROOFTOP%2025&query_place_id=ChIJAzkmQNZ_j4ARs6PNLtDYE_g",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
+            "searchString": "restaurants in All (Cities) All (State), United States",
+            "language": "en",
+            "rank": 4,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPRKydNzfLf0Cj6Hp9xiHeYOfcOJ9EBXa5qibEf=w408-h306-k-no",
+            "kgmid": "/g/1txy2l0t"
+        },
+        {
+            "title": "Hazie's",
+            "price": null,
+            "categoryName": "Restaurant",
+            "address": "501 Hayes St, San Francisco, CA 94102",
+            "neighborhood": "Hayes Valley",
+            "street": "501 Hayes St",
+            "city": "San Francisco",
+            "postalCode": "94102",
+            "state": "California",
+            "countryCode": "US",
+            "website": "https://www.haziessf.com/",
+            "phone": "(415) 678-5156",
+            "phoneUnformatted": "+14156785156",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 37.7765501,
+                "lng": -122.4247769
+            },
+            "totalScore": 4.3,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJn-6m802BhYARruM4u0h9-Bc",
+            "categories": [
+                "Restaurant",
+                "New American restaurant"
+            ],
+            "fid": "0x8085814df3a6ee9f:0x17f87d48bb38e3ae",
+            "cid": "1727268208428770222",
+            "reviewsCount": null,
+            "imagesCount": 482,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-19T11:20:06.729Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Thursday",
+                    "hours": "11:30\u202fAM to 12\u202fAM"
+                }
+            ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    },
+                    {
+                        "Wheelchair accessible seating": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Hazie's&query_place_id=ChIJn-6m802BhYARruM4u0h9-Bc",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
+            "searchString": "restaurants in All (Cities) All (State), United States",
             "language": "en",
             "rank": 5,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqDHh7g6eJwmmFNZDn6bKFOnnPP0DnQ5eMlnzluhaAofpj9z2iEnbloktqab1h0O3Hz1H_lGlCcARfIuzc9cDPVQbY9srRfcGW6DasD3CCDboigwIYlVupy6-HdBA_YL47RGOdoaw=w408-h725-k-no",
-            "kgmid": "/g/11gwgz8_qk"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq82anDa0V2PnS4QGJWb4wT9fjcZXVD4ybaXOLOsoN1nuKilfXnDgnqg2DJyV6z9FYV_SMEYuBP36Q7ihWsVaz_rVOEBADbY1FVzHvLlE850_37f6xj75juKia-sFNcEJKeznro1g=w408-h271-k-no",
+            "kgmid": "/g/11t349xlb3"
         }
     ]
 }
