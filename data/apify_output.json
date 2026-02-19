@@ -1,55 +1,125 @@
 {
-    "timestamp": "2026-02-18 14:01:14.692522",
+    "timestamp": "2026-02-19 12:51:56.540915",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "RNx89DvaFh82NdH5Y",
+    "run_id": "5uXgpfA3J48jbDa0z",
     "run_status": "SUCCEEDED",
-    "search_query": "restaurants in New York",
+    "search_query": "restaurant,Seattle",
     "max_results_requested": 5,
     "records_retrieved": 5,
     "run_cost_usd": 0.0202,
-    "compute_units": 0.012665555555555555,
+    "compute_units": 0.021566666666666668,
     "low_balance_warning": false,
     "actor_output": [
         {
-            "title": "Jiang Nan NYC",
-            "description": "Contemporary takes on Chinese classics artfully presented in a chic, streamlined space.",
+            "title": "The Pink Door",
+            "description": "Italian restaurant with cabaret shows and trapeze entertainment, plus terrace with Elliott Bay views.",
             "price": null,
-            "categoryName": "Chinese restaurant",
-            "address": "103 Bowery, New York, NY 10002",
-            "neighborhood": "Manhattan",
-            "street": "103 Bowery",
-            "city": "New York",
-            "postalCode": "10002",
-            "state": "New York",
+            "categoryName": "Italian restaurant",
+            "address": "1919 Post Alley, Seattle, WA 98101",
+            "neighborhood": "Seattle Waterfront",
+            "street": "1919 Post Alley",
+            "city": "Seattle",
+            "postalCode": "98101",
+            "state": "Washington",
             "countryCode": "US",
-            "website": "https://jiangnanny.com/",
-            "phone": "(212) 775-8998",
-            "phoneUnformatted": "+12127758998",
+            "website": "https://www.thepinkdoor.net/",
+            "phone": "(206) 443-3241",
+            "phoneUnformatted": "+12064433241",
             "claimThisBusiness": false,
             "location": {
-                "lat": 40.7175581,
-                "lng": -73.9949693
+                "lat": 47.6103652,
+                "lng": -122.3425604
             },
-            "totalScore": 4.8,
+            "totalScore": 4.6,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJg0ZHaSRZwokRHymWtw9gKJk",
+            "placeId": "ChIJ91YOzrJqkFQRKmSW0B1qrbo",
             "categories": [
-                "Chinese restaurant",
-                "Mandarin restaurant"
+                "Italian restaurant",
+                "Bar",
+                "European restaurant"
             ],
-            "fid": "0x89c2592469474683:0x9928600fb796291f",
-            "cid": "11036176507492247839",
+            "fid": "0x54906ab2ce0e56f7:0xbaad6a1dd096642a",
+            "cid": "13451524338311652394",
             "reviewsCount": null,
-            "imagesCount": 2793,
+            "imagesCount": 16220,
             "imageCategories": [],
-            "scrapedAt": "2026-02-18T09:01:07.172Z",
+            "scrapedAt": "2026-02-19T07:51:48.037Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Wednesday",
-                    "hours": "11:30\u202fAM to 9:30\u202fPM"
+                    "hours": "11:30\u202fAM to 10\u202fPM"
+                }
+            ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": false
+                    },
+                    {
+                        "Wheelchair accessible parking lot": false
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=The%20Pink%20Door&query_place_id=ChIJ91YOzrJqkFQRKmSW0B1qrbo",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurant,Seattle?hl=en",
+            "searchString": "restaurant,Seattle",
+            "language": "en",
+            "rank": 1,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweowsNtJsLX1R3wk2vpX9XaNziGzq7tYy9_8PwUCB9wm3zot38fd18dJqwQH9NZS2h8NHGYJ1kaxL4DWyBtBxALN0vqumESC4MCHqvH8nSHqW1QKIypcbpQHHo5AuvnByZOmB372=w408-h306-k-no",
+            "kgmid": "/m/021jbrg"
+        },
+        {
+            "title": "Canlis",
+            "description": "Landmark fine-dining destination (since 1950s) offering Pacific NW fare in a midcentury-modern home.",
+            "price": null,
+            "categoryName": "Pacific Northwest restaurant (US)",
+            "address": "2576 Aurora Ave N, Seattle, WA 98109",
+            "neighborhood": "Queen Anne",
+            "street": "2576 Aurora Ave N",
+            "city": "Seattle",
+            "postalCode": "98109",
+            "state": "Washington",
+            "countryCode": "US",
+            "website": "https://canlis.com/",
+            "phone": "(206) 283-3313",
+            "phoneUnformatted": "+12062833313",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 47.6430933,
+                "lng": -122.3467535
+            },
+            "totalScore": 4.6,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJRXCfNwUVkFQRxraD8U-dANE",
+            "categories": [
+                "Pacific Northwest restaurant (US)",
+                "American restaurant",
+                "Bar",
+                "Fine dining restaurant",
+                "New American restaurant",
+                "Restaurant"
+            ],
+            "fid": "0x54901505379f7045:0xd1009d4ff183b6c6",
+            "cid": "15060210120606856902",
+            "reviewsCount": null,
+            "imagesCount": 6576,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-19T07:51:48.037Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Wednesday",
+                    "hours": "5 to 10\u202fPM"
                 }
             ],
             "peopleAlsoSearch": [],
@@ -61,97 +131,203 @@
                         "Wheelchair accessible entrance": true
                     },
                     {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
                         "Wheelchair accessible restroom": true
                     },
                     {
                         "Wheelchair accessible seating": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": false
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Jiang%20Nan%20NYC&query_place_id=ChIJg0ZHaSRZwokRHymWtw9gKJk",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20New%20York?hl=en",
-            "searchString": "restaurants in New York",
+            "url": "https://www.google.com/maps/search/?api=1&query=Canlis&query_place_id=ChIJRXCfNwUVkFQRxraD8U-dANE",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurant,Seattle?hl=en",
+            "searchString": "restaurant,Seattle",
             "language": "en",
-            "rank": 1,
+            "rank": 2,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweohtuofwR9Ays4-Y8qZo6g5QBEfIzMBbQZPNkH14Tosv082vL323INL2ycQH2G_wSjmGz4kk8tV2orXlM1--2bj4N3WpNeXGFsH6XDAbPU3mKezgs5yocTEKzCrHZ2eJcJXZZKitw=w408-h306-k-no",
-            "kgmid": "/g/11t1mwp0dc"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer25QgNUQF83ydtvx96NUH6rU3RePVf5zZxnQci0jXPWRqk7BKBGFWsk1knWRURHp0ylS-sb9--q31KpW-CfqhRqZ_JdRvLddD0AzQ4uE0MSS2cFA8cDnyFc5CmcCfk13w8LbDFhQ=w408-h307-k-no",
+            "kgmid": "/m/0t52yd9"
         },
         {
-            "title": "Buona Notte",
-            "description": "Cozy Little Italy mainstay featuring pasta, fish & old-world ambiance, plus a back garden patio.",
+            "title": "Seattle Rooftop Next Level Lounge by Fogo De Ch\u00e3o",
             "price": null,
-            "categoryName": "Italian restaurant",
-            "address": "120 Mulberry St #2, New York, NY 10013",
-            "neighborhood": "Manhattan",
-            "street": "120 Mulberry St #2",
-            "city": "New York",
-            "postalCode": "10013",
-            "state": "New York",
+            "categoryName": "Steak house",
+            "address": "400 University St Rooftop, Seattle, WA 98101",
+            "neighborhood": "Central Business District",
+            "street": "400 University St Rooftop",
+            "city": "Seattle",
+            "postalCode": "98101",
+            "state": "Washington",
             "countryCode": "US",
-            "website": "http://buonanotte-nyc.com/",
-            "phone": "(212) 965-1111",
-            "phoneUnformatted": "+12129651111",
+            "website": "https://fogodechao.com/location/seattle-rooftop/",
+            "phone": "(206) 970-0028",
+            "phoneUnformatted": "+12069700028",
             "claimThisBusiness": false,
             "location": {
-                "lat": 40.7177496,
-                "lng": -73.9979524
+                "lat": 47.6084115,
+                "lng": -122.3347433
             },
-            "totalScore": 4.5,
+            "totalScore": 4.7,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJH-8y1IlZwokREcBhtiE4sZA",
+            "placeId": "ChIJt0eaMThrkFQRDLLMicShGng",
             "categories": [
-                "Italian restaurant",
-                "Cocktail bar"
+                "Steak house",
+                "Restaurant"
             ],
-            "fid": "0x89c25989d432ef1f:0x90b13821b661c011",
-            "cid": "10426176329784344593",
+            "fid": "0x54906b38319a47b7:0x781aa1c489ccb20c",
+            "cid": "8654407499443384844",
             "reviewsCount": null,
-            "imagesCount": 1414,
+            "imagesCount": 139,
             "imageCategories": [],
-            "scrapedAt": "2026-02-18T09:01:07.173Z",
+            "scrapedAt": "2026-02-19T07:51:48.037Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Wednesday",
-                    "hours": "12 to 10\u202fPM"
+                    "hours": "4 to 10\u202fPM"
+                }
+            ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Seattle%20Rooftop%20Next%20Level%20Lounge%20by%20Fogo%20De%20Ch%C3%A3o&query_place_id=ChIJt0eaMThrkFQRDLLMicShGng",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurant,Seattle?hl=en",
+            "searchString": "restaurant,Seattle",
+            "language": "en",
+            "rank": 3,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepz63Uu3eRNoyTWMYnO-fDwM4K5d9kqGQ6_hZpIJtde_KeuZSSzOvKpcqI1SPsyRxNfw7b-L-ofS0yXSBEqvazpejNqS87VTC800YH8ZTO76YoB-xWchXKTM3trTTke-h8dg5J7qeDbPNMF=w451-h240-k-no",
+            "kgmid": "/g/11ypd1605p"
+        },
+        {
+            "title": "Six Seven Restaurant",
+            "description": "Local seafood leads the seasonal menus at this New American spot with views in the Edgewater Hotel.",
+            "price": null,
+            "categoryName": "Pacific Northwest restaurant (US)",
+            "address": "2411 Alaskan Wy Pier 67, Seattle, WA 98121",
+            "neighborhood": "Seattle Waterfront",
+            "street": "2411 Alaskan Wy Pier 67",
+            "city": "Seattle",
+            "postalCode": "98121",
+            "state": "Washington",
+            "countryCode": "US",
+            "website": "http://www.edgewaterhotel.com/seattle-six-seven-restaurant/?utm_source=gmb-restaurant&utm_medium=organic&utm_campaign=gmb",
+            "phone": "(206) 269-4575",
+            "phoneUnformatted": "+12062694575",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 47.612361,
+                "lng": -122.3522391
+            },
+            "totalScore": 4.5,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJhdZMaVIVkFQRi8VtUoNN7Qo",
+            "categories": [
+                "Pacific Northwest restaurant (US)",
+                "Restaurant",
+                "Seafood restaurant"
+            ],
+            "fid": "0x54901552694cd685:0xaed4d83526dc58b",
+            "cid": "787370736278685067",
+            "reviewsCount": null,
+            "imagesCount": 2650,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-19T07:51:48.038Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Wednesday",
+                    "hours": "7\u202fAM to 2\u202fPM, 5:30 to 9:30\u202fPM"
+                }
+            ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    },
+                    {
+                        "Wheelchair accessible seating": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Six%20Seven%20Restaurant&query_place_id=ChIJhdZMaVIVkFQRi8VtUoNN7Qo",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurant,Seattle?hl=en",
+            "searchString": "restaurant,Seattle",
+            "language": "en",
+            "rank": 4,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqCniQKX8tOMTVPaO1K_TYP8E4kWJlnlA6jU6BDRdUOXFQ-QDtA1oemCT6CpuTKq24UoPLORmcrI-_3iHP4iNpOrCwydpZbP8Y2-icFSl-MLyKxSyR-8anhCbx2RewjvxwHAXxT3w=w533-h240-k-no",
+            "kgmid": "/g/1tf2xhg3"
+        },
+        {
+            "title": "Toulouse Petit Kitchen & Lounge",
+            "description": "Hip Cajun-Creole spot with a cozy, New Orleans\u2013influenced dining room and optional fixed-price menus.",
+            "price": null,
+            "categoryName": "American restaurant",
+            "address": "601 Queen Anne Ave N, Seattle, WA 98109",
+            "neighborhood": "Queen Anne",
+            "street": "601 Queen Anne Ave N",
+            "city": "Seattle",
+            "postalCode": "98109",
+            "state": "Washington",
+            "countryCode": "US",
+            "website": "https://www.toulousepetit.com/",
+            "phone": "(206) 432-9069",
+            "phoneUnformatted": "+12064329069",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 47.6247613,
+                "lng": -122.3569488
+            },
+            "totalScore": 4.4,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJ_UHsyUMVkFQRucL7Hw-w7UE",
+            "categories": [
+                "American restaurant",
+                "Brunch restaurant",
+                "Cocktail bar",
+                "Fine dining restaurant",
+                "French steakhouse restaurant",
+                "Seafood restaurant"
+            ],
+            "fid": "0x54901543c9ec41fd:0x41edb00f1ffbc2b9",
+            "cid": "4750646760953332409",
+            "reviewsCount": null,
+            "imagesCount": 12861,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-19T07:51:48.038Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Wednesday",
+                    "hours": "10\u202fAM to 3\u202fPM, 3:30 to 11\u202fPM"
                 }
             ],
             "additionalOpeningHours": {
                 "Happy hours": [
                     {
                         "day": "Wednesday",
-                        "hours": "5\u20137\u202fPM"
-                    }
-                ],
-                "Delivery": [
-                    {
-                        "day": "Wednesday",
-                        "hours": "12\u20139:30\u202fPM"
-                    }
-                ],
-                "Kitchen": [
-                    {
-                        "day": "Wednesday",
-                        "hours": "11\u202fAM\u201310\u202fPM"
-                    }
-                ],
-                "Dinner": [
-                    {
-                        "day": "Wednesday",
-                        "hours": "4\u201310\u202fPM"
-                    }
-                ],
-                "Lunch": [
-                    {
-                        "day": "Wednesday",
-                        "hours": "Closed"
+                        "hours": "3:30\u20136\u202fPM"
                     }
                 ]
             },
@@ -168,84 +344,6 @@
                     },
                     {
                         "Wheelchair accessible seating": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Buona%20Notte&query_place_id=ChIJH-8y1IlZwokREcBhtiE4sZA",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20New%20York?hl=en",
-            "searchString": "restaurants in New York",
-            "language": "en",
-            "rank": 2,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNdTPmoQh5dojMHa8VGckcmMI6u_ZLcQxBtZAGl=w426-h240-k-no",
-            "kgmid": "/g/1vhlz2zr"
-        },
-        {
-            "title": "Osteria Barocca",
-            "price": null,
-            "categoryName": "Italian restaurant",
-            "address": "133 Mulberry St, New York, NY 10013",
-            "neighborhood": "Manhattan",
-            "street": "133 Mulberry St",
-            "city": "New York",
-            "postalCode": "10013",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "https://www.ob-ny.com/",
-            "phone": "(212) 951-1323",
-            "phoneUnformatted": "+12129511323",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 40.7186467,
-                "lng": -73.9979241
-            },
-            "totalScore": 4.6,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJK0YQvsRZwokR9r2ubFZRd7E",
-            "categories": [
-                "Italian restaurant",
-                "Ligurian restaurant",
-                "Lombardian restaurant",
-                "Neapolitan restaurant",
-                "Northern Italian restaurant",
-                "Piedmontese restaurant",
-                "Roman restaurant",
-                "Sicilian restaurant",
-                "Southern Italian restaurant",
-                "Tuscan restaurant"
-            ],
-            "fid": "0x89c259c4be10462b:0xb17751566caebdf6",
-            "cid": "12787779098574241270",
-            "reviewsCount": null,
-            "imagesCount": 1695,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-18T09:01:07.173Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Wednesday",
-                    "hours": "11\u202fAM to 10\u202fPM"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
-                        "Assistive hearing loop": true
-                    },
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
                     },
                     {
                         "Wheelchair accessible parking lot": false
@@ -253,137 +351,14 @@
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Osteria%20Barocca&query_place_id=ChIJK0YQvsRZwokR9r2ubFZRd7E",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20New%20York?hl=en",
-            "searchString": "restaurants in New York",
-            "language": "en",
-            "rank": 3,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerjl-GvSF-cT40BMs-G0i0LE2wUUCCAcBAgE1-1hQEuG3ah9xJgI3cyI30i04SgxAqdghMG2XrwdqKmrwmIG3VtNMgytzEomJsG0UhlK95Tf0ETMf0My1Rr6DWluq66Z9FPscNF=w408-h544-k-no",
-            "kgmid": "/g/11kj896nq7"
-        },
-        {
-            "title": "Jose Luis Little Italy",
-            "price": null,
-            "categoryName": "Italian restaurant",
-            "address": "115 Mulberry St, New York, NY 10013",
-            "neighborhood": "Manhattan",
-            "street": "115 Mulberry St",
-            "city": "New York",
-            "postalCode": "10013",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "http://joseluislittleitaly.com/",
-            "phone": "(917) 261-7732",
-            "phoneUnformatted": "+19172617732",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 40.7176916,
-                "lng": -73.9984062
-            },
-            "totalScore": 4.6,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJS9QpAwpbwokRZY7OxTdAbQk",
-            "categories": [
-                "Italian restaurant"
-            ],
-            "fid": "0x89c25b0a0329d44b:0x96d4037c5ce8e65",
-            "cid": "679269727088840293",
-            "reviewsCount": null,
-            "imagesCount": 541,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-18T09:01:07.174Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Wednesday",
-                    "hours": "12 to 10\u202fPM"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": false
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Jose%20Luis%20Little%20Italy&query_place_id=ChIJS9QpAwpbwokRZY7OxTdAbQk",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20New%20York?hl=en",
-            "searchString": "restaurants in New York",
-            "language": "en",
-            "rank": 4,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoCkFhqzV_FuVslqSPhPUyzKklxMDBsdwT2YoRq6Zuw8xkr0qcDIFPbSAcIWtVur5ruhxOXsic2sA9TBPtUbPFVK2HP4ql963fK6mWxf3UdN00yVoFBf5NVaG_fhA9kt3MNbDVF=w506-h240-k-no",
-            "kgmid": "/g/11sfsfgxn4"
-        },
-        {
-            "title": "Cheong Fun Cart",
-            "price": null,
-            "categoryName": "Chinese restaurant",
-            "address": "159 Hester St, New York, NY 10013",
-            "neighborhood": "Manhattan",
-            "street": "159 Hester St",
-            "city": "New York",
-            "postalCode": "10013",
-            "state": "New York",
-            "countryCode": "US",
-            "claimThisBusiness": true,
-            "location": {
-                "lat": 40.7176885,
-                "lng": -73.9962285
-            },
-            "totalScore": 4.6,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJO5vUIYhZwokRhgBPxu526DI",
-            "categories": [
-                "Chinese restaurant"
-            ],
-            "fid": "0x89c2598821d49b3b:0x32e876eec64f0086",
-            "cid": "3668312664394629254",
-            "reviewsCount": null,
-            "imagesCount": 297,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-18T09:01:07.174Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Wednesday",
-                    "hours": "7\u202fAM to 12\u202fPM"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible parking lot": false
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Cheong%20Fun%20Cart&query_place_id=ChIJO5vUIYhZwokRhgBPxu526DI",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20New%20York?hl=en",
-            "searchString": "restaurants in New York",
+            "url": "https://www.google.com/maps/search/?api=1&query=Toulouse%20Petit%20Kitchen%20%26%20Lounge&query_place_id=ChIJ_UHsyUMVkFQRucL7Hw-w7UE",
+            "searchPageUrl": "https://www.google.com/maps/search/restaurant,Seattle?hl=en",
+            "searchString": "restaurant,Seattle",
             "language": "en",
             "rank": 5,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerunYNlImwu9g8ClxbIy3xhM5cQCauPEBws180nABLbBTB7nCGoY-tFQeL-8uMRDtcOzZYCaFlsPc8BKJAJ5B0WhodTBaxkNg8FumzpmB-wMcgtz-3-TkNVQoTMgRUMufq0FknX=w408-h305-k-no",
-            "kgmid": "/g/11cjpcd1gm"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqvAwpA4G5vV83WvSLNYe8nzWknJKUoyhaXn_uwX1iiEy3XcIbrx8SRj6VVQ-T0ZbL_ZY73r9_a_m_oIWKkXgP1TsCCdCqbk3h6ND49jp18fUYwWVWp00tLcALwlxlcIRjzhkPv=w408-h306-k-no",
+            "kgmid": "/g/1vc_q1dc"
         }
     ]
 }
