@@ -1,159 +1,52 @@
 {
-    "timestamp": "2026-02-24 00:06:55.712828",
+    "timestamp": "2026-02-25 02:47:58.472342",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "JbjtwrZ5pCpuPH945",
+    "run_id": "ejkPMN8S21mpGp9mr",
     "run_status": "SUCCEEDED",
-    "search_query": "Eye Clinics in Raalte All (State), All (Country)",
+    "search_query": "cenimas in New York New York, United States",
     "max_results_requested": 5,
-    "records_retrieved": 3,
+    "records_retrieved": 5,
     "run_cost_usd": 0.0002,
-    "compute_units": 0.006767777777777778,
+    "compute_units": 0.02903,
     "low_balance_warning": false,
     "actor_output": [
         {
-            "title": "Byers Eye Institute in Portola Valley",
+            "title": "AMC Empire 25",
+            "description": "Cinema complex just off Times Square showing mainstream, independent and IMAX films on 25 screens.",
             "price": null,
-            "categoryName": "Medical clinic",
-            "address": "3240 Alpine Rd, Portola Valley, CA 94028",
-            "neighborhood": null,
-            "street": "3240 Alpine Rd",
-            "city": "Portola Valley",
-            "postalCode": "94028",
-            "state": "California",
+            "categoryName": "Movie theater",
+            "address": "234 W 42nd St, New York, NY 10036",
+            "neighborhood": "Manhattan",
+            "street": "234 W 42nd St",
+            "city": "New York",
+            "postalCode": "10036",
+            "state": "New York",
             "countryCode": "US",
-            "website": "https://stanfordhealthcare.org/medical-clinics/byers-eye-institute-portola-valley.html?cid=clinic%7Clocal%7CGoogle",
-            "phone": "(650) 723-6995",
-            "phoneUnformatted": "+16507236995",
+            "website": "https://www.amctheatres.com/movie-theatres/new-york-city/amc-empire-25?utm_medium=organic&utm_source=google&utm_campaign=local",
+            "phone": "(212) 398-2597",
+            "phoneUnformatted": "+12123982597",
             "claimThisBusiness": false,
             "location": {
-                "lat": 37.3990861,
-                "lng": -122.1929547
+                "lat": 40.756737,
+                "lng": -73.9890036
             },
-            "totalScore": 5,
+            "totalScore": 4.1,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJe6S7FpOlj4ARsQ99_P8v4-c",
+            "placeId": "ChIJx91_pVRYwokRYVwnnXb6Lfw",
             "categories": [
-                "Medical clinic"
+                "Movie theater",
+                "IMAX theater"
             ],
-            "fid": "0x808fa59316bba47b:0xe7e32ffffc7d0fb1",
-            "cid": "16709251818973892529",
-            "reviewsCount": 2,
-            "imagesCount": 1,
+            "fid": "0x89c25854a57fddc7:0xfc2dfa769d275c61",
+            "cid": "18171455458859506785",
+            "reviewsCount": 12032,
+            "imagesCount": 7750,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T08:06:55.315Z",
+            "scrapedAt": "2026-02-24T21:47:49.943Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Restroom": true
-                    }
-                ],
-                "Planning": [
-                    {
-                        "Appointments recommended": true
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Byers%20Eye%20Institute%20in%20Portola%20Valley&query_place_id=ChIJe6S7FpOlj4ARsQ99_P8v4-c",
-            "searchPageUrl": "https://www.google.com/maps/search/Eye%20Clinics%20in%20Raalte%20All%20(State),%20All%20(Country)?hl=en",
-            "searchString": "Eye Clinics in Raalte All (State), All (Country)",
-            "language": "en",
-            "rank": 1,
-            "isAdvertisement": false,
-            "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Hjusw1fgKrz-CKD7azPlUA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=257.24106&pitch=0&thumbfov=100",
-            "kgmid": "/g/11vq2zdwzb"
-        },
-        {
-            "title": "Byers Eye Institute",
-            "price": null,
-            "categoryName": "Medical clinic",
-            "address": "2452 Watson Ct, Palo Alto, CA 94303",
-            "neighborhood": null,
-            "street": "2452 Watson Ct",
-            "city": "Palo Alto",
-            "postalCode": "94303",
-            "state": "California",
-            "countryCode": "US",
-            "website": "https://stanfordhealthcare.org/medical-clinics/byers-eye-institute.html?cid=clinic%7Clocal%7CGoogle",
-            "phone": "(650) 723-6995",
-            "phoneUnformatted": "+16507236995",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 37.4484607,
-                "lng": -122.1205821
-            },
-            "totalScore": 3.4,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJaeFkA6G7j4AR2NjPrWf9Ew0",
-            "categories": [
-                "Medical clinic",
-                "Ophthalmologist"
-            ],
-            "fid": "0x808fbba10364e169:0xd13fd67adcfd8d8",
-            "cid": "942375368790104280",
-            "reviewsCount": 168,
-            "imagesCount": 46,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T08:06:55.316Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Monday",
-                    "hours": "8\u202fAM to 5\u202fPM"
-                },
-                {
-                    "day": "Tuesday",
-                    "hours": "8\u202fAM to 5\u202fPM"
-                },
-                {
-                    "day": "Wednesday",
-                    "hours": "8\u202fAM to 5\u202fPM"
-                },
-                {
-                    "day": "Thursday",
-                    "hours": "8\u202fAM to 5\u202fPM"
-                },
-                {
-                    "day": "Friday",
-                    "hours": "8\u202fAM to 5\u202fPM"
-                },
-                {
-                    "day": "Saturday",
-                    "hours": "Closed"
-                },
-                {
-                    "day": "Sunday",
-                    "hours": "Closed"
-                }
-            ],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
@@ -163,6 +56,375 @@
                         "Onsite services": true
                     }
                 ],
+                "Highlights": [
+                    {
+                        "3D movies": true
+                    },
+                    {
+                        "Active military discounts": true
+                    }
+                ],
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    },
+                    {
+                        "Wheelchair accessible seating": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": false
+                    }
+                ],
+                "Offerings": [
+                    {
+                        "Arcade games": true
+                    },
+                    {
+                        "Food": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Restroom": true
+                    },
+                    {
+                        "Stadium seating": true
+                    },
+                    {
+                        "Restaurant": false
+                    }
+                ],
+                "Crowd": [
+                    {
+                        "Family-friendly": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
+                    },
+                    {
+                        "Credit cards": true
+                    }
+                ],
+                "Children": [
+                    {
+                        "Good for kids": true
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Paid parking lot": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Empire%2025&query_place_id=ChIJx91_pVRYwokRYVwnnXb6Lfw",
+            "searchPageUrl": "https://www.google.com/maps/search/cenimas%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "cenimas in New York New York, United States",
+            "language": "en",
+            "rank": 1,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer8rrAxSdflzOsBva_YANMIvRoiS5rlDCH7dGh2DhpFJ27EKBeHeCg5CpeKVmQNP64U-i5AIXNWXdedOb14ilkp31mk25M4xHSTyyUOgRg6TW3i_livoKq35l0dUd1CHH_kCQM=w408-h306-k-no",
+            "kgmid": "/m/0k3fn9r"
+        },
+        {
+            "title": "Regal Times Square",
+            "description": "Theater complex with multiple screens featuring new release films, plush seating & concession stand.",
+            "price": null,
+            "categoryName": "Movie theater",
+            "address": "247 W 42nd St, New York, NY 10036",
+            "neighborhood": "Manhattan",
+            "street": "247 W 42nd St",
+            "city": "New York",
+            "postalCode": "10036",
+            "state": "New York",
+            "countryCode": "US",
+            "website": "https://www.regmovies.com/theatres/regal-times-square-1929?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+            "phone": "(844) 462-7342",
+            "phoneUnformatted": "+18444627342",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 40.7572685,
+                "lng": -73.9889833
+            },
+            "totalScore": 4.4,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJewnjXlNYwokRs9FNC2nzYBI",
+            "categories": [
+                "Movie theater"
+            ],
+            "fid": "0x89c258535ee3097b:0x1260f3690b4dd1b3",
+            "cid": "1324325922933690803",
+            "reviewsCount": 4982,
+            "imagesCount": 3605,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T21:47:49.943Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Service options": [
+                    {
+                        "Onsite services": true
+                    }
+                ],
+                "Highlights": [
+                    {
+                        "3D movies": true
+                    }
+                ],
+                "Accessibility": [
+                    {
+                        "Assisted listening devices": true
+                    },
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    },
+                    {
+                        "Wheelchair accessible seating": true
+                    }
+                ],
+                "Offerings": [
+                    {
+                        "Food": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Restroom": true
+                    },
+                    {
+                        "Stadium seating": true
+                    },
+                    {
+                        "Restaurant": false
+                    }
+                ],
+                "Crowd": [
+                    {
+                        "Family-friendly": true
+                    },
+                    {
+                        "LGBTQ+ friendly": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
+                    }
+                ],
+                "Children": [
+                    {
+                        "Good for kids": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Times%20Square&query_place_id=ChIJewnjXlNYwokRs9FNC2nzYBI",
+            "searchPageUrl": "https://www.google.com/maps/search/cenimas%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "cenimas in New York New York, United States",
+            "language": "en",
+            "rank": 2,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqNRFvMC_NdsTchPWCbU38GXX8YDuGnarFrdvdKv8_CKilYU8qKtDCHzA38lnE18y0bE16tnERftz5QUj7yEvw0eyTKDCO9lska7YoVGcHtE6BEc_dRXJMUGv5INcggPms2zQU=w408-h306-k-no",
+            "kgmid": "/g/1232p4390"
+        },
+        {
+            "title": "AMC 34th Street 14",
+            "price": null,
+            "categoryName": "Movie theater",
+            "address": "312 W 34th St., New York, NY 10001",
+            "neighborhood": "Manhattan",
+            "street": "312 W 34th St.",
+            "city": "New York",
+            "postalCode": "10001",
+            "state": "New York",
+            "countryCode": "US",
+            "website": "https://www.amctheatres.com/movie-theatres/new-york-city/amc-34th-street-14?utm_medium=organic&utm_source=google&utm_campaign=local",
+            "phone": "(212) 244-4556",
+            "phoneUnformatted": "+12122444556",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 40.7523745,
+                "lng": -73.9946707
+            },
+            "totalScore": 4.2,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJd0z48K1ZwokR38rt39Sh3Hc",
+            "categories": [
+                "Movie theater",
+                "IMAX theater"
+            ],
+            "fid": "0x89c259adf0f84c77:0x77dca1d4dfedcadf",
+            "cid": "8636956121051810527",
+            "reviewsCount": 8553,
+            "imagesCount": 4085,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T21:47:49.944Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Service options": [
+                    {
+                        "Onsite services": true
+                    }
+                ],
+                "Highlights": [
+                    {
+                        "3D movies": true
+                    },
+                    {
+                        "Active military discounts": true
+                    }
+                ],
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    },
+                    {
+                        "Wheelchair accessible seating": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": false
+                    }
+                ],
+                "Offerings": [
+                    {
+                        "Food": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Restroom": true
+                    },
+                    {
+                        "Stadium seating": true
+                    },
+                    {
+                        "Restaurant": false
+                    }
+                ],
+                "Crowd": [
+                    {
+                        "Family-friendly": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
+                    }
+                ],
+                "Children": [
+                    {
+                        "Good for kids": true
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Paid street parking": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=AMC%2034th%20Street%2014&query_place_id=ChIJd0z48K1ZwokR38rt39Sh3Hc",
+            "searchPageUrl": "https://www.google.com/maps/search/cenimas%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "cenimas in New York New York, United States",
+            "language": "en",
+            "rank": 3,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepmtnHVuR5OvRwJ3aAOqhHs_G_b20l8264iFoIwfdfgYzSEFfhmqvIaVe9MJ2uFvvsmulgzX1dnnSUG43AWhWC1oVVL1t09Yi5ksRTuUKfRAZ88WylZQofM7pArw-n3qGWEW8lv=w408-h306-k-no",
+            "kgmid": "/g/1tfpkr41"
+        },
+        {
+            "title": "IPIC Theaters",
+            "description": "Upscale cinema chain with plush seating, gourmet light bites & cocktails, plus in-theater service.",
+            "price": "$$$",
+            "categoryName": "Movie theater",
+            "address": "11 Fulton St, New York, NY 10038",
+            "neighborhood": "Manhattan",
+            "street": "11 Fulton St",
+            "city": "New York",
+            "postalCode": "10038",
+            "state": "New York",
+            "countryCode": "US",
+            "website": "https://www.ipic.com/new-york-city-ny-fulton-market/location?utm_source=google&utm_medium=local_listings&utm_campaign=yext",
+            "phone": "(212) 776-8272",
+            "phoneUnformatted": "+12127768272",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 40.7067518,
+                "lng": -74.0034177
+            },
+            "totalScore": 4.3,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJ7epq4zxawokRVxavKHBR3Eg",
+            "categories": [
+                "Movie theater"
+            ],
+            "fid": "0x89c25a3ce36aeaed:0x48dc517028af1657",
+            "cid": "5250160807767905879",
+            "reviewsCount": 3739,
+            "imagesCount": 2354,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T21:47:49.944Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Service options": [
+                    {
+                        "Onsite services": true
+                    }
+                ],
+                "Highlights": [
+                    {
+                        "Live performances": true
+                    }
+                ],
                 "Accessibility": [
                     {
                         "Wheelchair accessible entrance": true
@@ -172,19 +434,27 @@
                     },
                     {
                         "Wheelchair accessible restroom": true
+                    },
+                    {
+                        "Wheelchair accessible seating": true
+                    }
+                ],
+                "Offerings": [
+                    {
+                        "Food": true
                     }
                 ],
                 "Amenities": [
                     {
+                        "Restaurant": true
+                    },
+                    {
                         "Restroom": true
                     }
                 ],
-                "Planning": [
+                "Crowd": [
                     {
-                        "Appointment required": true
-                    },
-                    {
-                        "Appointments recommended": true
+                        "Family-friendly": true
                     }
                 ],
                 "Payments": [
@@ -193,55 +463,68 @@
                     },
                     {
                         "Debit cards": true
-                    },
+                    }
+                ],
+                "Children": [
                     {
-                        "Credit cards": true
+                        "Good for kids": true
                     }
                 ],
                 "Parking": [
                     {
-                        "On-site parking": true
+                        "Free parking lot": true
+                    },
+                    {
+                        "Paid parking lot": true
+                    },
+                    {
+                        "Paid street parking": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Byers%20Eye%20Institute&query_place_id=ChIJaeFkA6G7j4AR2NjPrWf9Ew0",
-            "searchPageUrl": "https://www.google.com/maps/search/Eye%20Clinics%20in%20Raalte%20All%20(State),%20All%20(Country)?hl=en",
-            "searchString": "Eye Clinics in Raalte All (State), All (Country)",
+            "url": "https://www.google.com/maps/search/?api=1&query=IPIC%20Theaters&query_place_id=ChIJ7epq4zxawokRVxavKHBR3Eg",
+            "searchPageUrl": "https://www.google.com/maps/search/cenimas%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "cenimas in New York New York, United States",
             "language": "en",
-            "rank": 2,
+            "rank": 4,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepcWi0C2ex_J6YItFbcLJ47f8VATWM7VXk19r_yq6XSutU2oIv-LFTX7vU6HETgU860F8ACKhwyAAN0NXNbWuuH-yZ-MZXjjNmVv2gAV_2Ko7HS9wPpXRZaT_fYYxUfWkCQqBEd=w408-h306-k-no",
-            "kgmid": "/g/1v8j0p60"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqQ9H0scOhFk4Or3VZCLD_Eq6DMBaMdsVTSXFlWce8-0E-Av4ZX_7LetnJ5vIukp8oGF_tPAyRRk4GMxBW_n9N3dxJooZaGdy1MkgCq35PrsvB0k0aY4L2rSqoT5CsvkmI5JuNB=w408-h306-k-no",
+            "kgmid": "/g/11cs1_3f6w"
         },
         {
-            "title": "Family Eye Care",
+            "title": "Regal Union Square",
+            "description": "Theater complex with multiple screens featuring new release films, plush seating & concession stand.",
             "price": null,
-            "categoryName": "Optician",
-            "address": "Union City, CA 94587",
-            "neighborhood": null,
-            "street": null,
-            "city": "Union City",
-            "postalCode": null,
-            "state": "California",
+            "categoryName": "Movie theater",
+            "address": "850 Broadway, New York, NY 10003",
+            "neighborhood": "Manhattan",
+            "street": "850 Broadway",
+            "city": "New York",
+            "postalCode": "10003",
+            "state": "New York",
             "countryCode": "US",
-            "claimThisBusiness": true,
+            "website": "https://www.regmovies.com/theatres/regal-union-square-screenx-4dx-1320?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
+            "phone": "(844) 462-7342",
+            "phoneUnformatted": "+18444627342",
+            "claimThisBusiness": false,
             "location": {
-                "lat": 37.5900438,
-                "lng": -122.0303795
+                "lat": 40.73414,
+                "lng": -73.99075
             },
+            "totalScore": 4.2,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJ26h0hnuVj4AR21WYuEoKlj8",
+            "placeId": "ChIJsxIl55hZwokRY93bMihYAEQ",
             "categories": [
-                "Optician"
+                "Movie theater"
             ],
-            "fid": "0x808f957b8674a8db:0x3f960a4ab89855db",
-            "cid": "4581860986936907227",
-            "reviewsCount": null,
-            "imagesCount": 1,
+            "fid": "0x89c25998e72512b3:0x4400582832dbdd63",
+            "cid": "4900013324254305635",
+            "reviewsCount": 6335,
+            "imagesCount": 2974,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T08:06:55.316Z",
+            "scrapedAt": "2026-02-24T21:47:49.944Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [],
@@ -249,12 +532,55 @@
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
+                "Service options": [
+                    {
+                        "Onsite services": true
+                    }
+                ],
+                "Highlights": [
+                    {
+                        "3D movies": true
+                    }
+                ],
                 "Accessibility": [
+                    {
+                        "Assisted listening devices": true
+                    },
                     {
                         "Wheelchair accessible entrance": true
                     },
                     {
                         "Wheelchair accessible parking lot": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    },
+                    {
+                        "Wheelchair accessible seating": true
+                    }
+                ],
+                "Offerings": [
+                    {
+                        "Food": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Restroom": true
+                    },
+                    {
+                        "Stadium seating": true
+                    },
+                    {
+                        "Restaurant": false
+                    }
+                ],
+                "Crowd": [
+                    {
+                        "Family-friendly": true
+                    },
+                    {
+                        "LGBTQ+ friendly": true
                     }
                 ],
                 "Payments": [
@@ -263,18 +589,34 @@
                     },
                     {
                         "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
+                    }
+                ],
+                "Children": [
+                    {
+                        "Good for kids": true
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Free street parking": true
+                    },
+                    {
+                        "Paid street parking": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Family%20Eye%20Care&query_place_id=ChIJ26h0hnuVj4AR21WYuEoKlj8",
-            "searchPageUrl": "https://www.google.com/maps/search/Eye%20Clinics%20in%20Raalte%20All%20(State),%20All%20(Country)?hl=en",
-            "searchString": "Eye Clinics in Raalte All (State), All (Country)",
+            "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Union%20Square&query_place_id=ChIJsxIl55hZwokRY93bMihYAEQ",
+            "searchPageUrl": "https://www.google.com/maps/search/cenimas%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "cenimas in New York New York, United States",
             "language": "en",
-            "rank": 3,
+            "rank": 5,
             "isAdvertisement": false,
-            "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OAw18NgwznAJZ6IIfVCTJw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=102.76943&pitch=0&thumbfov=100",
-            "kgmid": "/g/11l65zrt0r"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwersqshGsC5SMEfJeAkFho12wF53DeZsuA7q9iAg9wuVwENoWw3UYY04RYrjzoEj1E-w5kibO-K1LnfL9_T_B5T_fSJweBj2C3Mfo5ood3ppWA_kfHHxo4ZAeqjrqVNO29Kfj3FAgg=w408-h306-k-no",
+            "kgmid": "/g/11b5m318t7"
         }
     ]
 }
