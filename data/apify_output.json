@@ -1,406 +1,338 @@
 {
-    "timestamp": "2026-02-19 16:25:09.599791",
+    "timestamp": "2026-02-23 22:54:45.909774",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "UWMix35VXPtkHjV9l",
+    "run_id": "334UuuaR408rla6C8",
     "run_status": "SUCCEEDED",
-    "search_query": "restaurants in All (Cities) All (State), United States",
+    "search_query": "Hotels in Seattle Washington, United States",
     "max_results_requested": 5,
     "records_retrieved": 5,
-    "run_cost_usd": 0.0002,
-    "compute_units": 0.013057777777777778,
+    "run_cost_usd": 0.0202,
+    "compute_units": 0.03763444444444444,
     "low_balance_warning": false,
     "actor_output": [
         {
-            "title": "Fogo De Chao - Austin",
-            "description": "Upscale Brazilian chain for all-you-can-eat meat carved tableside plus an extensive salad bar.",
-            "price": null,
-            "categoryName": "Brazilian restaurant",
-            "address": "200 Congress Ave., Austin, TX 78701",
-            "neighborhood": "Downtown Austin",
-            "street": "200 Congress Ave.",
-            "city": "Austin",
-            "postalCode": "78701",
-            "state": "Texas",
+            "title": "Hilton Motif Seattle",
+            "description": "Vibrant lodging offering sleek rooms & suites, plus a hip rooftop restaurant/bar & event space.",
+            "price": "$136",
+            "categoryName": "Hotel",
+            "address": "1415 5th Ave, Seattle, WA 98101",
+            "neighborhood": "Central Business District",
+            "street": "1415 5th Ave",
+            "city": "Seattle",
+            "postalCode": "98101",
+            "state": "Washington",
             "countryCode": "US",
-            "website": "https://fogodechao.com/location/austin/",
-            "phone": "(512) 472-0220",
-            "phoneUnformatted": "+15124720220",
+            "website": "https://www.hilton.com/en/hotels/seamfhh-hilton-motif-seattle/?SEO_id=GMB-AMER-HH-SEAMFHH&y_source=1_NzM3MDc1NzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phone": "(206) 971-8000",
+            "phoneUnformatted": "+12069718000",
             "claimThisBusiness": false,
             "location": {
-                "lat": 30.264824,
-                "lng": -97.744512
+                "lat": 47.610082,
+                "lng": -122.3355909
             },
-            "totalScore": 4.7,
+            "totalScore": 4.2,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJ7_1MCai1RIYRsFrrp7OT0zI",
+            "placeId": "ChIJjblmfrRqkFQR7YAY-CZIzgo",
             "categories": [
-                "Brazilian restaurant",
-                "Restaurant",
-                "Steak house"
+                "Hotel"
             ],
-            "fid": "0x8644b5a8094cfdef:0x32d393b3a7eb5ab0",
-            "cid": "3662433321807993520",
-            "reviewsCount": null,
-            "imagesCount": 3073,
+            "fid": "0x54906ab47e66b98d:0xace4826f81880ed",
+            "cid": "778639117789987053",
+            "reviewsCount": 3319,
+            "imagesCount": 3787,
             "imageCategories": [],
-            "scrapedAt": "2026-02-19T11:24:59.621Z",
+            "scrapedAt": "2026-02-24T06:54:28.506Z",
             "googleFoodUrl": null,
+            "hotelStars": "4-star hotel",
+            "hotelDescription": "A 4-minute walk from the Washington State Convention Center, this sleek, colorful hotel is a 10-minute walk from Pike Place Market and a 6-minute walk from the Seattle Art Museum.\n Offering water, mountain or city views, the polished, modern rooms include Keurig coffeemakers and minifridges, plus iPod docks, flat-screen TVs and free Wi-Fi. Suites add designer toiletries, microwaves, dining tables and/or living areas with pull-out sofas. Room service is available.\n A hip rooftop restaurant with a cocktail bar features a patio, fireplaces and shuffleboard. There\u2019s meeting and event space, and parking is available for a fee. Dogs are welcome.",
+            "checkInDate": "2026-02-26",
+            "checkOutDate": "2026-02-27",
             "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Thursday",
-                    "hours": "11\u202fAM to 10\u202fPM"
-                }
-            ],
-            "additionalOpeningHours": {
-                "Brunch": [
-                    {
-                        "day": "Thursday",
-                        "hours": "Closed"
-                    }
-                ]
-            },
+            "openingHours": [],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Accessibility": [
+                "Crowd": [
                     {
-                        "Wheelchair accessible entrance": true
-                    },
+                        "LGBTQ+ friendly": true
+                    }
+                ],
+                "Amenities": [
                     {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
+                        "Free Wi-Fi": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Fogo%20De%20Chao%20-%20Austin&query_place_id=ChIJ7_1MCai1RIYRsFrrp7OT0zI",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
-            "searchString": "restaurants in All (Cities) All (State), United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Hilton%20Motif%20Seattle&query_place_id=ChIJjblmfrRqkFQR7YAY-CZIzgo",
+            "searchPageUrl": "https://www.google.com/maps/search/Hotels%20in%20Seattle%20Washington,%20United%20States?hl=en",
+            "searchString": "Hotels in Seattle Washington, United States",
             "language": "en",
             "rank": 1,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqBgIX2AA1lAQZEtn6Zg-hB8Jc2mk5OEkhR6C4rEa_egTYZgvUlmJUZD73_bTcDFNZXlsBb-ZiaZc--X54beiZ4dtLI2j67VCCFAL8XZ9oWDm4Cs5SLEl9r9e7KjLH2TXd4OHAGRg=w408-h306-k-no",
-            "kgmid": "/g/1jky96nmg"
+            "imageUrl": "https://images.trvl-media.com/lodging/1000000/60000/51000/50947/a21bd17d_z.jpg",
+            "kgmid": "/g/1q64d83vs"
         },
         {
-            "title": "Lonesome Dove Austin",
-            "description": "Inventive, gamey fare such as rabbit-rattlesnake sausage in a space decked in taxidermied animals.",
-            "price": null,
-            "categoryName": "Restaurant",
-            "address": "123 W 6th St, Austin, TX 78701",
-            "neighborhood": "Downtown Austin",
-            "street": "123 W 6th St",
-            "city": "Austin",
-            "postalCode": "78701",
-            "state": "Texas",
+            "title": "Hotel Five - A Staypineapple Hotel",
+            "description": "Colorful hotel with bold artwork & a cafe, plus Wi-Fi, a fitness center & loaner bikes.",
+            "price": "$88",
+            "categoryName": "Hotel",
+            "address": "2200 5th Ave, Seattle, WA 98121",
+            "neighborhood": "Belltown",
+            "street": "2200 5th Ave",
+            "city": "Seattle",
+            "postalCode": "98121",
+            "state": "Washington",
             "countryCode": "US",
-            "website": "http://www.lonesomedoveaustin.com/",
-            "phone": "(512) 368-2821",
-            "phoneUnformatted": "+15123682821",
+            "website": "https://www.staypineapple.com/hotel-five-seattle-wa/?utm_source=google&utm_medium=organic&utm_campaign=GMB&utm_term=hf",
+            "phone": "(206) 441-9785",
+            "phoneUnformatted": "+12064419785",
             "claimThisBusiness": false,
             "location": {
-                "lat": 30.268263,
-                "lng": -97.7440193
+                "lat": 47.6158481,
+                "lng": -122.3419888
             },
-            "totalScore": 4.5,
+            "totalScore": 4.4,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJ83aXqgm1RIYRpzkWp2Xrjsk",
+            "placeId": "ChIJS4rz70sVkFQRZezmuyGXw8Y",
             "categories": [
-                "Restaurant"
+                "Hotel"
             ],
-            "fid": "0x8644b509aa9776f3:0xc98eeb65a71639a7",
-            "cid": "14523804670143904167",
-            "reviewsCount": null,
-            "imagesCount": 1066,
+            "fid": "0x5490154beff38a4b:0xc6c39721bbe6ec65",
+            "cid": "14322457411110497381",
+            "reviewsCount": 2039,
+            "imagesCount": 1795,
             "imageCategories": [],
-            "scrapedAt": "2026-02-19T11:24:59.623Z",
+            "scrapedAt": "2026-02-24T06:54:28.506Z",
             "googleFoodUrl": null,
+            "hotelStars": "3-star hotel",
+            "hotelDescription": "This funky hotel is a 12-minute walk from the Pacific Science Center, and 1.3 miles from Waterfront Park and the Seattle Aquarium.\n The colorful rooms have Wi-Fi, flat-screen TVs, work desks and coffeemakers, plus bathrooms with rainfall showerheads and Italian tile floors. Suites add living space with pull-out sofas. Room service is available.\n Free perks include an afternoon reception with coffee and snacks, and loaner bikes. The hotel also offers a cafe and dog-friendly goodies, plus a fitness center, a business center, event space and parking.",
+            "checkInDate": "2026-02-26",
+            "checkOutDate": "2026-02-27",
             "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Thursday",
-                    "hours": "4 to 10\u202fPM"
-                }
-            ],
-            "additionalOpeningHours": {
-                "Happy hours": [
-                    {
-                        "day": "Thursday",
-                        "hours": "4\u20136:30\u202fPM"
-                    }
-                ],
-                "Lunch": [
-                    {
-                        "day": "Thursday",
-                        "hours": "Closed"
-                    }
-                ]
-            },
+            "openingHours": [],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Accessibility": [
+                "Crowd": [
                     {
-                        "Wheelchair accessible entrance": true
-                    },
+                        "LGBTQ+ friendly": true
+                    }
+                ],
+                "Amenities": [
                     {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
+                        "Free Wi-Fi": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Lonesome%20Dove%20Austin&query_place_id=ChIJ83aXqgm1RIYRpzkWp2Xrjsk",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
-            "searchString": "restaurants in All (Cities) All (State), United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Five%20-%20A%20Staypineapple%20Hotel&query_place_id=ChIJS4rz70sVkFQRZezmuyGXw8Y",
+            "searchPageUrl": "https://www.google.com/maps/search/Hotels%20in%20Seattle%20Washington,%20United%20States?hl=en",
+            "searchString": "Hotels in Seattle Washington, United States",
             "language": "en",
             "rank": 2,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweohSawNtl_XrhuRFxPmP9szZ44lObCM2kQJt1F4R1-kYJo07CBQUMNWE8ReMqfZatDnz9xRAb2FUVFK4mihKwss246wWKoVjccsH1qN6X20OYFRPYm58dEiiXwaW4DXvEkNHuxI=w408-h300-k-no",
-            "kgmid": "/g/11b7hynp8y"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqttUuEwe6ct_0uGOWoO0AQDX_JpJzqV76EQ4XxY6IiYFVbEuWmHI5r2kGl_UtVenSPtxkkysw55ApwvlXPVhF_9wI0U11tTu-0dYG0xSmC3HvB5xNV9CfWK4CFDpQc6XDFrHPQ=w408-h272-k-no",
+            "kgmid": "/g/1tdzwdvn"
         },
         {
-            "title": "Salty Sow",
-            "description": "Braised, poached & stewed dishes, plus cocktails & craft brews, are served in a laid-back setting.",
-            "price": null,
-            "categoryName": "American restaurant",
-            "address": "1917 Manor Rd, Austin, TX 78722",
-            "neighborhood": "East Austin",
-            "street": "1917 Manor Rd",
-            "city": "Austin",
-            "postalCode": "78722",
-            "state": "Texas",
+            "title": "The State Hotel",
+            "description": "Chic, contemporary rooms in a swanky property with a restaurant/bar, a rooftop terrace & bay views.",
+            "price": "$152",
+            "categoryName": "Hotel",
+            "address": "1501 2nd Ave, Seattle, WA 98101",
+            "neighborhood": "Pike Pine Retail Core",
+            "street": "1501 2nd Ave",
+            "city": "Seattle",
+            "postalCode": "98101",
+            "state": "Washington",
             "countryCode": "US",
-            "website": "http://www.saltysow.com/",
-            "phone": "(512) 391-2337",
-            "phoneUnformatted": "+15123912337",
+            "website": "https://www.statehotel.com/",
+            "phone": "(800) 827-3900",
+            "phoneUnformatted": "+18008273900",
             "claimThisBusiness": false,
             "location": {
-                "lat": 30.2838279,
-                "lng": -97.7212317
+                "lat": 47.6093392,
+                "lng": -122.33929
             },
-            "totalScore": 4.6,
+            "totalScore": 4.4,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJ61i-aZO1RIYRKgxgoJHJc28",
+            "placeId": "ChIJB1XqBLNqkFQRJ8BCteQqDmo",
             "categories": [
-                "American restaurant"
+                "Hotel"
             ],
-            "fid": "0x8644b59369be58eb:0x6f73c991a0600c2a",
-            "cid": "8030984187829816362",
-            "reviewsCount": null,
-            "imagesCount": 6648,
+            "fid": "0x54906ab304ea5507:0x6a0e2ae4b542c027",
+            "cid": "7642092779476271143",
+            "reviewsCount": 620,
+            "imagesCount": 1654,
             "imageCategories": [],
-            "scrapedAt": "2026-02-19T11:24:59.623Z",
+            "scrapedAt": "2026-02-24T06:54:28.506Z",
             "googleFoodUrl": null,
+            "hotelStars": "4-star hotel",
+            "hotelDescription": "Set along a bustling commercial street, this stylish hotel in a 1904 building with a colorful mural offers views of Elliott Bay. It\u2019s a 2-minute walk from Pike Place Market, a 5-minute walk from Seattle Art Museum and 14 miles from Seattle-Tacoma International Airport.\n Decorated with local art, the chic, contemporary rooms come with flat-screen TVs, free Wi-Fi and desk areas; some feature bay views. Upgraded rooms add private rooftop terraces.\n Breakfast (surcharge) is served in a trendy restaurant/bar that has wood floors and high ceilings. There\u2019s also a hip lobby lounge and a rooftop terrace, plus gym and event space. Valet parking is available for a fee.",
+            "checkInDate": "2026-02-26",
+            "checkOutDate": "2026-02-27",
             "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Thursday",
-                    "hours": "4:30 to 9\u202fPM"
-                }
-            ],
-            "additionalOpeningHours": {
-                "Happy hours": [
-                    {
-                        "day": "Thursday",
-                        "hours": "4:30\u20136:30\u202fPM"
-                    }
-                ]
-            },
+            "openingHours": [],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Accessibility": [
+                "Crowd": [
                     {
-                        "Wheelchair accessible entrance": true
-                    },
+                        "LGBTQ+ friendly": true
+                    }
+                ],
+                "Amenities": [
                     {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
+                        "Free Wi-Fi": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Salty%20Sow&query_place_id=ChIJ61i-aZO1RIYRKgxgoJHJc28",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
-            "searchString": "restaurants in All (Cities) All (State), United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=The%20State%20Hotel&query_place_id=ChIJB1XqBLNqkFQRJ8BCteQqDmo",
+            "searchPageUrl": "https://www.google.com/maps/search/Hotels%20in%20Seattle%20Washington,%20United%20States?hl=en",
+            "searchString": "Hotels in Seattle Washington, United States",
             "language": "en",
             "rank": 3,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweomwWazCUh-YmQ1dTauFwqT-sSNxiCjybmbR64x9FvmgCnX8TaSKyGTtrTI_Tt0tla8e0LqxR9tJjGJUIzy1zWPzDtx4-AKOpHc8gYCcPrZ7Y-sfAETyAW1W1CM25UEFc_RmWzTeA=w408-h306-k-no",
-            "kgmid": "/g/11h12jb_n"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweor4dsOeZXsrQESVM4vbXEN0tzG2yw-zsRe_WKNaKJb7k-EuY4aj5Beusf9ddAV_pdkP1DTVHTK6AIwBACi-L8IS7FmlN3WA_JPnCLbaPTH2GJKxWr6s6ils4D7iyZRZeUn1Bb_TA=w408-h246-k-no",
+            "kgmid": "/g/11f3tsqnv0"
         },
         {
-            "title": "Odd Duck",
-            "description": "Upscale eatery doling out locally sourced New American chow & drinks in a contemporary setting.",
-            "price": null,
-            "categoryName": "New American restaurant",
-            "address": "1201 S Lamar Blvd, Austin, TX 78704",
-            "neighborhood": "Zilker",
-            "street": "1201 S Lamar Blvd",
-            "city": "Austin",
-            "postalCode": "78704",
-            "state": "Texas",
+            "title": "Hotel Max",
+            "description": "Chic hotel featuring work by local photographers, farm-to-table dining & a free craft beer hour.",
+            "price": "$108",
+            "categoryName": "Hotel",
+            "address": "620 Stewart St, Seattle, WA 98101",
+            "neighborhood": "Pike Pine Retail Core",
+            "street": "620 Stewart St",
+            "city": "Seattle",
+            "postalCode": "98101",
+            "state": "Washington",
             "countryCode": "US",
-            "website": "http://oddduckaustin.com/",
-            "phone": "(512) 433-6521",
-            "phoneUnformatted": "+15124336521",
+            "website": "https://www.hotelmaxseattle.com/hotel/welcome/",
+            "phone": "(206) 728-6299",
+            "phoneUnformatted": "+12067286299",
             "claimThisBusiness": false,
             "location": {
-                "lat": 30.254672,
-                "lng": -97.762051
+                "lat": 47.6142874,
+                "lng": -122.3367201
             },
-            "totalScore": 4.7,
+            "totalScore": 4.1,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJi8__nx-1RIYR56djED9FLLE",
+            "placeId": "ChIJ8cjQ4UoVkFQRQhCfij7UaJ8",
             "categories": [
-                "New American restaurant",
-                "Restaurant"
+                "Hotel",
+                "Resort hotel"
             ],
-            "fid": "0x8644b51f9fffcf8b:0xb12c453f1063a7e7",
-            "cid": "12766655180848736231",
-            "reviewsCount": null,
-            "imagesCount": 6274,
+            "fid": "0x5490154ae1d0c8f1:0x9f68d43e8a9f1042",
+            "cid": "11486664214687191106",
+            "reviewsCount": 1498,
+            "imagesCount": 1477,
             "imageCategories": [],
-            "scrapedAt": "2026-02-19T11:24:59.624Z",
+            "scrapedAt": "2026-02-24T06:54:28.506Z",
             "googleFoodUrl": null,
+            "hotelStars": "3-star hotel",
+            "hotelDescription": "This artsy downtown hotel is a 4-minute walk from the Westlake Center and a 5-minute walk from the Washington State Convention Center.\n The stylish rooms feature original paintings, Bluetooth clock radios and work desks, plus flat-screen TVs and free Wi-Fi. Room service is available.\n Complimentary amenities include loaner bikes and craft beer hours, as well as locally brewed coffee in the morning. Works by iconic local photographers adorn each floor, and there's a farm-to-table restaurant with a renowned grill. Additional amenities include a fitness center and event space, along with perks for pets.",
+            "checkInDate": "2026-02-26",
+            "checkOutDate": "2026-02-27",
             "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Thursday",
-                    "hours": "4:30 to 9:30\u202fPM"
-                }
-            ],
-            "additionalOpeningHours": {
-                "Happy hours": [
-                    {
-                        "day": "Thursday",
-                        "hours": "4:30\u20135:30\u202fPM"
-                    }
-                ]
-            },
+            "openingHours": [],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Accessibility": [
+                "Crowd": [
                     {
-                        "Wheelchair accessible entrance": true
-                    },
+                        "LGBTQ+ friendly": true
+                    }
+                ],
+                "Amenities": [
                     {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
+                        "Free Wi-Fi": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Odd%20Duck&query_place_id=ChIJi8__nx-1RIYR56djED9FLLE",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
-            "searchString": "restaurants in All (Cities) All (State), United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Max&query_place_id=ChIJ8cjQ4UoVkFQRQhCfij7UaJ8",
+            "searchPageUrl": "https://www.google.com/maps/search/Hotels%20in%20Seattle%20Washington,%20United%20States?hl=en",
+            "searchString": "Hotels in Seattle Washington, United States",
             "language": "en",
             "rank": 4,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqOXboHlW8FpFndypV1BZeSKOd4jPAfzNYbWEBG75RNtncDnV2F7hC14DC5Aafx778CmiU20naXPHBoA0sAMEQekVSyvubN4mYh2lP2NBHJo66-2vJ1FQuIvcvj7vIqmxtNRyCRWg=w408-h306-k-no",
-            "kgmid": "/g/1ptxn2gnl"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweokY8Sdb0HYD-v4lv4SDmolIp02IC6gkRF3YZ_OaUIz55_-clu_uX6CyJUez4UhAlwt9jXyobhz-iAcfNoyMd0Xz0jtdVBN7RJKTfq2viYIpnVclPgUavDkABmSnp6219H9NwYH=w408-h278-k-no",
+            "kgmid": "/g/1tmpdmsz"
         },
         {
-            "title": "Gus\u2019s World Famous Fried Chicken",
-            "description": "Long-running chain serving spicy fried chicken & comfort sides in a low-key setting.",
-            "price": null,
-            "categoryName": "Chicken restaurant",
-            "address": "117 San Jacinto Blvd, Austin, TX 78701",
-            "neighborhood": "Downtown Austin",
-            "street": "117 San Jacinto Blvd",
-            "city": "Austin",
-            "postalCode": "78701",
-            "state": "Texas",
+            "title": "Travelodge by Wyndham Seattle By The Space Needle",
+            "description": "Relaxed downtown lodging with a seasonal outdoor pool, plus free Wi-Fi & breakfast.",
+            "price": "$57",
+            "categoryName": "Hotel",
+            "address": "200 6th Ave N, Seattle, WA 98109",
+            "neighborhood": "South Lake Union",
+            "street": "200 6th Ave N",
+            "city": "Seattle",
+            "postalCode": "98109",
+            "state": "Washington",
             "countryCode": "US",
-            "website": "http://gusfriedchicken.com/austin-texas-location/",
-            "phone": "(512) 474-4877",
-            "phoneUnformatted": "+15124744877",
+            "website": "https://www.wyndhamhotels.com/travelodge/seattle-washington/travelodge-seattle-by-the-space-needle/overview?CID=LC:fkqqcjhla7b6gbb:7033&iata=00093796",
+            "phone": "(206) 962-8678",
+            "phoneUnformatted": "+12069628678",
             "claimThisBusiness": false,
             "location": {
-                "lat": 30.2634799,
-                "lng": -97.741745
+                "lat": 47.6204076,
+                "lng": -122.3446676
             },
-            "totalScore": 4.5,
+            "totalScore": 3.3,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJz50W9ge1RIYR_zs2KnEZIbs",
+            "placeId": "ChIJsV_ZiEgVkFQRo12lAAQUgGY",
             "categories": [
-                "Chicken restaurant",
-                "Restaurant"
+                "Hotel",
+                "Inn",
+                "Lodge",
+                "Motel"
             ],
-            "fid": "0x8644b507f6169dcf:0xbb2119712a363bff",
-            "cid": "13484086733154171903",
-            "reviewsCount": null,
-            "imagesCount": 7318,
+            "fid": "0x5490154888d95fb1:0x6680140400a55da3",
+            "cid": "7385925396310875555",
+            "reviewsCount": 1910,
+            "imagesCount": 1646,
             "imageCategories": [],
-            "scrapedAt": "2026-02-19T11:24:59.624Z",
+            "scrapedAt": "2026-02-24T06:54:28.507Z",
             "googleFoodUrl": null,
+            "hotelStars": "2-star hotel",
+            "hotelDescription": "This straightforward hotel is a 7-minute walk from the Space Needle and a mile from the Seattle Aquarium.\n The relaxed rooms have free Wi-Fi, desks and coffeemakers. Some rooms feature microwaves and minifridges. Kids age 17 and under stay free with an adult.\n Amenities include a free hot and cold breakfast buffet, a seasonal outdoor pool and a hot tub, as well as an exercise room. There\u2019s also a business center and parking (fee).",
+            "checkInDate": "2026-02-26",
+            "checkOutDate": "2026-02-27",
             "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Thursday",
-                    "hours": "11\u202fAM to 9\u202fPM"
-                }
-            ],
+            "openingHours": [],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Accessibility": [
+                "Amenities": [
                     {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
+                        "Free Wi-Fi": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Gus%E2%80%99s%20World%20Famous%20Fried%20Chicken&query_place_id=ChIJz50W9ge1RIYR_zs2KnEZIbs",
-            "searchPageUrl": "https://www.google.com/maps/search/restaurants%20in%20All%20(Cities)%20All%20(State),%20United%20States?hl=en",
-            "searchString": "restaurants in All (Cities) All (State), United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Travelodge%20by%20Wyndham%20Seattle%20By%20The%20Space%20Needle&query_place_id=ChIJsV_ZiEgVkFQRo12lAAQUgGY",
+            "searchPageUrl": "https://www.google.com/maps/search/Hotels%20in%20Seattle%20Washington,%20United%20States?hl=en",
+            "searchString": "Hotels in Seattle Washington, United States",
             "language": "en",
             "rank": 5,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoHMDlAtguugEXEGuoSoSzZm4iTk79CIP1yFjQUH4hSki4pfMyvt8JxaBM-cJB4L5GvmQ8QnBcJIwHYgV57Pk2Ywgc__cDVeotzIzqotfftMkQXY-dXoNpJOpUP4mn4BUz5U8G6=w408-h306-k-no",
-            "kgmid": "/g/12hmlz7hl"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqIQ90HB-oEsUPrv9qhEK95aluUhW4J8TJT57sQfdb9pRszkXz2snmoFy5agSCQM-0UmpsQLI2AcaCH9DULNy_nMOT0McAq6LXsUQIUa-aYmQJe0aZJp0nCDd_j90x_fxz_ZM18=w426-h240-k-no",
+            "kgmid": "/g/1vljg0hp"
         }
     ]
 }
