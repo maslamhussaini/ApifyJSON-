@@ -1,300 +1,379 @@
 {
-    "timestamp": "2026-02-25 03:07:20.528445",
+    "timestamp": "2026-02-25 03:16:21.558555",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "9jIkFtm6uBPeZKSAC",
+    "run_id": "CPOrgzEy5mVm2gwa0",
     "run_status": "SUCCEEDED",
-    "search_query": "resort1 in New York New York, United States",
+    "search_query": "Holy places in Islam in New York New York, United States",
     "max_results_requested": 5,
     "records_retrieved": 5,
-    "run_cost_usd": 0.0002,
-    "compute_units": 0.014015555555555555,
+    "run_cost_usd": 0.0202,
+    "compute_units": 0.023046666666666667,
     "low_balance_warning": false,
     "actor_output": [
         {
-            "title": "The Rockaway Hotel",
-            "price": "$228",
-            "categoryName": "Hotel",
-            "address": "108-10 Rockaway Beach Dr, Rockaway Park, NY 11694",
-            "neighborhood": "Rockaway Park",
-            "street": "108-10 Rockaway Beach Dr",
-            "city": "Rockaway Park",
-            "postalCode": "11694",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "https://www.therockawayhotel.com/",
-            "phone": "(718) 474-1216",
-            "phoneUnformatted": "+17184741216",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 40.5815002,
-                "lng": -73.8300876
-            },
-            "totalScore": 4.5,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJ0zQP565pwokRSFNSvVHx7vw",
-            "categories": [
-                "Hotel"
-            ],
-            "fid": "0x89c269aee70f34d3:0xfceef151bd525348",
-            "cid": "18225770075385910088",
-            "reviewsCount": 1306,
-            "imagesCount": 1716,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T22:07:10.288Z",
-            "googleFoodUrl": null,
-            "hotelStars": "4-star hotel",
-            "checkInDate": "2026-02-26",
-            "checkOutDate": "2026-02-27",
-            "hotelAds": [],
-            "openingHours": [],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Amenities": [
-                    {
-                        "Free Wi-Fi": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=The%20Rockaway%20Hotel&query_place_id=ChIJ0zQP565pwokRSFNSvVHx7vw",
-            "searchPageUrl": "https://www.google.com/maps/search/resort1%20in%20New%20York%20New%20York,%20United%20States?hl=en",
-            "searchString": "resort1 in New York New York, United States",
-            "language": "en",
-            "rank": 1,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOE2uKGPiEeLLADO9oZjmleLdWRVmOv74sxMK3y=w408-h306-k-no",
-            "kgmid": "/g/11j4tv273x"
-        },
-        {
-            "title": "The Manner",
-            "price": "$614",
-            "categoryName": "Resort hotel",
-            "address": "58 Thompson St, New York, NY 10012",
+            "title": "Islamic Society of Mid Manhattan",
+            "price": null,
+            "categoryName": "Mosque",
+            "address": "154 E 55th St, New York, NY 10022",
             "neighborhood": "Manhattan",
-            "street": "58 Thompson St",
-            "city": "New York",
-            "postalCode": "10012",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "https://www.hyatt.com/unbound-collection/en-US/lgapr-the-manner?src=corp_lclb_google_seo_lgapr&utm_source=google&utm_medium=organic&utm_campaign=lmr",
-            "phone": "(929) 526-3330",
-            "phoneUnformatted": "+19295263330",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 40.723944,
-                "lng": -74.0033097
-            },
-            "totalScore": 4.7,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJoQx_SPxZwokRL34SHZ4JHKY",
-            "categories": [
-                "Resort hotel"
-            ],
-            "fid": "0x89c259fc487f0ca1:0xa61c099e1d127e2f",
-            "cid": "11969452484341169711",
-            "reviewsCount": 189,
-            "imagesCount": 493,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T22:07:10.289Z",
-            "googleFoodUrl": null,
-            "hotelStars": "4-star hotel",
-            "checkInDate": "2026-02-26",
-            "checkOutDate": "2026-02-27",
-            "hotelAds": [],
-            "openingHours": [],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Amenities": [
-                    {
-                        "Free Wi-Fi": true
-                    },
-                    {
-                        "Free breakfast": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=The%20Manner&query_place_id=ChIJoQx_SPxZwokRL34SHZ4JHKY",
-            "searchPageUrl": "https://www.google.com/maps/search/resort1%20in%20New%20York%20New%20York,%20United%20States?hl=en",
-            "searchString": "resort1 in New York New York, United States",
-            "language": "en",
-            "rank": 2,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOIlb-i1UCoU5ZdCxzgSnySQ2guUDV5Rzm8QSeF=w408-h307-k-no",
-            "kgmid": "/g/11w3rd5vm8"
-        },
-        {
-            "title": "Aman New York",
-            "description": "Upscale hotel offering Japanese & Italian restaurants, plus a jazz club, a bar & a spa.",
-            "price": "$2,600",
-            "categoryName": "Hotel",
-            "address": "730 5th Ave, New York, NY 10019",
-            "neighborhood": "Manhattan",
-            "street": "730 5th Ave",
-            "city": "New York",
-            "postalCode": "10019",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "https://www.aman.com/hotels/aman-new-york?utm_source=Google&utm_medium=Yext&y_source=1_MTU5MjMxNjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-            "phone": "(212) 970-2626",
-            "phoneUnformatted": "+12129702626",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 40.7629802,
-                "lng": -73.9746883
-            },
-            "locatedIn": "Aman Spa New York",
-            "totalScore": 4.4,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJM-uWC9VZwokRMm_7bwjHFBg",
-            "categories": [
-                "Hotel",
-                "Condominium complex",
-                "Spa"
-            ],
-            "fid": "0x89c259d50b96eb33:0x1814c7086ffb6f32",
-            "cid": "1735230595496898354",
-            "reviewsCount": 323,
-            "imagesCount": 1002,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T22:07:10.289Z",
-            "googleFoodUrl": null,
-            "hotelStars": "5-star hotel",
-            "hotelDescription": "Set in the 1920s Crown Building, this refined hotel is a 5-minute walk from Central Park and a 10-minute walk from the Rockefeller Center. It's a 4-minute walk from the 57th Street subway station.\n Plush suites offer sitting areas, fireplaces and free-standing tubs, plus butler service. Upgraded suites add separate living areas.\n There are upscale Italian, Japanese and open-air eateries, as well as a lounge bar and a jazz club. Other amenities include a fitness center, an indoor pool and a spa. Breakfast and an area shuttle are available.",
-            "checkInDate": "2026-02-26",
-            "checkOutDate": "2026-02-27",
-            "hotelAds": [],
-            "openingHours": [],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Amenities": [
-                    {
-                        "Free Wi-Fi": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Aman%20New%20York&query_place_id=ChIJM-uWC9VZwokRMm_7bwjHFBg",
-            "searchPageUrl": "https://www.google.com/maps/search/resort1%20in%20New%20York%20New%20York,%20United%20States?hl=en",
-            "searchString": "resort1 in New York New York, United States",
-            "language": "en",
-            "rank": 3,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMVFMbj3u68OWztPuEon-29JQ8AGjzRPus-xepU=w408-h306-k-no",
-            "kgmid": "/g/11f62dpxyl"
-        },
-        {
-            "title": "The Manhattan at Times Square Hotel",
-            "description": "Polished hotel offering streamlined rooms & suites, plus a marble-clad lobby lounge & a gym.",
-            "price": "$112",
-            "categoryName": "Hotel",
-            "address": "790 7th Ave, New York, NY 10019",
-            "neighborhood": "Manhattan",
-            "street": "790 7th Ave",
-            "city": "New York",
-            "postalCode": "10019",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "https://www.ihg.com/spnd/hotels/us/en/new-york/nycat/hoteldetail",
-            "phone": "(212) 581-3300",
-            "phoneUnformatted": "+12125813300",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 40.7622856,
-                "lng": -73.9826404
-            },
-            "totalScore": 3,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJw_JUgvhYwokRIgBAxZdF4eA",
-            "categories": [
-                "Hotel"
-            ],
-            "fid": "0x89c258f88254f2c3:0xe0e14597c5400022",
-            "cid": "16204309452407439394",
-            "reviewsCount": 9842,
-            "imagesCount": 13232,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T22:07:10.289Z",
-            "googleFoodUrl": null,
-            "hotelStars": "4-star hotel",
-            "hotelDescription": "Built in 1962, this polished Midtown hotel with art-deco accents is 2 blocks from Radio City Music Hall, 5 blocks from Times Square and 8 blocks from Central Park.\n The sleek rooms have Wi-Fi (surcharge), flat-screen TVs and coffeemakers, plus work desks with ergonomic chairs. Studios add living areas and private outdoor space, while 1-bedroom suites offer dining areas and extra bathrooms.\n Amenities include a business center and a 24-hour gym. Breakfast is available in a marble lobby lounge.",
-            "checkInDate": "2026-02-26",
-            "checkOutDate": "2026-02-27",
-            "hotelAds": [],
-            "openingHours": [],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Crowd": [
-                    {
-                        "LGBTQ+ friendly": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Free Wi-Fi": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=The%20Manhattan%20at%20Times%20Square%20Hotel&query_place_id=ChIJw_JUgvhYwokRIgBAxZdF4eA",
-            "searchPageUrl": "https://www.google.com/maps/search/resort1%20in%20New%20York%20New%20York,%20United%20States?hl=en",
-            "searchString": "resort1 in New York New York, United States",
-            "language": "en",
-            "rank": 4,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMJ6x8g-LjWyqw4TWO-NNbVeBsaFY6Rb5NgR4mF=w408-h522-k-no",
-            "kgmid": "/g/1hhg_3mgs"
-        },
-        {
-            "title": "Waldorf Astoria New York",
-            "description": "Luxe 1931 art deco landmark featuring refined quarters, a renowned spa & high-end dining.",
-            "price": "$1,016",
-            "categoryName": "Hotel",
-            "address": "301 Park Ave, New York, NY 10022",
-            "neighborhood": "Manhattan",
-            "street": "301 Park Ave",
+            "street": "154 E 55th St",
             "city": "New York",
             "postalCode": "10022",
             "state": "New York",
             "countryCode": "US",
-            "website": "https://www.waldorfastorianewyork.com/?SEO_id=GMB-AMER-WA-NYCWAWA&y_source=1_MjA4MzU3MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
-            "phone": "(212) 355-3000",
-            "phoneUnformatted": "+12123553000",
-            "claimThisBusiness": false,
+            "website": "https://www.facebook.com/ismmnyc/",
+            "phone": "(212) 888-7838",
+            "phoneUnformatted": "+12128887838",
+            "claimThisBusiness": true,
             "location": {
-                "lat": 40.7564821,
-                "lng": -73.9734562
+                "lat": 40.7590786,
+                "lng": -73.9692446
             },
-            "totalScore": 4.3,
+            "totalScore": 4.9,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJTzi6VfxYwokRDtjrgLbTvH4",
+            "placeId": "ChIJI0nKk-RYwokRJYHko9AjvH4",
             "categories": [
-                "Hotel"
+                "Mosque",
+                "Religious organization"
             ],
-            "fid": "0x89c258fc55ba384f:0x7ebcd3b680ebd80e",
-            "cid": "9132406925200971790",
-            "reviewsCount": 1923,
-            "imagesCount": 5359,
+            "fid": "0x89c258e493ca4923:0x7ebc23d0a3e48125",
+            "cid": "9132213523410354469",
+            "reviewsCount": 419,
+            "imagesCount": 119,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T22:07:10.289Z",
+            "scrapedAt": "2026-02-24T22:16:07.843Z",
             "googleFoodUrl": null,
-            "hotelStars": "5-star hotel",
-            "hotelDescription": "A 2-minute walk from the 51 St. subway station, this upscale art deco hotel is a 10-minute walk from the Museum of Modern Art.\n Featuring flat-screen TVs, the refined rooms and suites also have iPod docks, minibars, designer toiletries and free Wi-Fi. Suites add separate living areas, and upgraded suites have wet bars. Plush penthouse suites offer access to a lounge with free breakfast.\n There's an elegant fine-dining restaurant, a classic cocktail lounge with a pianist, and a sophisticated bar and steakhouse. Other amenities include a spa, 24-hour fitness center, a business center and meeting space.",
-            "checkInDate": "2026-02-26",
-            "checkOutDate": "2026-02-27",
+            "hotelAds": [],
+            "openingHours": [],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Restroom": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Islamic%20Society%20of%20Mid%20Manhattan&query_place_id=ChIJI0nKk-RYwokRJYHko9AjvH4",
+            "searchPageUrl": "https://www.google.com/maps/search/Holy%20places%20in%20Islam%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "Holy places in Islam in New York New York, United States",
+            "language": "en",
+            "rank": 1,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoTrtekZCuEWe782fO8nCrl4cRAHNUEFrXXIEYxjyCVaXOSHhV62fL1mRiPuNuhV33wd5Diff5o95eP7-5OruvXYSOmUhJMwYKKw2of-6e3xqpuQjFcLMwwE0QMtDW8H8SY9X-l=w408-h306-k-no",
+            "kgmid": "/g/11c0vk9cwp"
+        },
+        {
+            "title": "Islamic Cultural Center of New York (ICCNY)",
+            "price": null,
+            "categoryName": "Mosque",
+            "address": "1711 3rd Ave, New York, NY 10029",
+            "neighborhood": "Manhattan",
+            "street": "1711 3rd Ave",
+            "city": "New York",
+            "postalCode": "10029",
+            "state": "New York",
+            "countryCode": "US",
+            "website": "https://icc-ny.us/",
+            "phone": "(212) 722-5234",
+            "phoneUnformatted": "+12127225234",
+            "claimThisBusiness": true,
+            "location": {
+                "lat": 40.785534,
+                "lng": -73.9485144
+            },
+            "totalScore": 4.7,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJ40MraU1ZwokR4JDj7OK64oM",
+            "categories": [
+                "Mosque"
+            ],
+            "fid": "0x89c2594d692b43e3:0x83e2bae2ece390e0",
+            "cid": "9503363647504879840",
+            "reviewsCount": 292,
+            "imagesCount": 237,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T22:16:07.843Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "10\u202fAM to 5\u202fPM"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "10\u202fAM to 5\u202fPM"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "10\u202fAM to 5\u202fPM"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "10\u202fAM to 5\u202fPM"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "10\u202fAM to 5\u202fPM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "10\u202fAM to 5\u202fPM"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "10\u202fAM to 5\u202fPM"
+                }
+            ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Amenities": [
+                    {
+                        "Restroom": true
+                    }
+                ],
+                "Recycling": [
+                    {
+                        "Clothing": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Islamic%20Cultural%20Center%20of%20New%20York%20(ICCNY)&query_place_id=ChIJ40MraU1ZwokR4JDj7OK64oM",
+            "searchPageUrl": "https://www.google.com/maps/search/Holy%20places%20in%20Islam%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "Holy places in Islam in New York New York, United States",
+            "language": "en",
+            "rank": 2,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwep7f0aDPUYl-Vn9NPj1MIYkTXFwIK5UcEHF-xGvOdNpdvBFoQCmMKwMX93grAX7SIx7_EzDZMIvQkLWGikjAtU1nSQL9uPcsTb1KpI5VAG_ncGOOS-wO3HLjomA_gq5EGHV-TW7=w408-h483-k-no",
+            "kgmid": "/g/11r36p44fd"
+        },
+        {
+            "title": "The Islamic Center of New York City",
+            "price": null,
+            "categoryName": "Community center",
+            "address": "350 6th Ave, New York, NY 10011",
+            "neighborhood": "Manhattan",
+            "street": "350 6th Ave",
+            "city": "New York",
+            "postalCode": "10011",
+            "state": "New York",
+            "countryCode": "US",
+            "website": "http://theicnyc.org/",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 40.7318736,
+                "lng": -74.0006277
+            },
+            "totalScore": 4.8,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJ4WAMWwBZwokRxq6QHSSYKBE",
+            "categories": [
+                "Community center",
+                "Mosque"
+            ],
+            "fid": "0x89c259005b0c60e1:0x112898241d90aec6",
+            "cid": "1236405378595466950",
+            "reviewsCount": 64,
+            "imagesCount": 9,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T22:16:07.843Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "Closed"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "Closed"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "Closed"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "Closed"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "12 to 4\u202fPM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "Closed"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "Closed"
+                }
+            ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Restroom": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=The%20Islamic%20Center%20of%20New%20York%20City&query_place_id=ChIJ4WAMWwBZwokRxq6QHSSYKBE",
+            "searchPageUrl": "https://www.google.com/maps/search/Holy%20places%20in%20Islam%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "Holy places in Islam in New York New York, United States",
+            "language": "en",
+            "rank": 3,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweo_DW8xaWrLH05xI7Vf5yJAGWzgbztDhDvUBW2apLLtH2Ma2F__0HeJhBdCmA0MNFycAr_7lJMOp0-ZzSZQmZ6EKRa7oSa1B4ir7-pFQEhu0HnPdXrHafqpcz89OKgtibXOqqq9=w426-h240-k-no",
+            "kgmid": "/g/11x16vythm"
+        },
+        {
+            "title": "New York University Islamic Center",
+            "price": null,
+            "categoryName": "School center",
+            "address": "NYU Global Center for Academic and Spiritual Life, 238 Thompson St 4th Floor, New York, NY 10012",
+            "neighborhood": "Manhattan",
+            "street": "NYU Global Center for Academic and Spiritual Life, 238 Thompson St 4th Floor",
+            "city": "New York",
+            "postalCode": "10012",
+            "state": "New York",
+            "countryCode": "US",
+            "website": "https://www.nyu.edu/life/global-inclusion-and-diversity/centers-and-communities/islamic-center.html",
+            "phone": "(212) 998-4712",
+            "phoneUnformatted": "+12129984712",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 40.7301396,
+                "lng": -73.9980452
+            },
+            "totalScore": 4.7,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJab_h_ZNZwokRdGaQIvJ_MRI",
+            "categories": [
+                "School center"
+            ],
+            "fid": "0x89c25993fde1bf69:0x12317ff222906674",
+            "cid": "1310969644480226932",
+            "reviewsCount": 291,
+            "imagesCount": 77,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T22:16:07.843Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "9\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "9\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "9\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "9\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "9\u202fAM to 5\u202fPM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "Closed"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "Closed"
+                }
+            ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=New%20York%20University%20Islamic%20Center&query_place_id=ChIJab_h_ZNZwokRdGaQIvJ_MRI",
+            "searchPageUrl": "https://www.google.com/maps/search/Holy%20places%20in%20Islam%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "Holy places in Islam in New York New York, United States",
+            "language": "en",
+            "rank": 4,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoDnhFHiDdvdGrqi_dDmGsCAvU_vNA2w2iamsLgrF_jlO8xH0OUB9I1SDJuBAMrYQKKXl5wwKDtYX6p9tfE2qXp--hvgDe43hX3KyqPFAMYo_6x-yZuxI9ShQC8NtLqG9x7BVCAGQ=w408-h862-k-no",
+            "kgmid": "/g/1q2w0mzlz"
+        },
+        {
+            "title": "Islamic Cultural Center Riverside Drive",
+            "price": null,
+            "categoryName": "Mosque",
+            "address": "1 Riverside Dr, New York, NY 10023",
+            "neighborhood": "Manhattan",
+            "street": "1 Riverside Dr",
+            "city": "New York",
+            "postalCode": "10023",
+            "state": "New York",
+            "countryCode": "US",
+            "website": "https://icc-ny.us/",
+            "phone": "(646) 666-0035",
+            "phoneUnformatted": "+16466660035",
+            "claimThisBusiness": true,
+            "location": {
+                "lat": 40.7804612,
+                "lng": -73.9854071
+            },
+            "totalScore": 4.6,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJsxvZLmJYwokRAMsZaNGZzXU",
+            "categories": [
+                "Mosque"
+            ],
+            "fid": "0x89c258622ed91bb3:0x75cd99d16819cb00",
+            "cid": "8488609997336988416",
+            "reviewsCount": 447,
+            "imagesCount": 149,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T22:16:07.843Z",
+            "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [],
             "peopleAlsoSearch": [],
@@ -303,19 +382,19 @@
             "additionalInfo": {
                 "Amenities": [
                     {
-                        "Free Wi-Fi": true
+                        "Restroom": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Waldorf%20Astoria%20New%20York&query_place_id=ChIJTzi6VfxYwokRDtjrgLbTvH4",
-            "searchPageUrl": "https://www.google.com/maps/search/resort1%20in%20New%20York%20New%20York,%20United%20States?hl=en",
-            "searchString": "resort1 in New York New York, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Islamic%20Cultural%20Center%20Riverside%20Drive&query_place_id=ChIJsxvZLmJYwokRAMsZaNGZzXU",
+            "searchPageUrl": "https://www.google.com/maps/search/Holy%20places%20in%20Islam%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "Holy places in Islam in New York New York, United States",
             "language": "en",
             "rank": 5,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNpmdhn4dqazFVf_7WRhwejzyVSqihy42mNhoXw=w408-h272-k-no",
-            "kgmid": "/m/02gyzc"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqpIoQYzuJ0ugZsL-XekHhtQW43jYKrBk79ho7iTDde7vcfwncb5k7mVnR9FB8Gc6Z928fhRKaHzr12-E_k2mrF5Rpois_4zYroP-WOPCKdyoQqta7L02vLUHTX1eD-tM9-ynrE=w408-h544-k-no",
+            "kgmid": "/m/05p0mbm"
         }
     ]
 }
