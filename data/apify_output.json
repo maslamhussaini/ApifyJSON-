@@ -1,622 +1,321 @@
 {
-    "timestamp": "2026-02-25 02:47:58.472342",
+    "timestamp": "2026-02-25 03:07:20.528445",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "ejkPMN8S21mpGp9mr",
+    "run_id": "9jIkFtm6uBPeZKSAC",
     "run_status": "SUCCEEDED",
-    "search_query": "cenimas in New York New York, United States",
+    "search_query": "resort1 in New York New York, United States",
     "max_results_requested": 5,
     "records_retrieved": 5,
     "run_cost_usd": 0.0002,
-    "compute_units": 0.02903,
+    "compute_units": 0.014015555555555555,
     "low_balance_warning": false,
     "actor_output": [
         {
-            "title": "AMC Empire 25",
-            "description": "Cinema complex just off Times Square showing mainstream, independent and IMAX films on 25 screens.",
-            "price": null,
-            "categoryName": "Movie theater",
-            "address": "234 W 42nd St, New York, NY 10036",
-            "neighborhood": "Manhattan",
-            "street": "234 W 42nd St",
-            "city": "New York",
-            "postalCode": "10036",
+            "title": "The Rockaway Hotel",
+            "price": "$228",
+            "categoryName": "Hotel",
+            "address": "108-10 Rockaway Beach Dr, Rockaway Park, NY 11694",
+            "neighborhood": "Rockaway Park",
+            "street": "108-10 Rockaway Beach Dr",
+            "city": "Rockaway Park",
+            "postalCode": "11694",
             "state": "New York",
             "countryCode": "US",
-            "website": "https://www.amctheatres.com/movie-theatres/new-york-city/amc-empire-25?utm_medium=organic&utm_source=google&utm_campaign=local",
-            "phone": "(212) 398-2597",
-            "phoneUnformatted": "+12123982597",
+            "website": "https://www.therockawayhotel.com/",
+            "phone": "(718) 474-1216",
+            "phoneUnformatted": "+17184741216",
             "claimThisBusiness": false,
             "location": {
-                "lat": 40.756737,
-                "lng": -73.9890036
+                "lat": 40.5815002,
+                "lng": -73.8300876
             },
-            "totalScore": 4.1,
+            "totalScore": 4.5,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJx91_pVRYwokRYVwnnXb6Lfw",
+            "placeId": "ChIJ0zQP565pwokRSFNSvVHx7vw",
             "categories": [
-                "Movie theater",
-                "IMAX theater"
+                "Hotel"
             ],
-            "fid": "0x89c25854a57fddc7:0xfc2dfa769d275c61",
-            "cid": "18171455458859506785",
-            "reviewsCount": 12032,
-            "imagesCount": 7750,
+            "fid": "0x89c269aee70f34d3:0xfceef151bd525348",
+            "cid": "18225770075385910088",
+            "reviewsCount": 1306,
+            "imagesCount": 1716,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T21:47:49.943Z",
+            "scrapedAt": "2026-02-24T22:07:10.288Z",
             "googleFoodUrl": null,
+            "hotelStars": "4-star hotel",
+            "checkInDate": "2026-02-26",
+            "checkOutDate": "2026-02-27",
             "hotelAds": [],
             "openingHours": [],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Service options": [
-                    {
-                        "Onsite services": true
-                    }
-                ],
-                "Highlights": [
-                    {
-                        "3D movies": true
-                    },
-                    {
-                        "Active military discounts": true
-                    }
-                ],
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": false
-                    }
-                ],
-                "Offerings": [
-                    {
-                        "Arcade games": true
-                    },
-                    {
-                        "Food": true
-                    }
-                ],
                 "Amenities": [
                     {
-                        "Restroom": true
-                    },
-                    {
-                        "Stadium seating": true
-                    },
-                    {
-                        "Restaurant": false
-                    }
-                ],
-                "Crowd": [
-                    {
-                        "Family-friendly": true
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    },
-                    {
-                        "NFC mobile payments": true
-                    },
-                    {
-                        "Credit cards": true
-                    }
-                ],
-                "Children": [
-                    {
-                        "Good for kids": true
-                    }
-                ],
-                "Parking": [
-                    {
-                        "Paid parking lot": true
+                        "Free Wi-Fi": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=AMC%20Empire%2025&query_place_id=ChIJx91_pVRYwokRYVwnnXb6Lfw",
-            "searchPageUrl": "https://www.google.com/maps/search/cenimas%20in%20New%20York%20New%20York,%20United%20States?hl=en",
-            "searchString": "cenimas in New York New York, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=The%20Rockaway%20Hotel&query_place_id=ChIJ0zQP565pwokRSFNSvVHx7vw",
+            "searchPageUrl": "https://www.google.com/maps/search/resort1%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "resort1 in New York New York, United States",
             "language": "en",
             "rank": 1,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer8rrAxSdflzOsBva_YANMIvRoiS5rlDCH7dGh2DhpFJ27EKBeHeCg5CpeKVmQNP64U-i5AIXNWXdedOb14ilkp31mk25M4xHSTyyUOgRg6TW3i_livoKq35l0dUd1CHH_kCQM=w408-h306-k-no",
-            "kgmid": "/m/0k3fn9r"
+            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOE2uKGPiEeLLADO9oZjmleLdWRVmOv74sxMK3y=w408-h306-k-no",
+            "kgmid": "/g/11j4tv273x"
         },
         {
-            "title": "Regal Times Square",
-            "description": "Theater complex with multiple screens featuring new release films, plush seating & concession stand.",
-            "price": null,
-            "categoryName": "Movie theater",
-            "address": "247 W 42nd St, New York, NY 10036",
+            "title": "The Manner",
+            "price": "$614",
+            "categoryName": "Resort hotel",
+            "address": "58 Thompson St, New York, NY 10012",
             "neighborhood": "Manhattan",
-            "street": "247 W 42nd St",
+            "street": "58 Thompson St",
             "city": "New York",
-            "postalCode": "10036",
+            "postalCode": "10012",
             "state": "New York",
             "countryCode": "US",
-            "website": "https://www.regmovies.com/theatres/regal-times-square-1929?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
-            "phone": "(844) 462-7342",
-            "phoneUnformatted": "+18444627342",
+            "website": "https://www.hyatt.com/unbound-collection/en-US/lgapr-the-manner?src=corp_lclb_google_seo_lgapr&utm_source=google&utm_medium=organic&utm_campaign=lmr",
+            "phone": "(929) 526-3330",
+            "phoneUnformatted": "+19295263330",
             "claimThisBusiness": false,
             "location": {
-                "lat": 40.7572685,
-                "lng": -73.9889833
+                "lat": 40.723944,
+                "lng": -74.0033097
             },
-            "totalScore": 4.4,
+            "totalScore": 4.7,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJewnjXlNYwokRs9FNC2nzYBI",
+            "placeId": "ChIJoQx_SPxZwokRL34SHZ4JHKY",
             "categories": [
-                "Movie theater"
+                "Resort hotel"
             ],
-            "fid": "0x89c258535ee3097b:0x1260f3690b4dd1b3",
-            "cid": "1324325922933690803",
-            "reviewsCount": 4982,
-            "imagesCount": 3605,
+            "fid": "0x89c259fc487f0ca1:0xa61c099e1d127e2f",
+            "cid": "11969452484341169711",
+            "reviewsCount": 189,
+            "imagesCount": 493,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T21:47:49.943Z",
+            "scrapedAt": "2026-02-24T22:07:10.289Z",
             "googleFoodUrl": null,
+            "hotelStars": "4-star hotel",
+            "checkInDate": "2026-02-26",
+            "checkOutDate": "2026-02-27",
             "hotelAds": [],
             "openingHours": [],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Service options": [
-                    {
-                        "Onsite services": true
-                    }
-                ],
-                "Highlights": [
-                    {
-                        "3D movies": true
-                    }
-                ],
-                "Accessibility": [
-                    {
-                        "Assisted listening devices": true
-                    },
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
-                    }
-                ],
-                "Offerings": [
-                    {
-                        "Food": true
-                    }
-                ],
                 "Amenities": [
                     {
-                        "Restroom": true
+                        "Free Wi-Fi": true
                     },
                     {
-                        "Stadium seating": true
-                    },
-                    {
-                        "Restaurant": false
+                        "Free breakfast": true
                     }
-                ],
-                "Crowd": [
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=The%20Manner&query_place_id=ChIJoQx_SPxZwokRL34SHZ4JHKY",
+            "searchPageUrl": "https://www.google.com/maps/search/resort1%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "resort1 in New York New York, United States",
+            "language": "en",
+            "rank": 2,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipOIlb-i1UCoU5ZdCxzgSnySQ2guUDV5Rzm8QSeF=w408-h307-k-no",
+            "kgmid": "/g/11w3rd5vm8"
+        },
+        {
+            "title": "Aman New York",
+            "description": "Upscale hotel offering Japanese & Italian restaurants, plus a jazz club, a bar & a spa.",
+            "price": "$2,600",
+            "categoryName": "Hotel",
+            "address": "730 5th Ave, New York, NY 10019",
+            "neighborhood": "Manhattan",
+            "street": "730 5th Ave",
+            "city": "New York",
+            "postalCode": "10019",
+            "state": "New York",
+            "countryCode": "US",
+            "website": "https://www.aman.com/hotels/aman-new-york?utm_source=Google&utm_medium=Yext&y_source=1_MTU5MjMxNjgtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+            "phone": "(212) 970-2626",
+            "phoneUnformatted": "+12129702626",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 40.7629802,
+                "lng": -73.9746883
+            },
+            "locatedIn": "Aman Spa New York",
+            "totalScore": 4.4,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJM-uWC9VZwokRMm_7bwjHFBg",
+            "categories": [
+                "Hotel",
+                "Condominium complex",
+                "Spa"
+            ],
+            "fid": "0x89c259d50b96eb33:0x1814c7086ffb6f32",
+            "cid": "1735230595496898354",
+            "reviewsCount": 323,
+            "imagesCount": 1002,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T22:07:10.289Z",
+            "googleFoodUrl": null,
+            "hotelStars": "5-star hotel",
+            "hotelDescription": "Set in the 1920s Crown Building, this refined hotel is a 5-minute walk from Central Park and a 10-minute walk from the Rockefeller Center. It's a 4-minute walk from the 57th Street subway station.\n Plush suites offer sitting areas, fireplaces and free-standing tubs, plus butler service. Upgraded suites add separate living areas.\n There are upscale Italian, Japanese and open-air eateries, as well as a lounge bar and a jazz club. Other amenities include a fitness center, an indoor pool and a spa. Breakfast and an area shuttle are available.",
+            "checkInDate": "2026-02-26",
+            "checkOutDate": "2026-02-27",
+            "hotelAds": [],
+            "openingHours": [],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Amenities": [
                     {
-                        "Family-friendly": true
-                    },
+                        "Free Wi-Fi": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Aman%20New%20York&query_place_id=ChIJM-uWC9VZwokRMm_7bwjHFBg",
+            "searchPageUrl": "https://www.google.com/maps/search/resort1%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "resort1 in New York New York, United States",
+            "language": "en",
+            "rank": 3,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMVFMbj3u68OWztPuEon-29JQ8AGjzRPus-xepU=w408-h306-k-no",
+            "kgmid": "/g/11f62dpxyl"
+        },
+        {
+            "title": "The Manhattan at Times Square Hotel",
+            "description": "Polished hotel offering streamlined rooms & suites, plus a marble-clad lobby lounge & a gym.",
+            "price": "$112",
+            "categoryName": "Hotel",
+            "address": "790 7th Ave, New York, NY 10019",
+            "neighborhood": "Manhattan",
+            "street": "790 7th Ave",
+            "city": "New York",
+            "postalCode": "10019",
+            "state": "New York",
+            "countryCode": "US",
+            "website": "https://www.ihg.com/spnd/hotels/us/en/new-york/nycat/hoteldetail",
+            "phone": "(212) 581-3300",
+            "phoneUnformatted": "+12125813300",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 40.7622856,
+                "lng": -73.9826404
+            },
+            "totalScore": 3,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJw_JUgvhYwokRIgBAxZdF4eA",
+            "categories": [
+                "Hotel"
+            ],
+            "fid": "0x89c258f88254f2c3:0xe0e14597c5400022",
+            "cid": "16204309452407439394",
+            "reviewsCount": 9842,
+            "imagesCount": 13232,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T22:07:10.289Z",
+            "googleFoodUrl": null,
+            "hotelStars": "4-star hotel",
+            "hotelDescription": "Built in 1962, this polished Midtown hotel with art-deco accents is 2 blocks from Radio City Music Hall, 5 blocks from Times Square and 8 blocks from Central Park.\n The sleek rooms have Wi-Fi (surcharge), flat-screen TVs and coffeemakers, plus work desks with ergonomic chairs. Studios add living areas and private outdoor space, while 1-bedroom suites offer dining areas and extra bathrooms.\n Amenities include a business center and a 24-hour gym. Breakfast is available in a marble lobby lounge.",
+            "checkInDate": "2026-02-26",
+            "checkOutDate": "2026-02-27",
+            "hotelAds": [],
+            "openingHours": [],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Crowd": [
                     {
                         "LGBTQ+ friendly": true
                     }
                 ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    },
-                    {
-                        "NFC mobile payments": true
-                    }
-                ],
-                "Children": [
-                    {
-                        "Good for kids": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Times%20Square&query_place_id=ChIJewnjXlNYwokRs9FNC2nzYBI",
-            "searchPageUrl": "https://www.google.com/maps/search/cenimas%20in%20New%20York%20New%20York,%20United%20States?hl=en",
-            "searchString": "cenimas in New York New York, United States",
-            "language": "en",
-            "rank": 2,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqNRFvMC_NdsTchPWCbU38GXX8YDuGnarFrdvdKv8_CKilYU8qKtDCHzA38lnE18y0bE16tnERftz5QUj7yEvw0eyTKDCO9lska7YoVGcHtE6BEc_dRXJMUGv5INcggPms2zQU=w408-h306-k-no",
-            "kgmid": "/g/1232p4390"
-        },
-        {
-            "title": "AMC 34th Street 14",
-            "price": null,
-            "categoryName": "Movie theater",
-            "address": "312 W 34th St., New York, NY 10001",
-            "neighborhood": "Manhattan",
-            "street": "312 W 34th St.",
-            "city": "New York",
-            "postalCode": "10001",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "https://www.amctheatres.com/movie-theatres/new-york-city/amc-34th-street-14?utm_medium=organic&utm_source=google&utm_campaign=local",
-            "phone": "(212) 244-4556",
-            "phoneUnformatted": "+12122444556",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 40.7523745,
-                "lng": -73.9946707
-            },
-            "totalScore": 4.2,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJd0z48K1ZwokR38rt39Sh3Hc",
-            "categories": [
-                "Movie theater",
-                "IMAX theater"
-            ],
-            "fid": "0x89c259adf0f84c77:0x77dca1d4dfedcadf",
-            "cid": "8636956121051810527",
-            "reviewsCount": 8553,
-            "imagesCount": 4085,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T21:47:49.944Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Service options": [
-                    {
-                        "Onsite services": true
-                    }
-                ],
-                "Highlights": [
-                    {
-                        "3D movies": true
-                    },
-                    {
-                        "Active military discounts": true
-                    }
-                ],
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": false
-                    }
-                ],
-                "Offerings": [
-                    {
-                        "Food": true
-                    }
-                ],
                 "Amenities": [
                     {
-                        "Restroom": true
-                    },
-                    {
-                        "Stadium seating": true
-                    },
-                    {
-                        "Restaurant": false
-                    }
-                ],
-                "Crowd": [
-                    {
-                        "Family-friendly": true
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    },
-                    {
-                        "NFC mobile payments": true
-                    }
-                ],
-                "Children": [
-                    {
-                        "Good for kids": true
-                    }
-                ],
-                "Parking": [
-                    {
-                        "Paid street parking": true
+                        "Free Wi-Fi": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=AMC%2034th%20Street%2014&query_place_id=ChIJd0z48K1ZwokR38rt39Sh3Hc",
-            "searchPageUrl": "https://www.google.com/maps/search/cenimas%20in%20New%20York%20New%20York,%20United%20States?hl=en",
-            "searchString": "cenimas in New York New York, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=The%20Manhattan%20at%20Times%20Square%20Hotel&query_place_id=ChIJw_JUgvhYwokRIgBAxZdF4eA",
+            "searchPageUrl": "https://www.google.com/maps/search/resort1%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "resort1 in New York New York, United States",
             "language": "en",
-            "rank": 3,
+            "rank": 4,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepmtnHVuR5OvRwJ3aAOqhHs_G_b20l8264iFoIwfdfgYzSEFfhmqvIaVe9MJ2uFvvsmulgzX1dnnSUG43AWhWC1oVVL1t09Yi5ksRTuUKfRAZ88WylZQofM7pArw-n3qGWEW8lv=w408-h306-k-no",
-            "kgmid": "/g/1tfpkr41"
+            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipMJ6x8g-LjWyqw4TWO-NNbVeBsaFY6Rb5NgR4mF=w408-h522-k-no",
+            "kgmid": "/g/1hhg_3mgs"
         },
         {
-            "title": "IPIC Theaters",
-            "description": "Upscale cinema chain with plush seating, gourmet light bites & cocktails, plus in-theater service.",
-            "price": "$$$",
-            "categoryName": "Movie theater",
-            "address": "11 Fulton St, New York, NY 10038",
+            "title": "Waldorf Astoria New York",
+            "description": "Luxe 1931 art deco landmark featuring refined quarters, a renowned spa & high-end dining.",
+            "price": "$1,016",
+            "categoryName": "Hotel",
+            "address": "301 Park Ave, New York, NY 10022",
             "neighborhood": "Manhattan",
-            "street": "11 Fulton St",
+            "street": "301 Park Ave",
             "city": "New York",
-            "postalCode": "10038",
+            "postalCode": "10022",
             "state": "New York",
             "countryCode": "US",
-            "website": "https://www.ipic.com/new-york-city-ny-fulton-market/location?utm_source=google&utm_medium=local_listings&utm_campaign=yext",
-            "phone": "(212) 776-8272",
-            "phoneUnformatted": "+12127768272",
+            "website": "https://www.waldorfastorianewyork.com/?SEO_id=GMB-AMER-WA-NYCWAWA&y_source=1_MjA4MzU3MC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+            "phone": "(212) 355-3000",
+            "phoneUnformatted": "+12123553000",
             "claimThisBusiness": false,
             "location": {
-                "lat": 40.7067518,
-                "lng": -74.0034177
+                "lat": 40.7564821,
+                "lng": -73.9734562
             },
             "totalScore": 4.3,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJ7epq4zxawokRVxavKHBR3Eg",
+            "placeId": "ChIJTzi6VfxYwokRDtjrgLbTvH4",
             "categories": [
-                "Movie theater"
+                "Hotel"
             ],
-            "fid": "0x89c25a3ce36aeaed:0x48dc517028af1657",
-            "cid": "5250160807767905879",
-            "reviewsCount": 3739,
-            "imagesCount": 2354,
+            "fid": "0x89c258fc55ba384f:0x7ebcd3b680ebd80e",
+            "cid": "9132406925200971790",
+            "reviewsCount": 1923,
+            "imagesCount": 5359,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T21:47:49.944Z",
+            "scrapedAt": "2026-02-24T22:07:10.289Z",
             "googleFoodUrl": null,
+            "hotelStars": "5-star hotel",
+            "hotelDescription": "A 2-minute walk from the 51 St. subway station, this upscale art deco hotel is a 10-minute walk from the Museum of Modern Art.\n Featuring flat-screen TVs, the refined rooms and suites also have iPod docks, minibars, designer toiletries and free Wi-Fi. Suites add separate living areas, and upgraded suites have wet bars. Plush penthouse suites offer access to a lounge with free breakfast.\n There's an elegant fine-dining restaurant, a classic cocktail lounge with a pianist, and a sophisticated bar and steakhouse. Other amenities include a spa, 24-hour fitness center, a business center and meeting space.",
+            "checkInDate": "2026-02-26",
+            "checkOutDate": "2026-02-27",
             "hotelAds": [],
             "openingHours": [],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Service options": [
-                    {
-                        "Onsite services": true
-                    }
-                ],
-                "Highlights": [
-                    {
-                        "Live performances": true
-                    }
-                ],
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
-                    }
-                ],
-                "Offerings": [
-                    {
-                        "Food": true
-                    }
-                ],
                 "Amenities": [
                     {
-                        "Restaurant": true
-                    },
-                    {
-                        "Restroom": true
-                    }
-                ],
-                "Crowd": [
-                    {
-                        "Family-friendly": true
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    }
-                ],
-                "Children": [
-                    {
-                        "Good for kids": true
-                    }
-                ],
-                "Parking": [
-                    {
-                        "Free parking lot": true
-                    },
-                    {
-                        "Paid parking lot": true
-                    },
-                    {
-                        "Paid street parking": true
+                        "Free Wi-Fi": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=IPIC%20Theaters&query_place_id=ChIJ7epq4zxawokRVxavKHBR3Eg",
-            "searchPageUrl": "https://www.google.com/maps/search/cenimas%20in%20New%20York%20New%20York,%20United%20States?hl=en",
-            "searchString": "cenimas in New York New York, United States",
-            "language": "en",
-            "rank": 4,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqQ9H0scOhFk4Or3VZCLD_Eq6DMBaMdsVTSXFlWce8-0E-Av4ZX_7LetnJ5vIukp8oGF_tPAyRRk4GMxBW_n9N3dxJooZaGdy1MkgCq35PrsvB0k0aY4L2rSqoT5CsvkmI5JuNB=w408-h306-k-no",
-            "kgmid": "/g/11cs1_3f6w"
-        },
-        {
-            "title": "Regal Union Square",
-            "description": "Theater complex with multiple screens featuring new release films, plush seating & concession stand.",
-            "price": null,
-            "categoryName": "Movie theater",
-            "address": "850 Broadway, New York, NY 10003",
-            "neighborhood": "Manhattan",
-            "street": "850 Broadway",
-            "city": "New York",
-            "postalCode": "10003",
-            "state": "New York",
-            "countryCode": "US",
-            "website": "https://www.regmovies.com/theatres/regal-union-square-screenx-4dx-1320?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
-            "phone": "(844) 462-7342",
-            "phoneUnformatted": "+18444627342",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 40.73414,
-                "lng": -73.99075
-            },
-            "totalScore": 4.2,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJsxIl55hZwokRY93bMihYAEQ",
-            "categories": [
-                "Movie theater"
-            ],
-            "fid": "0x89c25998e72512b3:0x4400582832dbdd63",
-            "cid": "4900013324254305635",
-            "reviewsCount": 6335,
-            "imagesCount": 2974,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T21:47:49.944Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Service options": [
-                    {
-                        "Onsite services": true
-                    }
-                ],
-                "Highlights": [
-                    {
-                        "3D movies": true
-                    }
-                ],
-                "Accessibility": [
-                    {
-                        "Assisted listening devices": true
-                    },
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    },
-                    {
-                        "Wheelchair accessible seating": true
-                    }
-                ],
-                "Offerings": [
-                    {
-                        "Food": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Restroom": true
-                    },
-                    {
-                        "Stadium seating": true
-                    },
-                    {
-                        "Restaurant": false
-                    }
-                ],
-                "Crowd": [
-                    {
-                        "Family-friendly": true
-                    },
-                    {
-                        "LGBTQ+ friendly": true
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    },
-                    {
-                        "NFC mobile payments": true
-                    }
-                ],
-                "Children": [
-                    {
-                        "Good for kids": true
-                    }
-                ],
-                "Parking": [
-                    {
-                        "Free street parking": true
-                    },
-                    {
-                        "Paid street parking": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Regal%20Union%20Square&query_place_id=ChIJsxIl55hZwokRY93bMihYAEQ",
-            "searchPageUrl": "https://www.google.com/maps/search/cenimas%20in%20New%20York%20New%20York,%20United%20States?hl=en",
-            "searchString": "cenimas in New York New York, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Waldorf%20Astoria%20New%20York&query_place_id=ChIJTzi6VfxYwokRDtjrgLbTvH4",
+            "searchPageUrl": "https://www.google.com/maps/search/resort1%20in%20New%20York%20New%20York,%20United%20States?hl=en",
+            "searchString": "resort1 in New York New York, United States",
             "language": "en",
             "rank": 5,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwersqshGsC5SMEfJeAkFho12wF53DeZsuA7q9iAg9wuVwENoWw3UYY04RYrjzoEj1E-w5kibO-K1LnfL9_T_B5T_fSJweBj2C3Mfo5ood3ppWA_kfHHxo4ZAeqjrqVNO29Kfj3FAgg=w408-h306-k-no",
-            "kgmid": "/g/11b5m318t7"
+            "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipNpmdhn4dqazFVf_7WRhwejzyVSqihy42mNhoXw=w408-h272-k-no",
+            "kgmid": "/m/02gyzc"
         }
     ]
 }
