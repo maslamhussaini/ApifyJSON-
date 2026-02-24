@@ -1,338 +1,751 @@
 {
-    "timestamp": "2026-02-23 22:54:45.909774",
+    "timestamp": "2026-02-23 23:08:06.652994",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "334UuuaR408rla6C8",
+    "run_id": "gNtW2sz0Dc5CovnDz",
     "run_status": "SUCCEEDED",
-    "search_query": "Hotels in Seattle Washington, United States",
+    "search_query": "Saloons in Seattle Washington, United States",
     "max_results_requested": 5,
     "records_retrieved": 5,
-    "run_cost_usd": 0.0202,
-    "compute_units": 0.03763444444444444,
+    "run_cost_usd": 0.0002,
+    "compute_units": 0.030323333333333334,
     "low_balance_warning": false,
     "actor_output": [
         {
-            "title": "Hilton Motif Seattle",
-            "description": "Vibrant lodging offering sleek rooms & suites, plus a hip rooftop restaurant/bar & event space.",
-            "price": "$136",
-            "categoryName": "Hotel",
-            "address": "1415 5th Ave, Seattle, WA 98101",
-            "neighborhood": "Central Business District",
-            "street": "1415 5th Ave",
-            "city": "Seattle",
-            "postalCode": "98101",
-            "state": "Washington",
+            "title": "Blonde Beauty Bar",
+            "price": null,
+            "categoryName": "Beauty salon",
+            "address": "4232 N Brown Ave, Scottsdale, AZ 85251",
+            "neighborhood": "Brown & Stetson Business",
+            "street": "4232 N Brown Ave",
+            "city": "Scottsdale",
+            "postalCode": "85251",
+            "state": "Arizona",
             "countryCode": "US",
-            "website": "https://www.hilton.com/en/hotels/seamfhh-hilton-motif-seattle/?SEO_id=GMB-AMER-HH-SEAMFHH&y_source=1_NzM3MDc1NzktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-            "phone": "(206) 971-8000",
-            "phoneUnformatted": "+12069718000",
+            "website": "https://www.vagaro.com/blondebeautybar",
+            "phone": "(509) 778-1478",
+            "phoneUnformatted": "+15097781478",
             "claimThisBusiness": false,
             "location": {
-                "lat": 47.610082,
-                "lng": -122.3355909
+                "lat": 33.4975646,
+                "lng": -111.9245288
             },
-            "totalScore": 4.2,
+            "totalScore": 4.6,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJjblmfrRqkFQR7YAY-CZIzgo",
+            "placeId": "ChIJS_DVfJcFK4cRjqEFVil7m_k",
             "categories": [
-                "Hotel"
+                "Beauty salon"
             ],
-            "fid": "0x54906ab47e66b98d:0xace4826f81880ed",
-            "cid": "778639117789987053",
-            "reviewsCount": 3319,
-            "imagesCount": 3787,
+            "fid": "0x872b05977cd5f04b:0xf99b7b295605a18e",
+            "cid": "17986104954301292942",
+            "reviewsCount": 65,
+            "imagesCount": 35,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T06:54:28.506Z",
+            "scrapedAt": "2026-02-24T07:07:56.471Z",
             "googleFoodUrl": null,
-            "hotelStars": "4-star hotel",
-            "hotelDescription": "A 4-minute walk from the Washington State Convention Center, this sleek, colorful hotel is a 10-minute walk from Pike Place Market and a 6-minute walk from the Seattle Art Museum.\n Offering water, mountain or city views, the polished, modern rooms include Keurig coffeemakers and minifridges, plus iPod docks, flat-screen TVs and free Wi-Fi. Suites add designer toiletries, microwaves, dining tables and/or living areas with pull-out sofas. Room service is available.\n A hip rooftop restaurant with a cocktail bar features a patio, fireplaces and shuffleboard. There\u2019s meeting and event space, and parking is available for a fee. Dogs are welcome.",
-            "checkInDate": "2026-02-26",
-            "checkOutDate": "2026-02-27",
             "hotelAds": [],
-            "openingHours": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "9\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "9\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "9\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "9\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "9\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "9\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "9\u202fAM to 8\u202fPM"
+                }
+            ],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Crowd": [
+                "Accessibility": [
                     {
-                        "LGBTQ+ friendly": true
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    }
+                ],
+                "Offerings": [
+                    {
+                        "Beverages": true
                     }
                 ],
                 "Amenities": [
                     {
-                        "Free Wi-Fi": true
+                        "Restroom": true
+                    }
+                ],
+                "Planning": [
+                    {
+                        "Appointment required": true
+                    },
+                    {
+                        "Appointments recommended": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Hilton%20Motif%20Seattle&query_place_id=ChIJjblmfrRqkFQR7YAY-CZIzgo",
-            "searchPageUrl": "https://www.google.com/maps/search/Hotels%20in%20Seattle%20Washington,%20United%20States?hl=en",
-            "searchString": "Hotels in Seattle Washington, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Blonde%20Beauty%20Bar&query_place_id=ChIJS_DVfJcFK4cRjqEFVil7m_k",
+            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
+            "searchString": "Saloons in Seattle Washington, United States",
             "language": "en",
             "rank": 1,
             "isAdvertisement": false,
-            "imageUrl": "https://images.trvl-media.com/lodging/1000000/60000/51000/50947/a21bd17d_z.jpg",
-            "kgmid": "/g/1q64d83vs"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwermFEvbItnXA0cLUNXTYa6VU0FFWmw5nUG4C6qY1Oqsshhlj86dumlkpE2qfV8nwbR29EhnW6RS4qrZacr-rt3ASsRw3dVhoWE69AAkNmFEkFyxDspm5cjpxxiNgZGqoD0iuNlHk7t0tHoC=w408-h612-k-no",
+            "kgmid": "/g/11h4x4_sqk"
         },
         {
-            "title": "Hotel Five - A Staypineapple Hotel",
-            "description": "Colorful hotel with bold artwork & a cafe, plus Wi-Fi, a fitness center & loaner bikes.",
-            "price": "$88",
-            "categoryName": "Hotel",
-            "address": "2200 5th Ave, Seattle, WA 98121",
-            "neighborhood": "Belltown",
-            "street": "2200 5th Ave",
+            "title": "Central Saloon",
+            "description": "Casual saloon with a history dating back to the 19th century & a menu of American pub grub.",
+            "price": "$10\u201320",
+            "categoryName": "Bar",
+            "address": "207 1st Ave S, Seattle, WA 98104",
+            "neighborhood": "Pioneer Square",
+            "street": "207 1st Ave S",
             "city": "Seattle",
-            "postalCode": "98121",
+            "postalCode": "98104",
             "state": "Washington",
             "countryCode": "US",
-            "website": "https://www.staypineapple.com/hotel-five-seattle-wa/?utm_source=google&utm_medium=organic&utm_campaign=GMB&utm_term=hf",
-            "phone": "(206) 441-9785",
-            "phoneUnformatted": "+12064419785",
+            "website": "http://www.centralsaloon.com/",
+            "phone": "(206) 622-0209",
+            "phoneUnformatted": "+12066220209",
             "claimThisBusiness": false,
             "location": {
-                "lat": 47.6158481,
-                "lng": -122.3419888
+                "lat": 47.600613,
+                "lng": -122.3343911
             },
-            "totalScore": 4.4,
+            "totalScore": 4.5,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJS4rz70sVkFQRZezmuyGXw8Y",
+            "placeId": "ChIJfz0mN6VqkFQRKduJIM2Kskw",
             "categories": [
-                "Hotel"
+                "Bar",
+                "Clothing store",
+                "Live music venue",
+                "Restaurant"
             ],
-            "fid": "0x5490154beff38a4b:0xc6c39721bbe6ec65",
-            "cid": "14322457411110497381",
-            "reviewsCount": 2039,
-            "imagesCount": 1795,
+            "fid": "0x54906aa537263d7f:0x4cb28acd2089db29",
+            "cid": "5526632306355854121",
+            "reviewsCount": 1177,
+            "imagesCount": 1263,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T06:54:28.506Z",
+            "scrapedAt": "2026-02-24T07:07:56.471Z",
             "googleFoodUrl": null,
-            "hotelStars": "3-star hotel",
-            "hotelDescription": "This funky hotel is a 12-minute walk from the Pacific Science Center, and 1.3 miles from Waterfront Park and the Seattle Aquarium.\n The colorful rooms have Wi-Fi, flat-screen TVs, work desks and coffeemakers, plus bathrooms with rainfall showerheads and Italian tile floors. Suites add living space with pull-out sofas. Room service is available.\n Free perks include an afternoon reception with coffee and snacks, and loaner bikes. The hotel also offers a cafe and dog-friendly goodies, plus a fitness center, a business center, event space and parking.",
-            "checkInDate": "2026-02-26",
-            "checkOutDate": "2026-02-27",
             "hotelAds": [],
-            "openingHours": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                }
+            ],
+            "additionalOpeningHours": {
+                "Dinner": [
+                    {
+                        "day": "Monday",
+                        "hours": "11\u202fAM\u20139\u202fPM"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "hours": "11\u202fAM\u20139\u202fPM"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "hours": "11\u202fAM\u20139\u202fPM"
+                    },
+                    {
+                        "day": "Thursday",
+                        "hours": "11\u202fAM\u20139\u202fPM"
+                    },
+                    {
+                        "day": "Friday",
+                        "hours": "11\u202fAM\u20139\u202fPM"
+                    },
+                    {
+                        "day": "Saturday",
+                        "hours": "11\u202fAM\u20139\u202fPM"
+                    },
+                    {
+                        "day": "Sunday",
+                        "hours": "11\u202fAM\u20139\u202fPM"
+                    }
+                ]
+            },
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Crowd": [
+                "Service options": [
                     {
-                        "LGBTQ+ friendly": true
+                        "Outdoor seating": true
+                    },
+                    {
+                        "Onsite services": true
+                    },
+                    {
+                        "Takeout": true
+                    },
+                    {
+                        "Dine-in": true
+                    },
+                    {
+                        "Delivery": false
+                    }
+                ],
+                "Highlights": [
+                    {
+                        "Fast service": true
+                    },
+                    {
+                        "Great beer selection": true
+                    },
+                    {
+                        "Great cocktails": true
+                    },
+                    {
+                        "Live music": true
+                    },
+                    {
+                        "Live performances": true
+                    },
+                    {
+                        "Sports": true
+                    }
+                ],
+                "Popular for": [
+                    {
+                        "Solo dining": true
+                    }
+                ],
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    }
+                ],
+                "Offerings": [
+                    {
+                        "Alcohol": true
+                    },
+                    {
+                        "Beer": true
+                    },
+                    {
+                        "Cocktails": true
+                    },
+                    {
+                        "Dancing": true
+                    },
+                    {
+                        "Food": true
+                    },
+                    {
+                        "Food at bar": true
+                    },
+                    {
+                        "Happy hour drinks": true
+                    },
+                    {
+                        "Happy hour food": true
+                    },
+                    {
+                        "Hard liquor": true
+                    },
+                    {
+                        "Wine": true
+                    }
+                ],
+                "Dining options": [
+                    {
+                        "Seating": true
                     }
                 ],
                 "Amenities": [
                     {
+                        "Restroom": true
+                    },
+                    {
+                        "Wi-Fi": true
+                    },
+                    {
                         "Free Wi-Fi": true
+                    }
+                ],
+                "Atmosphere": [
+                    {
+                        "Casual": true
+                    },
+                    {
+                        "Trendy": true
+                    }
+                ],
+                "Crowd": [
+                    {
+                        "Groups": true
+                    },
+                    {
+                        "LGBTQ+ friendly": true
+                    },
+                    {
+                        "Tourists": true
+                    },
+                    {
+                        "Transgender safespace": true
+                    }
+                ],
+                "Planning": [
+                    {
+                        "Accepts reservations": false
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
+                    },
+                    {
+                        "Credit cards": true
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Free street parking": true
+                    },
+                    {
+                        "Paid parking lot": true
+                    },
+                    {
+                        "Paid street parking": true
+                    },
+                    {
+                        "Usually difficult to find a space": true
+                    }
+                ],
+                "Pets": [
+                    {
+                        "Dogs allowed": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Five%20-%20A%20Staypineapple%20Hotel&query_place_id=ChIJS4rz70sVkFQRZezmuyGXw8Y",
-            "searchPageUrl": "https://www.google.com/maps/search/Hotels%20in%20Seattle%20Washington,%20United%20States?hl=en",
-            "searchString": "Hotels in Seattle Washington, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Central%20Saloon&query_place_id=ChIJfz0mN6VqkFQRKduJIM2Kskw",
+            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
+            "searchString": "Saloons in Seattle Washington, United States",
             "language": "en",
             "rank": 2,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqttUuEwe6ct_0uGOWoO0AQDX_JpJzqV76EQ4XxY6IiYFVbEuWmHI5r2kGl_UtVenSPtxkkysw55ApwvlXPVhF_9wI0U11tTu-0dYG0xSmC3HvB5xNV9CfWK4CFDpQc6XDFrHPQ=w408-h272-k-no",
-            "kgmid": "/g/1tdzwdvn"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoFSSyKbRXwLTeoCd14JvM3SWqni52rcN8zJo-1H4M6YYaE1SawSQ-JAi96ZgA18YsIzTLJCE9NbSS8c3AeiGUj1LU0reUmLSXs12KQQf4nM1EzxMgVrotqpDg-_ev0_9LOEguIovPkfRWo=w408-h306-k-no",
+            "kgmid": "/g/1ydp3d2gk"
         },
         {
-            "title": "The State Hotel",
-            "description": "Chic, contemporary rooms in a swanky property with a restaurant/bar, a rooftop terrace & bay views.",
-            "price": "$152",
-            "categoryName": "Hotel",
-            "address": "1501 2nd Ave, Seattle, WA 98101",
-            "neighborhood": "Pike Pine Retail Core",
-            "street": "1501 2nd Ave",
+            "title": "SALOON",
+            "price": null,
+            "categoryName": "Barber shop",
+            "address": "401 Broadway E Suite 104, Seattle, WA 98102",
+            "neighborhood": "Capitol Hill",
+            "street": "401 Broadway E Suite 104",
             "city": "Seattle",
-            "postalCode": "98101",
+            "postalCode": "98102",
             "state": "Washington",
             "countryCode": "US",
-            "website": "https://www.statehotel.com/",
-            "phone": "(800) 827-3900",
-            "phoneUnformatted": "+18008273900",
+            "website": "http://vagaro.com/saloonkaleb",
             "claimThisBusiness": false,
             "location": {
-                "lat": 47.6093392,
-                "lng": -122.33929
+                "lat": 47.6225306,
+                "lng": -122.3214759
             },
-            "totalScore": 4.4,
+            "totalScore": 5,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJB1XqBLNqkFQRJ8BCteQqDmo",
+            "placeId": "ChIJwRllP1sVkFQRwg4oNLzCqwQ",
             "categories": [
-                "Hotel"
+                "Barber shop"
             ],
-            "fid": "0x54906ab304ea5507:0x6a0e2ae4b542c027",
-            "cid": "7642092779476271143",
-            "reviewsCount": 620,
-            "imagesCount": 1654,
+            "fid": "0x5490155b3f6519c1:0x4abc2bc34280ec2",
+            "cid": "336576710753914562",
+            "reviewsCount": 33,
+            "imagesCount": 18,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T06:54:28.506Z",
+            "scrapedAt": "2026-02-24T07:07:56.471Z",
             "googleFoodUrl": null,
-            "hotelStars": "4-star hotel",
-            "hotelDescription": "Set along a bustling commercial street, this stylish hotel in a 1904 building with a colorful mural offers views of Elliott Bay. It\u2019s a 2-minute walk from Pike Place Market, a 5-minute walk from Seattle Art Museum and 14 miles from Seattle-Tacoma International Airport.\n Decorated with local art, the chic, contemporary rooms come with flat-screen TVs, free Wi-Fi and desk areas; some feature bay views. Upgraded rooms add private rooftop terraces.\n Breakfast (surcharge) is served in a trendy restaurant/bar that has wood floors and high ceilings. There\u2019s also a hip lobby lounge and a rooftop terrace, plus gym and event space. Valet parking is available for a fee.",
-            "checkInDate": "2026-02-26",
-            "checkOutDate": "2026-02-27",
             "hotelAds": [],
-            "openingHours": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "Closed"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "11\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "11\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "11\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "11\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "Closed"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "Closed"
+                }
+            ],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Crowd": [
+                "Service options": [
                     {
-                        "LGBTQ+ friendly": true
+                        "Onsite services": true
                     }
                 ],
                 "Amenities": [
                     {
-                        "Free Wi-Fi": true
+                        "Restroom": true
+                    }
+                ],
+                "Planning": [
+                    {
+                        "Appointments recommended": true
+                    },
+                    {
+                        "Accepts walk-ins": true
+                    }
+                ],
+                "Children": [
+                    {
+                        "Good for kids": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=The%20State%20Hotel&query_place_id=ChIJB1XqBLNqkFQRJ8BCteQqDmo",
-            "searchPageUrl": "https://www.google.com/maps/search/Hotels%20in%20Seattle%20Washington,%20United%20States?hl=en",
-            "searchString": "Hotels in Seattle Washington, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=SALOON&query_place_id=ChIJwRllP1sVkFQRwg4oNLzCqwQ",
+            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
+            "searchString": "Saloons in Seattle Washington, United States",
             "language": "en",
             "rank": 3,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweor4dsOeZXsrQESVM4vbXEN0tzG2yw-zsRe_WKNaKJb7k-EuY4aj5Beusf9ddAV_pdkP1DTVHTK6AIwBACi-L8IS7FmlN3WA_JPnCLbaPTH2GJKxWr6s6ils4D7iyZRZeUn1Bb_TA=w408-h246-k-no",
-            "kgmid": "/g/11f3tsqnv0"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepPxExkEf7_FXAsS1dDaQlq9cRfpY4EwAWV39snlztriCPBYXkJdAffwCil4BZPo_9yqzaf3yKTyA-6zPRhcRu7h-HRgnNN6u9I0fuuYCNW8XBoxgDeoR2P3xN0btiyvIMe-cSS=w408-h476-k-no",
+            "kgmid": "/g/11wflgnvrq"
         },
         {
-            "title": "Hotel Max",
-            "description": "Chic hotel featuring work by local photographers, farm-to-table dining & a free craft beer hour.",
-            "price": "$108",
-            "categoryName": "Hotel",
-            "address": "620 Stewart St, Seattle, WA 98101",
+            "title": "Antonio Salon",
+            "price": null,
+            "categoryName": "Hair salon",
+            "address": "113 Virginia St, Seattle, WA 98101",
             "neighborhood": "Pike Pine Retail Core",
-            "street": "620 Stewart St",
+            "street": "113 Virginia St",
             "city": "Seattle",
             "postalCode": "98101",
             "state": "Washington",
             "countryCode": "US",
-            "website": "https://www.hotelmaxseattle.com/hotel/welcome/",
-            "phone": "(206) 728-6299",
-            "phoneUnformatted": "+12067286299",
+            "website": "http://www.antoniothesalon.com/",
+            "phone": "(206) 735-7566",
+            "phoneUnformatted": "+12067357566",
             "claimThisBusiness": false,
             "location": {
-                "lat": 47.6142874,
-                "lng": -122.3367201
+                "lat": 47.6112407,
+                "lng": -122.3421725
             },
-            "totalScore": 4.1,
+            "totalScore": 4.9,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJ8cjQ4UoVkFQRQhCfij7UaJ8",
+            "placeId": "ChIJFecT10wVkFQRFWyyvXgxu9Y",
             "categories": [
-                "Hotel",
-                "Resort hotel"
+                "Hair salon"
             ],
-            "fid": "0x5490154ae1d0c8f1:0x9f68d43e8a9f1042",
-            "cid": "11486664214687191106",
-            "reviewsCount": 1498,
-            "imagesCount": 1477,
+            "fid": "0x5490154cd713e715:0xd6bb3178bdb26c15",
+            "cid": "15473015339409894421",
+            "reviewsCount": 592,
+            "imagesCount": 91,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T06:54:28.506Z",
+            "scrapedAt": "2026-02-24T07:07:56.472Z",
             "googleFoodUrl": null,
-            "hotelStars": "3-star hotel",
-            "hotelDescription": "This artsy downtown hotel is a 4-minute walk from the Westlake Center and a 5-minute walk from the Washington State Convention Center.\n The stylish rooms feature original paintings, Bluetooth clock radios and work desks, plus flat-screen TVs and free Wi-Fi. Room service is available.\n Complimentary amenities include loaner bikes and craft beer hours, as well as locally brewed coffee in the morning. Works by iconic local photographers adorn each floor, and there's a farm-to-table restaurant with a renowned grill. Additional amenities include a fitness center and event space, along with perks for pets.",
-            "checkInDate": "2026-02-26",
-            "checkOutDate": "2026-02-27",
             "hotelAds": [],
-            "openingHours": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "Closed"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "8:30\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "8:30\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "8:30\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "8:30\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "8:30\u202fAM to 6\u202fPM"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "Closed"
+                }
+            ],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
-                "Crowd": [
+                "Service options": [
                     {
-                        "LGBTQ+ friendly": true
+                        "Onsite services": true
+                    }
+                ],
+                "Offerings": [
+                    {
+                        "Beverages": true
                     }
                 ],
                 "Amenities": [
                     {
-                        "Free Wi-Fi": true
+                        "Restroom": true
+                    }
+                ],
+                "Planning": [
+                    {
+                        "Appointment required": true
+                    },
+                    {
+                        "Appointments recommended": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
+                    },
+                    {
+                        "Credit cards": true
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Paid parking garage": true
+                    },
+                    {
+                        "Paid parking lot": true
+                    },
+                    {
+                        "Paid street parking": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Max&query_place_id=ChIJ8cjQ4UoVkFQRQhCfij7UaJ8",
-            "searchPageUrl": "https://www.google.com/maps/search/Hotels%20in%20Seattle%20Washington,%20United%20States?hl=en",
-            "searchString": "Hotels in Seattle Washington, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Antonio%20Salon&query_place_id=ChIJFecT10wVkFQRFWyyvXgxu9Y",
+            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
+            "searchString": "Saloons in Seattle Washington, United States",
             "language": "en",
             "rank": 4,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweokY8Sdb0HYD-v4lv4SDmolIp02IC6gkRF3YZ_OaUIz55_-clu_uX6CyJUez4UhAlwt9jXyobhz-iAcfNoyMd0Xz0jtdVBN7RJKTfq2viYIpnVclPgUavDkABmSnp6219H9NwYH=w408-h278-k-no",
-            "kgmid": "/g/1tmpdmsz"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqVrw8I2yTeiqkkkUA9IJYPY-IOFtBnyjm1vbYIL55DE5x0qnl611rSnby9XOqkXOyo1uZdeUjkErOq7hKXlcYTH9-xXNeP57t9DqLU-jQ2NXD_p5xNt-NlXPN2FWi-VEPgnoYJYg=w408-h408-k-no",
+            "kgmid": "/g/12qhc44fg"
         },
         {
-            "title": "Travelodge by Wyndham Seattle By The Space Needle",
-            "description": "Relaxed downtown lodging with a seasonal outdoor pool, plus free Wi-Fi & breakfast.",
-            "price": "$57",
-            "categoryName": "Hotel",
-            "address": "200 6th Ave N, Seattle, WA 98109",
-            "neighborhood": "South Lake Union",
-            "street": "200 6th Ave N",
+            "title": "Nola",
+            "price": null,
+            "categoryName": "Hair salon",
+            "address": "1090 N Northlake Way, Seattle, WA 98103",
+            "neighborhood": "Fremont",
+            "street": "1090 N Northlake Way",
             "city": "Seattle",
-            "postalCode": "98109",
+            "postalCode": "98103",
             "state": "Washington",
             "countryCode": "US",
-            "website": "https://www.wyndhamhotels.com/travelodge/seattle-washington/travelodge-seattle-by-the-space-needle/overview?CID=LC:fkqqcjhla7b6gbb:7033&iata=00093796",
-            "phone": "(206) 962-8678",
-            "phoneUnformatted": "+12069628678",
-            "claimThisBusiness": false,
+            "website": "http://nolaseattle.com/",
+            "phone": "(206) 402-6651",
+            "phoneUnformatted": "+12064026651",
+            "claimThisBusiness": true,
             "location": {
-                "lat": 47.6204076,
-                "lng": -122.3446676
+                "lat": 47.6485139,
+                "lng": -122.3433502
             },
-            "totalScore": 3.3,
+            "totalScore": 4.9,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJsV_ZiEgVkFQRo12lAAQUgGY",
+            "placeId": "ChIJf6o72gMVkFQRmgz9LWBITGQ",
             "categories": [
-                "Hotel",
-                "Inn",
-                "Lodge",
-                "Motel"
+                "Hair salon",
+                "Barber shop"
             ],
-            "fid": "0x5490154888d95fb1:0x6680140400a55da3",
-            "cid": "7385925396310875555",
-            "reviewsCount": 1910,
-            "imagesCount": 1646,
+            "fid": "0x54901503da3baa7f:0x644c48602dfd0c9a",
+            "cid": "7227231079948422298",
+            "reviewsCount": 133,
+            "imagesCount": 24,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T06:54:28.507Z",
+            "scrapedAt": "2026-02-24T07:07:56.472Z",
             "googleFoodUrl": null,
-            "hotelStars": "2-star hotel",
-            "hotelDescription": "This straightforward hotel is a 7-minute walk from the Space Needle and a mile from the Seattle Aquarium.\n The relaxed rooms have free Wi-Fi, desks and coffeemakers. Some rooms feature microwaves and minifridges. Kids age 17 and under stay free with an adult.\n Amenities include a free hot and cold breakfast buffet, a seasonal outdoor pool and a hot tub, as well as an exercise room. There\u2019s also a business center and parking (fee).",
-            "checkInDate": "2026-02-26",
-            "checkOutDate": "2026-02-27",
             "hotelAds": [],
-            "openingHours": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "10\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "10\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "10\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "10\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "10\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "10\u202fAM to 3\u202fPM"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "10\u202fAM to 3\u202fPM"
+                }
+            ],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    }
+                ],
                 "Amenities": [
                     {
-                        "Free Wi-Fi": true
+                        "Restroom": true
+                    }
+                ],
+                "Planning": [
+                    {
+                        "Appointment required": true
+                    },
+                    {
+                        "Appointments recommended": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
+                    },
+                    {
+                        "Credit cards": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Travelodge%20by%20Wyndham%20Seattle%20By%20The%20Space%20Needle&query_place_id=ChIJsV_ZiEgVkFQRo12lAAQUgGY",
-            "searchPageUrl": "https://www.google.com/maps/search/Hotels%20in%20Seattle%20Washington,%20United%20States?hl=en",
-            "searchString": "Hotels in Seattle Washington, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Nola&query_place_id=ChIJf6o72gMVkFQRmgz9LWBITGQ",
+            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
+            "searchString": "Saloons in Seattle Washington, United States",
             "language": "en",
             "rank": 5,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqIQ90HB-oEsUPrv9qhEK95aluUhW4J8TJT57sQfdb9pRszkXz2snmoFy5agSCQM-0UmpsQLI2AcaCH9DULNy_nMOT0McAq6LXsUQIUa-aYmQJe0aZJp0nCDd_j90x_fxz_ZM18=w426-h240-k-no",
-            "kgmid": "/g/1vljg0hp"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoWh3Vns77l51l80gLUbI2BAMzrF6yn4fvrJxabez9GKYI-aQc5U2etY4IPzcRS0j3BgQv1xkm-LOLzzJfux23hTJX7UaVmwUnUAk7IKkttbOlE5av7mgtD8lzZmuJn4sI1VNwm=w408-h541-k-no",
+            "kgmid": "/g/1w6_njdl"
         }
     ]
 }
