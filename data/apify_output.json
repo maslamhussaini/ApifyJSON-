@@ -1,159 +1,88 @@
 {
-    "timestamp": "2026-02-23 23:20:45.834889",
+    "timestamp": "2026-02-24 12:32:53.431013",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "3nUkcxVuKtS3xMedx",
+    "run_id": "31Hjkl22erjROxdhP",
     "run_status": "SUCCEEDED",
-    "search_query": "Saloons in Seattle Washington, United States",
+    "search_query": "Saloons in Athens New York, United States",
     "max_results_requested": 5,
     "records_retrieved": 5,
     "run_cost_usd": 0.0202,
-    "compute_units": 0.01783111111111111,
+    "compute_units": 0.01252888888888889,
     "low_balance_warning": false,
     "actor_output": [
         {
-            "title": "Central Saloon",
-            "description": "Casual saloon with a history dating back to the 19th century & a menu of American pub grub.",
-            "price": "$10\u201320",
-            "categoryName": "Bar",
-            "address": "207 1st Ave S, Seattle, WA 98104",
-            "neighborhood": "Pioneer Square",
-            "street": "207 1st Ave S",
-            "city": "Seattle",
-            "postalCode": "98104",
-            "state": "Washington",
+            "title": "Remedy 22 Salon",
+            "price": null,
+            "categoryName": "Beauty salon",
+            "address": "8966 United Ln, Athens, OH 45701",
+            "neighborhood": null,
+            "street": "8966 United Ln",
+            "city": "Athens",
+            "postalCode": "45701",
+            "state": "Ohio",
             "countryCode": "US",
-            "website": "http://www.centralsaloon.com/",
-            "phone": "(206) 622-0209",
-            "phoneUnformatted": "+12066220209",
+            "website": "http://remedy22salon.com/",
+            "phone": "(740) 447-5017",
+            "phoneUnformatted": "+17404475017",
             "claimThisBusiness": false,
             "location": {
-                "lat": 47.600613,
-                "lng": -122.3343911
+                "lat": 39.2904786,
+                "lng": -82.1270449
             },
-            "totalScore": 4.5,
+            "totalScore": 4.8,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJfz0mN6VqkFQRKduJIM2Kskw",
+            "placeId": "ChIJcYcVZpFxSIgRGD7TiTlMo6M",
             "categories": [
-                "Bar",
-                "Clothing store",
-                "Live music venue",
-                "Restaurant"
+                "Beauty salon",
+                "Massage therapist",
+                "Tattoo artist"
             ],
-            "fid": "0x54906aa537263d7f:0x4cb28acd2089db29",
-            "cid": "5526632306355854121",
-            "reviewsCount": 1177,
-            "imagesCount": 1263,
+            "fid": "0x8848719166158771:0xa3a34c3989d33e18",
+            "cid": "11791352059395259928",
+            "reviewsCount": 46,
+            "imagesCount": 37,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:20:30.558Z",
+            "scrapedAt": "2026-02-24T07:32:42.571Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Monday",
-                    "hours": "11\u202fAM to 2\u202fAM"
+                    "hours": "10\u202fAM to 7\u202fPM"
                 },
                 {
                     "day": "Tuesday",
-                    "hours": "11\u202fAM to 2\u202fAM"
+                    "hours": "10\u202fAM to 7\u202fPM"
                 },
                 {
                     "day": "Wednesday",
-                    "hours": "11\u202fAM to 2\u202fAM"
+                    "hours": "10\u202fAM to 7\u202fPM"
                 },
                 {
                     "day": "Thursday",
-                    "hours": "11\u202fAM to 2\u202fAM"
+                    "hours": "10\u202fAM to 7\u202fPM"
                 },
                 {
                     "day": "Friday",
-                    "hours": "11\u202fAM to 2\u202fAM"
+                    "hours": "10\u202fAM to 7\u202fPM"
                 },
                 {
                     "day": "Saturday",
-                    "hours": "11\u202fAM to 2\u202fAM"
+                    "hours": "10\u202fAM to 5\u202fPM"
                 },
                 {
                     "day": "Sunday",
-                    "hours": "11\u202fAM to 2\u202fAM"
+                    "hours": "Closed"
                 }
             ],
-            "additionalOpeningHours": {
-                "Dinner": [
-                    {
-                        "day": "Monday",
-                        "hours": "11\u202fAM\u20139\u202fPM"
-                    },
-                    {
-                        "day": "Tuesday",
-                        "hours": "11\u202fAM\u20139\u202fPM"
-                    },
-                    {
-                        "day": "Wednesday",
-                        "hours": "11\u202fAM\u20139\u202fPM"
-                    },
-                    {
-                        "day": "Thursday",
-                        "hours": "11\u202fAM\u20139\u202fPM"
-                    },
-                    {
-                        "day": "Friday",
-                        "hours": "11\u202fAM\u20139\u202fPM"
-                    },
-                    {
-                        "day": "Saturday",
-                        "hours": "11\u202fAM\u20139\u202fPM"
-                    },
-                    {
-                        "day": "Sunday",
-                        "hours": "11\u202fAM\u20139\u202fPM"
-                    }
-                ]
-            },
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
                 "Service options": [
                     {
-                        "Outdoor seating": true
-                    },
-                    {
                         "Onsite services": true
-                    },
-                    {
-                        "Takeout": true
-                    },
-                    {
-                        "Dine-in": true
-                    },
-                    {
-                        "Delivery": false
-                    }
-                ],
-                "Highlights": [
-                    {
-                        "Fast service": true
-                    },
-                    {
-                        "Great beer selection": true
-                    },
-                    {
-                        "Great cocktails": true
-                    },
-                    {
-                        "Live music": true
-                    },
-                    {
-                        "Live performances": true
-                    },
-                    {
-                        "Sports": true
-                    }
-                ],
-                "Popular for": [
-                    {
-                        "Solo dining": true
                     }
                 ],
                 "Accessibility": [
@@ -161,82 +90,371 @@
                         "Wheelchair accessible entrance": true
                     },
                     {
-                        "Wheelchair accessible restroom": true
+                        "Wheelchair accessible parking lot": true
                     }
                 ],
                 "Offerings": [
                     {
-                        "Alcohol": true
-                    },
-                    {
-                        "Beer": true
-                    },
-                    {
-                        "Cocktails": true
-                    },
-                    {
-                        "Dancing": true
-                    },
-                    {
-                        "Food": true
-                    },
-                    {
-                        "Food at bar": true
-                    },
-                    {
-                        "Happy hour drinks": true
-                    },
-                    {
-                        "Happy hour food": true
-                    },
-                    {
-                        "Hard liquor": true
-                    },
-                    {
-                        "Wine": true
-                    }
-                ],
-                "Dining options": [
-                    {
-                        "Seating": true
+                        "Beverages": true
                     }
                 ],
                 "Amenities": [
                     {
                         "Restroom": true
-                    },
-                    {
-                        "Wi-Fi": true
-                    },
-                    {
-                        "Free Wi-Fi": true
-                    }
-                ],
-                "Atmosphere": [
-                    {
-                        "Casual": true
-                    },
-                    {
-                        "Trendy": true
-                    }
-                ],
-                "Crowd": [
-                    {
-                        "Groups": true
-                    },
-                    {
-                        "LGBTQ+ friendly": true
-                    },
-                    {
-                        "Tourists": true
-                    },
-                    {
-                        "Transgender safespace": true
                     }
                 ],
                 "Planning": [
                     {
-                        "Accepts reservations": false
+                        "Appointment required": true
+                    },
+                    {
+                        "Appointments recommended": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    }
+                ],
+                "Children": [
+                    {
+                        "Good for kids": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Remedy%2022%20Salon&query_place_id=ChIJcYcVZpFxSIgRGD7TiTlMo6M",
+            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Athens%20New%20York,%20United%20States?hl=en",
+            "searchString": "Saloons in Athens New York, United States",
+            "language": "en",
+            "rank": 1,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoXFbUnECtImFiatqb6n07tiEGyBeoD2uhQkWvdErqvClWqO46h4iLpf3vjf7b_LWVixdkbbLdV6JgYUbtwS-cHCPpprKR7px6j35LQ9ceRvAZyyhPLxl6AcAUo-xlyybycMS0=w408-h290-k-no",
+            "kgmid": "/g/11rvg85dx9"
+        },
+        {
+            "title": "The Loft Hair & Spa Salon",
+            "price": null,
+            "categoryName": "Beauty salon",
+            "address": "101 S Shafer St, Athens, OH 45701",
+            "neighborhood": null,
+            "street": "101 S Shafer St",
+            "city": "Athens",
+            "postalCode": "45701",
+            "state": "Ohio",
+            "countryCode": "US",
+            "website": "http://thelofthairandspa.com/",
+            "phone": "(740) 447-5053",
+            "phoneUnformatted": "+17404475053",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 39.3283275,
+                "lng": -82.111075
+            },
+            "totalScore": 4.6,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJP6v0TpFzSIgRq6RTRCbzqNM",
+            "categories": [
+                "Beauty salon",
+                "Nail salon"
+            ],
+            "fid": "0x884873914ef4ab3f:0xd3a8f3264453a4ab",
+            "cid": "15251707483770823851",
+            "reviewsCount": 144,
+            "imagesCount": 37,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T07:32:42.572Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "10\u202fAM to 5\u202fPM"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "10\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "10\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "10\u202fAM to 7\u202fPM"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "10\u202fAM to 5\u202fPM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "9\u202fAM to 2\u202fPM"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "Closed"
+                }
+            ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "From the business": [
+                    {
+                        "Identifies as women-owned": true
+                    }
+                ],
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Gender-neutral restroom": true
+                    },
+                    {
+                        "Restroom": true
+                    }
+                ],
+                "Crowd": [
+                    {
+                        "LGBTQ+ friendly": true
+                    }
+                ],
+                "Planning": [
+                    {
+                        "Appointment required": true
+                    },
+                    {
+                        "Appointments recommended": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Checks": true
+                    },
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
+                    },
+                    {
+                        "Credit cards": true
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Free parking lot": true
+                    },
+                    {
+                        "On-site parking": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=The%20Loft%20Hair%20%26%20Spa%20Salon&query_place_id=ChIJP6v0TpFzSIgRq6RTRCbzqNM",
+            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Athens%20New%20York,%20United%20States?hl=en",
+            "searchString": "Saloons in Athens New York, United States",
+            "language": "en",
+            "rank": 2,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer6L84JYEeapIoLLOnJaaSp1bitnwgbn7O7iw8-Qks8Gi33NFOotey7-hA2pqBZrLHVS9W4rXlUs45lB-UXeTojKdcPUuSAHZ8jkJOa9Ly_DikhGmKY8wMc9sha-4U9OMgmMAcH=w408-h306-k-no",
+            "kgmid": "/g/11f3xkbqjg"
+        },
+        {
+            "title": "The Infinity Salon",
+            "price": null,
+            "categoryName": "Beauty salon",
+            "address": "1100 E State St, Athens, OH 45701",
+            "neighborhood": null,
+            "street": "1100 E State St",
+            "city": "Athens",
+            "postalCode": "45701",
+            "state": "Ohio",
+            "countryCode": "US",
+            "website": "http://theinfinitysalon.com/",
+            "phone": "(740) 594-4600",
+            "phoneUnformatted": "+17405944600",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 39.3348844,
+                "lng": -82.0513487
+            },
+            "totalScore": 4.3,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJ563YZmFySIgRcFCobVTf6aI",
+            "categories": [
+                "Beauty salon",
+                "Hair salon",
+                "Nail salon",
+                "Tanning salon"
+            ],
+            "fid": "0x8848726166d8ade7:0xa2e9df546da85070",
+            "cid": "11739159457427902576",
+            "reviewsCount": 127,
+            "imagesCount": 48,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T07:32:42.572Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "Closed"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "9:30\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "9:30\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "9:30\u202fAM to 8\u202fPM"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "9:30\u202fAM to 6\u202fPM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "9:30\u202fAM to 5\u202fPM"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "Closed"
+                }
+            ],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Restroom": true
+                    }
+                ],
+                "Planning": [
+                    {
+                        "Appointments recommended": true
+                    },
+                    {
+                        "Accepts walk-ins": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
+                    },
+                    {
+                        "Credit cards": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=The%20Infinity%20Salon&query_place_id=ChIJ563YZmFySIgRcFCobVTf6aI",
+            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Athens%20New%20York,%20United%20States?hl=en",
+            "searchString": "Saloons in Athens New York, United States",
+            "language": "en",
+            "rank": 3,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq05MyufG-1Me1RzWAzZY97e8-rYGGOuELSocW4s3PYiKO-5gEwHn1FMfuJh1iZd9tlZANqoj2-toA4afGheTROC2dJOD6C0yGnv0e38LBzE0vCAPcY3lROAOXkJv_E8C7iLUWy=w408-h306-k-no",
+            "kgmid": "/g/1tgzc0nv"
+        },
+        {
+            "title": "Raphael's Aveda Concept Salon",
+            "price": null,
+            "categoryName": "Beauty salon",
+            "address": "42 N Court St, Athens, OH 45701",
+            "neighborhood": null,
+            "street": "42 N Court St",
+            "city": "Athens",
+            "postalCode": "45701",
+            "state": "Ohio",
+            "countryCode": "US",
+            "website": "http://www.raphaelssalon.com/",
+            "phone": "(740) 592-4779",
+            "phoneUnformatted": "+17405924779",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 39.3304116,
+                "lng": -82.1009031
+            },
+            "totalScore": 4.4,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJQ1s8crxzSIgRVqSSBWaCB9g",
+            "categories": [
+                "Beauty salon",
+                "Hair salon",
+                "Cosmetics store",
+                "Nail salon"
+            ],
+            "fid": "0x884873bc723c5b43:0xd80782660592a456",
+            "cid": "15566554011721180246",
+            "reviewsCount": 90,
+            "imagesCount": 21,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T07:32:42.572Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible restroom": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Restroom": true
+                    }
+                ],
+                "Planning": [
+                    {
+                        "Appointment required": true
+                    },
+                    {
+                        "Appointments recommended": true
                     }
                 ],
                 "Payments": [
@@ -253,99 +471,84 @@
                         "Credit cards": true
                     }
                 ],
-                "Parking": [
+                "Children": [
                     {
-                        "Free street parking": true
-                    },
-                    {
-                        "Paid parking lot": true
-                    },
-                    {
-                        "Paid street parking": true
-                    },
-                    {
-                        "Usually difficult to find a space": true
-                    }
-                ],
-                "Pets": [
-                    {
-                        "Dogs allowed": true
+                        "Good for kids": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Central%20Saloon&query_place_id=ChIJfz0mN6VqkFQRKduJIM2Kskw",
-            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
-            "searchString": "Saloons in Seattle Washington, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Raphael's%20Aveda%20Concept%20Salon&query_place_id=ChIJQ1s8crxzSIgRVqSSBWaCB9g",
+            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Athens%20New%20York,%20United%20States?hl=en",
+            "searchString": "Saloons in Athens New York, United States",
             "language": "en",
-            "rank": 1,
+            "rank": 4,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoFSSyKbRXwLTeoCd14JvM3SWqni52rcN8zJo-1H4M6YYaE1SawSQ-JAi96ZgA18YsIzTLJCE9NbSS8c3AeiGUj1LU0reUmLSXs12KQQf4nM1EzxMgVrotqpDg-_ev0_9LOEguIovPkfRWo=w408-h306-k-no",
-            "kgmid": "/g/1ydp3d2gk"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepMXoOJj09O0ExvzU02iCvr08EtnDz8gVsi0PmHoPiEC2914Pf9a4c9soGcwmcUOzlvP4lLtNgANMm4O6uSSle39n8KQRiU53-kyndL7adEKMSHs26mh5lqPluNCI8dI57eve0=w408-h306-k-no",
+            "kgmid": "/g/1tgc0gdv"
         },
         {
-            "title": "Nola",
+            "title": "Attractions Hair & Nail Salon",
             "price": null,
             "categoryName": "Hair salon",
-            "address": "1090 N Northlake Way, Seattle, WA 98103",
-            "neighborhood": "Fremont",
-            "street": "1090 N Northlake Way",
-            "city": "Seattle",
-            "postalCode": "98103",
-            "state": "Washington",
+            "address": "19 N Court St, Athens, OH 45701",
+            "neighborhood": null,
+            "street": "19 N Court St",
+            "city": "Athens",
+            "postalCode": "45701",
+            "state": "Ohio",
             "countryCode": "US",
-            "website": "http://nolaseattle.com/",
-            "phone": "(206) 402-6651",
-            "phoneUnformatted": "+12064026651",
-            "claimThisBusiness": true,
+            "website": "http://www.attractionshairandtanning.com/",
+            "phone": "(740) 594-4231",
+            "phoneUnformatted": "+17405944231",
+            "claimThisBusiness": false,
             "location": {
-                "lat": 47.6485139,
-                "lng": -122.3433502
+                "lat": 39.3299525,
+                "lng": -82.1012714
             },
-            "totalScore": 4.9,
+            "totalScore": 4,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJf6o72gMVkFQRmgz9LWBITGQ",
+            "placeId": "ChIJcbFte7xzSIgRtc0OlZboH3I",
             "categories": [
-                "Hair salon",
-                "Barber shop"
+                "Hair salon"
             ],
-            "fid": "0x54901503da3baa7f:0x644c48602dfd0c9a",
-            "cid": "7227231079948422298",
-            "reviewsCount": 133,
-            "imagesCount": 24,
+            "fid": "0x884873bc7b6db171:0x721fe896950ecdb5",
+            "cid": "8223547178045328821",
+            "reviewsCount": 345,
+            "imagesCount": 14,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:20:30.562Z",
+            "scrapedAt": "2026-02-24T07:32:42.572Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Monday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "9\u202fAM to 7\u202fPM"
                 },
                 {
                     "day": "Tuesday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "9\u202fAM to 7\u202fPM"
                 },
                 {
                     "day": "Wednesday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "9\u202fAM to 7\u202fPM"
                 },
                 {
                     "day": "Thursday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "9\u202fAM to 7\u202fPM"
                 },
                 {
                     "day": "Friday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "9\u202fAM to 7\u202fPM"
                 },
                 {
                     "day": "Saturday",
-                    "hours": "10\u202fAM to 3\u202fPM"
+                    "hours": "9\u202fAM to 5\u202fPM"
                 },
                 {
                     "day": "Sunday",
-                    "hours": "10\u202fAM to 3\u202fPM"
+                    "hours": "Closed"
                 }
             ],
             "peopleAlsoSearch": [],
@@ -389,291 +592,6 @@
                     {
                         "Credit cards": true
                     }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Nola&query_place_id=ChIJf6o72gMVkFQRmgz9LWBITGQ",
-            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
-            "searchString": "Saloons in Seattle Washington, United States",
-            "language": "en",
-            "rank": 2,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoWh3Vns77l51l80gLUbI2BAMzrF6yn4fvrJxabez9GKYI-aQc5U2etY4IPzcRS0j3BgQv1xkm-LOLzzJfux23hTJX7UaVmwUnUAk7IKkttbOlE5av7mgtD8lzZmuJn4sI1VNwm=w408-h541-k-no",
-            "kgmid": "/g/1w6_njdl"
-        },
-        {
-            "title": "The Hideout",
-            "description": "Dozens of paintings hang on the walls at this local hangout with signature drinks & bar snacks.",
-            "price": "$20\u201330",
-            "categoryName": "Bar",
-            "address": "1005 Boren Ave, Seattle, WA 98104",
-            "neighborhood": "Downtown Seattle",
-            "street": "1005 Boren Ave",
-            "city": "Seattle",
-            "postalCode": "98104",
-            "state": "Washington",
-            "countryCode": "US",
-            "website": "http://www.hideoutseattle.com/",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 47.6094917,
-                "lng": -122.3255584
-            },
-            "totalScore": 4.5,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJCRhG4clqkFQR4iHxbRuO9QQ",
-            "categories": [
-                "Bar"
-            ],
-            "fid": "0x54906ac9e1461809:0x4f58e1b6df121e2",
-            "cid": "357347993905603042",
-            "reviewsCount": 501,
-            "imagesCount": 274,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:20:30.565Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Monday",
-                    "hours": "6\u202fPM to 2\u202fAM"
-                },
-                {
-                    "day": "Tuesday",
-                    "hours": "6\u202fPM to 2\u202fAM"
-                },
-                {
-                    "day": "Wednesday",
-                    "hours": "4\u202fPM to 2\u202fAM"
-                },
-                {
-                    "day": "Thursday",
-                    "hours": "4\u202fPM to 2\u202fAM"
-                },
-                {
-                    "day": "Friday",
-                    "hours": "4\u202fPM to 2\u202fAM"
-                },
-                {
-                    "day": "Saturday",
-                    "hours": "6\u202fPM to 2\u202fAM"
-                },
-                {
-                    "day": "Sunday",
-                    "hours": "6\u202fPM to 12\u202fAM"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Service options": [
-                    {
-                        "Dine-in": true
-                    },
-                    {
-                        "Delivery": false
-                    },
-                    {
-                        "Takeout": false
-                    }
-                ],
-                "Highlights": [
-                    {
-                        "Bar games": true
-                    },
-                    {
-                        "Fast service": true
-                    },
-                    {
-                        "Great beer selection": true
-                    },
-                    {
-                        "Great cocktails": true
-                    },
-                    {
-                        "Live performances": true
-                    }
-                ],
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    }
-                ],
-                "Offerings": [
-                    {
-                        "Alcohol": true
-                    },
-                    {
-                        "Beer": true
-                    },
-                    {
-                        "Cocktails": true
-                    },
-                    {
-                        "Dancing": true
-                    },
-                    {
-                        "Happy hour drinks": true
-                    },
-                    {
-                        "Hard liquor": true
-                    },
-                    {
-                        "Wine": true
-                    }
-                ],
-                "Dining options": [
-                    {
-                        "Table service": false
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Gender-neutral restroom": true
-                    },
-                    {
-                        "Restroom": true
-                    }
-                ],
-                "Atmosphere": [
-                    {
-                        "Casual": true
-                    },
-                    {
-                        "Cozy": true
-                    },
-                    {
-                        "Trendy": true
-                    }
-                ],
-                "Crowd": [
-                    {
-                        "Groups": true
-                    },
-                    {
-                        "LGBTQ+ friendly": true
-                    }
-                ],
-                "Planning": [
-                    {
-                        "Accepts reservations": false
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    },
-                    {
-                        "Credit cards": true
-                    }
-                ],
-                "Pets": [
-                    {
-                        "Dogs allowed": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=The%20Hideout&query_place_id=ChIJCRhG4clqkFQR4iHxbRuO9QQ",
-            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
-            "searchString": "Saloons in Seattle Washington, United States",
-            "language": "en",
-            "rank": 3,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqpQORmitLh_AGFT5owW9Al1-GwoQx9ps1Jl1AWeW-Z1v1h2jnMIBzjGvxWFgjOymW-dXIrKm5Lh6WmjopoSnXerj5_cecaCWJOR2wMUposAvHNC7qR08UPwGKi3pKnWOY0h_79=w408-h306-k-no",
-            "kgmid": "/g/1vn1870m"
-        },
-        {
-            "title": "SALOON",
-            "price": null,
-            "categoryName": "Barber shop",
-            "address": "401 Broadway E Suite 104, Seattle, WA 98102",
-            "neighborhood": "Capitol Hill",
-            "street": "401 Broadway E Suite 104",
-            "city": "Seattle",
-            "postalCode": "98102",
-            "state": "Washington",
-            "countryCode": "US",
-            "website": "http://vagaro.com/saloonkaleb",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 47.6225306,
-                "lng": -122.3214759
-            },
-            "totalScore": 5,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJwRllP1sVkFQRwg4oNLzCqwQ",
-            "categories": [
-                "Barber shop"
-            ],
-            "fid": "0x5490155b3f6519c1:0x4abc2bc34280ec2",
-            "cid": "336576710753914562",
-            "reviewsCount": 33,
-            "imagesCount": 18,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:20:30.565Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Monday",
-                    "hours": "Closed"
-                },
-                {
-                    "day": "Tuesday",
-                    "hours": "11\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Wednesday",
-                    "hours": "11\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Thursday",
-                    "hours": "11\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Friday",
-                    "hours": "11\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Saturday",
-                    "hours": "Closed"
-                },
-                {
-                    "day": "Sunday",
-                    "hours": "Closed"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Service options": [
-                    {
-                        "Onsite services": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Restroom": true
-                    }
-                ],
-                "Planning": [
-                    {
-                        "Appointments recommended": true
-                    },
-                    {
-                        "Accepts walk-ins": true
-                    }
                 ],
                 "Children": [
                     {
@@ -682,128 +600,14 @@
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=SALOON&query_place_id=ChIJwRllP1sVkFQRwg4oNLzCqwQ",
-            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
-            "searchString": "Saloons in Seattle Washington, United States",
-            "language": "en",
-            "rank": 4,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepPxExkEf7_FXAsS1dDaQlq9cRfpY4EwAWV39snlztriCPBYXkJdAffwCil4BZPo_9yqzaf3yKTyA-6zPRhcRu7h-HRgnNN6u9I0fuuYCNW8XBoxgDeoR2P3xN0btiyvIMe-cSS=w408-h476-k-no",
-            "kgmid": "/g/11wflgnvrq"
-        },
-        {
-            "title": "The Colour Distillery Hair Lounge",
-            "price": null,
-            "categoryName": "Hair salon",
-            "address": "4103 Stone Way N, Seattle, WA 98103",
-            "neighborhood": "Fremont",
-            "street": "4103 Stone Way N",
-            "city": "Seattle",
-            "postalCode": "98103",
-            "state": "Washington",
-            "countryCode": "US",
-            "website": "http://www.thecolourdistillery.com/",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 47.6567871,
-                "lng": -122.3426601
-            },
-            "totalScore": 4.9,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJvWesl5wVkFQRSv7Ql1p75_o",
-            "categories": [
-                "Hair salon"
-            ],
-            "fid": "0x5490159c97ac67bd:0xfae77b5a97d0fe4a",
-            "cid": "18079554858126474826",
-            "reviewsCount": 79,
-            "imagesCount": 53,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:20:30.565Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Monday",
-                    "hours": "Closed"
-                },
-                {
-                    "day": "Tuesday",
-                    "hours": "10\u202fAM to 6\u202fPM"
-                },
-                {
-                    "day": "Wednesday",
-                    "hours": "10\u202fAM to 8\u202fPM"
-                },
-                {
-                    "day": "Thursday",
-                    "hours": "10\u202fAM to 8\u202fPM"
-                },
-                {
-                    "day": "Friday",
-                    "hours": "10\u202fAM to 6\u202fPM"
-                },
-                {
-                    "day": "Saturday",
-                    "hours": "9\u202fAM to 5\u202fPM"
-                },
-                {
-                    "day": "Sunday",
-                    "hours": "Closed"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Restroom": true
-                    }
-                ],
-                "Planning": [
-                    {
-                        "Appointment required": true
-                    },
-                    {
-                        "Appointments recommended": true
-                    }
-                ],
-                "Recycling": [
-                    {
-                        "Plastic bottles": true
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    },
-                    {
-                        "NFC mobile payments": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=The%20Colour%20Distillery%20Hair%20Lounge&query_place_id=ChIJvWesl5wVkFQRSv7Ql1p75_o",
-            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
-            "searchString": "Saloons in Seattle Washington, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Attractions%20Hair%20%26%20Nail%20Salon&query_place_id=ChIJcbFte7xzSIgRtc0OlZboH3I",
+            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Athens%20New%20York,%20United%20States?hl=en",
+            "searchString": "Saloons in Athens New York, United States",
             "language": "en",
             "rank": 5,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerTGlZwO55WEBdU0uDP8M9tAt-vKmMOqcuTz0eCa7l_r4TrbE2XBrUyHyifIpj1ooJQaGTi5E63TADbAN0K88g0-rd5S23sg-YWrgorfKsJ27bZBhVQ-1n47bjiXa1pv3JY1Ls1Sw=w408-h306-k-no",
-            "kgmid": "/g/11j0yh99jf"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqG4wVVowLo1eC-5rBIRHZmDJNMh82GlkfIYTjOjB1SezrI0zqfF4b1eSNzEnIzpFJun_HGdbfeM26eVttbO0gvT_6J20TNNbbDcIIFXw8TFH3UWLbNf206MFesh4wIcJ386-JJ=w408-h408-k-no",
+            "kgmid": "/g/11bwl1trdl"
         }
     ]
 }
