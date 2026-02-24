@@ -1,134 +1,15 @@
 {
-    "timestamp": "2026-02-23 23:08:06.652994",
+    "timestamp": "2026-02-23 23:14:14.962697",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "gNtW2sz0Dc5CovnDz",
+    "run_id": "zLHLoZDxQEvfFXRMd",
     "run_status": "SUCCEEDED",
     "search_query": "Saloons in Seattle Washington, United States",
     "max_results_requested": 5,
     "records_retrieved": 5,
-    "run_cost_usd": 0.0002,
-    "compute_units": 0.030323333333333334,
+    "run_cost_usd": 0.0202,
+    "compute_units": 0.044345555555555555,
     "low_balance_warning": false,
     "actor_output": [
-        {
-            "title": "Blonde Beauty Bar",
-            "price": null,
-            "categoryName": "Beauty salon",
-            "address": "4232 N Brown Ave, Scottsdale, AZ 85251",
-            "neighborhood": "Brown & Stetson Business",
-            "street": "4232 N Brown Ave",
-            "city": "Scottsdale",
-            "postalCode": "85251",
-            "state": "Arizona",
-            "countryCode": "US",
-            "website": "https://www.vagaro.com/blondebeautybar",
-            "phone": "(509) 778-1478",
-            "phoneUnformatted": "+15097781478",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 33.4975646,
-                "lng": -111.9245288
-            },
-            "totalScore": 4.6,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJS_DVfJcFK4cRjqEFVil7m_k",
-            "categories": [
-                "Beauty salon"
-            ],
-            "fid": "0x872b05977cd5f04b:0xf99b7b295605a18e",
-            "cid": "17986104954301292942",
-            "reviewsCount": 65,
-            "imagesCount": 35,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:07:56.471Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Monday",
-                    "hours": "9\u202fAM to 8\u202fPM"
-                },
-                {
-                    "day": "Tuesday",
-                    "hours": "9\u202fAM to 8\u202fPM"
-                },
-                {
-                    "day": "Wednesday",
-                    "hours": "9\u202fAM to 8\u202fPM"
-                },
-                {
-                    "day": "Thursday",
-                    "hours": "9\u202fAM to 8\u202fPM"
-                },
-                {
-                    "day": "Friday",
-                    "hours": "9\u202fAM to 8\u202fPM"
-                },
-                {
-                    "day": "Saturday",
-                    "hours": "9\u202fAM to 8\u202fPM"
-                },
-                {
-                    "day": "Sunday",
-                    "hours": "9\u202fAM to 8\u202fPM"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    }
-                ],
-                "Offerings": [
-                    {
-                        "Beverages": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Restroom": true
-                    }
-                ],
-                "Planning": [
-                    {
-                        "Appointment required": true
-                    },
-                    {
-                        "Appointments recommended": true
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    },
-                    {
-                        "NFC mobile payments": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Blonde%20Beauty%20Bar&query_place_id=ChIJS_DVfJcFK4cRjqEFVil7m_k",
-            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
-            "searchString": "Saloons in Seattle Washington, United States",
-            "language": "en",
-            "rank": 1,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwermFEvbItnXA0cLUNXTYa6VU0FFWmw5nUG4C6qY1Oqsshhlj86dumlkpE2qfV8nwbR29EhnW6RS4qrZacr-rt3ASsRw3dVhoWE69AAkNmFEkFyxDspm5cjpxxiNgZGqoD0iuNlHk7t0tHoC=w408-h612-k-no",
-            "kgmid": "/g/11h4x4_sqk"
-        },
         {
             "title": "Central Saloon",
             "description": "Casual saloon with a history dating back to the 19th century & a menu of American pub grub.",
@@ -164,7 +45,7 @@
             "reviewsCount": 1177,
             "imagesCount": 1263,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:07:56.471Z",
+            "scrapedAt": "2026-02-24T07:14:00.925Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
@@ -397,7 +278,7 @@
             "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
             "searchString": "Saloons in Seattle Washington, United States",
             "language": "en",
-            "rank": 2,
+            "rank": 1,
             "isAdvertisement": false,
             "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoFSSyKbRXwLTeoCd14JvM3SWqni52rcN8zJo-1H4M6YYaE1SawSQ-JAi96ZgA18YsIzTLJCE9NbSS8c3AeiGUj1LU0reUmLSXs12KQQf4nM1EzxMgVrotqpDg-_ev0_9LOEguIovPkfRWo=w408-h306-k-no",
             "kgmid": "/g/1ydp3d2gk"
@@ -431,7 +312,7 @@
             "reviewsCount": 33,
             "imagesCount": 18,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:07:56.471Z",
+            "scrapedAt": "2026-02-24T07:14:00.925Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
@@ -497,10 +378,277 @@
             "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
             "searchString": "Saloons in Seattle Washington, United States",
             "language": "en",
-            "rank": 3,
+            "rank": 2,
             "isAdvertisement": false,
             "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepPxExkEf7_FXAsS1dDaQlq9cRfpY4EwAWV39snlztriCPBYXkJdAffwCil4BZPo_9yqzaf3yKTyA-6zPRhcRu7h-HRgnNN6u9I0fuuYCNW8XBoxgDeoR2P3xN0btiyvIMe-cSS=w408-h476-k-no",
             "kgmid": "/g/11wflgnvrq"
+        },
+        {
+            "title": "Jules Maes Saloon",
+            "description": "Historic hangout serving pub grub with a back room for live music, pinball, Ping-Pong & air hockey.",
+            "price": "$20\u201330",
+            "categoryName": "Bar",
+            "address": "5919 Airport Wy S, Seattle, WA 98108",
+            "neighborhood": "Georgetown",
+            "street": "5919 Airport Wy S",
+            "city": "Seattle",
+            "postalCode": "98108",
+            "state": "Washington",
+            "countryCode": "US",
+            "website": "https://www.julesmaessaloon.com/",
+            "phone": "(206) 420-7715",
+            "phoneUnformatted": "+12064207715",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 47.5495806,
+                "lng": -122.3174943
+            },
+            "totalScore": 4.5,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJ-14lzutBkFQRaCVjzITxbr0",
+            "categories": [
+                "Bar",
+                "Bar & grill",
+                "Restaurant"
+            ],
+            "fid": "0x549041ebce255efb:0xbd6ef184cc632568",
+            "cid": "13650113073273578856",
+            "reviewsCount": 1076,
+            "imagesCount": 667,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T07:14:00.925Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [
+                {
+                    "day": "Monday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Tuesday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Wednesday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Thursday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Friday",
+                    "hours": "11\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Saturday",
+                    "hours": "9\u202fAM to 2\u202fAM"
+                },
+                {
+                    "day": "Sunday",
+                    "hours": "9\u202fAM to 2\u202fAM"
+                }
+            ],
+            "additionalOpeningHours": {
+                "Happy hours": [
+                    {
+                        "day": "Monday",
+                        "hours": "3\u20136\u202fPM"
+                    },
+                    {
+                        "day": "Tuesday",
+                        "hours": "3\u20136\u202fPM"
+                    },
+                    {
+                        "day": "Wednesday",
+                        "hours": "3\u20136\u202fPM"
+                    },
+                    {
+                        "day": "Thursday",
+                        "hours": "3\u20136\u202fPM"
+                    },
+                    {
+                        "day": "Friday",
+                        "hours": "3\u20136\u202fPM"
+                    },
+                    {
+                        "day": "Saturday",
+                        "hours": "3\u20136\u202fPM"
+                    },
+                    {
+                        "day": "Sunday",
+                        "hours": "3\u20136\u202fPM"
+                    }
+                ]
+            },
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "From the business": [
+                    {
+                        "Identifies as women-owned": true
+                    }
+                ],
+                "Service options": [
+                    {
+                        "Delivery": true
+                    },
+                    {
+                        "Onsite services": true
+                    },
+                    {
+                        "Takeout": true
+                    },
+                    {
+                        "Dine-in": true
+                    }
+                ],
+                "Highlights": [
+                    {
+                        "Bar games": true
+                    },
+                    {
+                        "Fast service": true
+                    },
+                    {
+                        "Great beer selection": true
+                    },
+                    {
+                        "Great cocktails": true
+                    },
+                    {
+                        "Karaoke": true
+                    },
+                    {
+                        "Live music": true
+                    },
+                    {
+                        "Live performances": true
+                    },
+                    {
+                        "Sports": true
+                    },
+                    {
+                        "Trivia night": true
+                    }
+                ],
+                "Popular for": [
+                    {
+                        "Solo dining": true
+                    }
+                ],
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    }
+                ],
+                "Offerings": [
+                    {
+                        "Alcohol": true
+                    },
+                    {
+                        "Arcade games": true
+                    },
+                    {
+                        "Beer": true
+                    },
+                    {
+                        "Cocktails": true
+                    },
+                    {
+                        "Dancing": true
+                    },
+                    {
+                        "Food": true
+                    },
+                    {
+                        "Food at bar": true
+                    },
+                    {
+                        "Happy hour drinks": true
+                    },
+                    {
+                        "Happy hour food": true
+                    },
+                    {
+                        "Hard liquor": true
+                    },
+                    {
+                        "Wine": true
+                    }
+                ],
+                "Dining options": [
+                    {
+                        "Seating": true
+                    },
+                    {
+                        "Table service": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Restroom": true
+                    },
+                    {
+                        "Wi-Fi": true
+                    },
+                    {
+                        "Free Wi-Fi": true
+                    }
+                ],
+                "Atmosphere": [
+                    {
+                        "Casual": true
+                    },
+                    {
+                        "Cozy": true
+                    },
+                    {
+                        "Trendy": true
+                    }
+                ],
+                "Crowd": [
+                    {
+                        "Groups": true
+                    },
+                    {
+                        "Tourists": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    },
+                    {
+                        "NFC mobile payments": true
+                    }
+                ],
+                "Parking": [
+                    {
+                        "Free parking lot": true
+                    },
+                    {
+                        "Free street parking": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Jules%20Maes%20Saloon&query_place_id=ChIJ-14lzutBkFQRaCVjzITxbr0",
+            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
+            "searchString": "Saloons in Seattle Washington, United States",
+            "language": "en",
+            "rank": 3,
+            "isAdvertisement": false,
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoDm4nNeBOiL_kiw4cBW3tJYtjjNZr4wJU06547Ejr04yj5L5kA8vfSBGWm7SPFm2SdYHgpTQdzfGqG-qJn8UEFVQkal9r50dq9_fF6zHeilyy-dxke2dtjCOD_3-ScbrBnThw=w408-h306-k-no",
+            "kgmid": "/g/1thw1vwg"
         },
         {
             "title": "Antonio Salon",
@@ -533,7 +681,7 @@
             "reviewsCount": 592,
             "imagesCount": 91,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:07:56.472Z",
+            "scrapedAt": "2026-02-24T07:14:00.925Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
@@ -630,96 +778,166 @@
             "kgmid": "/g/12qhc44fg"
         },
         {
-            "title": "Nola",
-            "price": null,
-            "categoryName": "Hair salon",
-            "address": "1090 N Northlake Way, Seattle, WA 98103",
-            "neighborhood": "Fremont",
-            "street": "1090 N Northlake Way",
+            "title": "The Hideout",
+            "description": "Dozens of paintings hang on the walls at this local hangout with signature drinks & bar snacks.",
+            "price": "$20\u201330",
+            "categoryName": "Bar",
+            "address": "1005 Boren Ave, Seattle, WA 98104",
+            "neighborhood": "Downtown Seattle",
+            "street": "1005 Boren Ave",
             "city": "Seattle",
-            "postalCode": "98103",
+            "postalCode": "98104",
             "state": "Washington",
             "countryCode": "US",
-            "website": "http://nolaseattle.com/",
-            "phone": "(206) 402-6651",
-            "phoneUnformatted": "+12064026651",
-            "claimThisBusiness": true,
+            "website": "http://www.hideoutseattle.com/",
+            "claimThisBusiness": false,
             "location": {
-                "lat": 47.6485139,
-                "lng": -122.3433502
+                "lat": 47.6094917,
+                "lng": -122.3255584
             },
-            "totalScore": 4.9,
+            "totalScore": 4.5,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJf6o72gMVkFQRmgz9LWBITGQ",
+            "placeId": "ChIJCRhG4clqkFQR4iHxbRuO9QQ",
             "categories": [
-                "Hair salon",
-                "Barber shop"
+                "Bar"
             ],
-            "fid": "0x54901503da3baa7f:0x644c48602dfd0c9a",
-            "cid": "7227231079948422298",
-            "reviewsCount": 133,
-            "imagesCount": 24,
+            "fid": "0x54906ac9e1461809:0x4f58e1b6df121e2",
+            "cid": "357347993905603042",
+            "reviewsCount": 501,
+            "imagesCount": 274,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:07:56.472Z",
+            "scrapedAt": "2026-02-24T07:14:00.925Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Monday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "6\u202fPM to 2\u202fAM"
                 },
                 {
                     "day": "Tuesday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "6\u202fPM to 2\u202fAM"
                 },
                 {
                     "day": "Wednesday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "4\u202fPM to 2\u202fAM"
                 },
                 {
                     "day": "Thursday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "4\u202fPM to 2\u202fAM"
                 },
                 {
                     "day": "Friday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "4\u202fPM to 2\u202fAM"
                 },
                 {
                     "day": "Saturday",
-                    "hours": "10\u202fAM to 3\u202fPM"
+                    "hours": "6\u202fPM to 2\u202fAM"
                 },
                 {
                     "day": "Sunday",
-                    "hours": "10\u202fAM to 3\u202fPM"
+                    "hours": "6\u202fPM to 12\u202fAM"
                 }
             ],
             "peopleAlsoSearch": [],
             "placesTags": [],
             "reviewsTags": [],
             "additionalInfo": {
+                "Service options": [
+                    {
+                        "Dine-in": true
+                    },
+                    {
+                        "Delivery": false
+                    },
+                    {
+                        "Takeout": false
+                    }
+                ],
+                "Highlights": [
+                    {
+                        "Bar games": true
+                    },
+                    {
+                        "Fast service": true
+                    },
+                    {
+                        "Great beer selection": true
+                    },
+                    {
+                        "Great cocktails": true
+                    },
+                    {
+                        "Live performances": true
+                    }
+                ],
                 "Accessibility": [
                     {
                         "Wheelchair accessible entrance": true
                     },
                     {
-                        "Wheelchair accessible parking lot": true
+                        "Wheelchair accessible restroom": true
+                    }
+                ],
+                "Offerings": [
+                    {
+                        "Alcohol": true
                     },
                     {
-                        "Wheelchair accessible restroom": true
+                        "Beer": true
+                    },
+                    {
+                        "Cocktails": true
+                    },
+                    {
+                        "Dancing": true
+                    },
+                    {
+                        "Happy hour drinks": true
+                    },
+                    {
+                        "Hard liquor": true
+                    },
+                    {
+                        "Wine": true
+                    }
+                ],
+                "Dining options": [
+                    {
+                        "Table service": false
                     }
                 ],
                 "Amenities": [
                     {
+                        "Gender-neutral restroom": true
+                    },
+                    {
                         "Restroom": true
+                    }
+                ],
+                "Atmosphere": [
+                    {
+                        "Casual": true
+                    },
+                    {
+                        "Cozy": true
+                    },
+                    {
+                        "Trendy": true
+                    }
+                ],
+                "Crowd": [
+                    {
+                        "Groups": true
+                    },
+                    {
+                        "LGBTQ+ friendly": true
                     }
                 ],
                 "Planning": [
                     {
-                        "Appointment required": true
-                    },
-                    {
-                        "Appointments recommended": true
+                        "Accepts reservations": false
                     }
                 ],
                 "Payments": [
@@ -730,22 +948,24 @@
                         "Debit cards": true
                     },
                     {
-                        "NFC mobile payments": true
-                    },
-                    {
                         "Credit cards": true
+                    }
+                ],
+                "Pets": [
+                    {
+                        "Dogs allowed": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Nola&query_place_id=ChIJf6o72gMVkFQRmgz9LWBITGQ",
+            "url": "https://www.google.com/maps/search/?api=1&query=The%20Hideout&query_place_id=ChIJCRhG4clqkFQR4iHxbRuO9QQ",
             "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Seattle%20Washington,%20United%20States?hl=en",
             "searchString": "Saloons in Seattle Washington, United States",
             "language": "en",
             "rank": 5,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoWh3Vns77l51l80gLUbI2BAMzrF6yn4fvrJxabez9GKYI-aQc5U2etY4IPzcRS0j3BgQv1xkm-LOLzzJfux23hTJX7UaVmwUnUAk7IKkttbOlE5av7mgtD8lzZmuJn4sI1VNwm=w408-h541-k-no",
-            "kgmid": "/g/1w6_njdl"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqpQORmitLh_AGFT5owW9Al1-GwoQx9ps1Jl1AWeW-Z1v1h2jnMIBzjGvxWFgjOymW-dXIrKm5Lh6WmjopoSnXerj5_cecaCWJOR2wMUposAvHNC7qR08UPwGKi3pKnWOY0h_79=w408-h306-k-no",
+            "kgmid": "/g/1vn1870m"
         }
     ]
 }
