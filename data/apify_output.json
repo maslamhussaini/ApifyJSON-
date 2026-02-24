@@ -1,75 +1,153 @@
 {
-    "timestamp": "2026-02-24 12:32:53.431013",
+    "timestamp": "2026-02-24 00:06:55.712828",
     "actor_id": "nwua9Gu5YrADL7ZDj",
-    "run_id": "31Hjkl22erjROxdhP",
+    "run_id": "JbjtwrZ5pCpuPH945",
     "run_status": "SUCCEEDED",
-    "search_query": "Saloons in Athens New York, United States",
+    "search_query": "Eye Clinics in Raalte All (State), All (Country)",
     "max_results_requested": 5,
-    "records_retrieved": 5,
-    "run_cost_usd": 0.0202,
-    "compute_units": 0.01252888888888889,
+    "records_retrieved": 3,
+    "run_cost_usd": 0.0002,
+    "compute_units": 0.006767777777777778,
     "low_balance_warning": false,
     "actor_output": [
         {
-            "title": "Remedy 22 Salon",
+            "title": "Byers Eye Institute in Portola Valley",
             "price": null,
-            "categoryName": "Beauty salon",
-            "address": "8966 United Ln, Athens, OH 45701",
+            "categoryName": "Medical clinic",
+            "address": "3240 Alpine Rd, Portola Valley, CA 94028",
             "neighborhood": null,
-            "street": "8966 United Ln",
-            "city": "Athens",
-            "postalCode": "45701",
-            "state": "Ohio",
+            "street": "3240 Alpine Rd",
+            "city": "Portola Valley",
+            "postalCode": "94028",
+            "state": "California",
             "countryCode": "US",
-            "website": "http://remedy22salon.com/",
-            "phone": "(740) 447-5017",
-            "phoneUnformatted": "+17404475017",
+            "website": "https://stanfordhealthcare.org/medical-clinics/byers-eye-institute-portola-valley.html?cid=clinic%7Clocal%7CGoogle",
+            "phone": "(650) 723-6995",
+            "phoneUnformatted": "+16507236995",
             "claimThisBusiness": false,
             "location": {
-                "lat": 39.2904786,
-                "lng": -82.1270449
+                "lat": 37.3990861,
+                "lng": -122.1929547
             },
-            "totalScore": 4.8,
+            "totalScore": 5,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJcYcVZpFxSIgRGD7TiTlMo6M",
+            "placeId": "ChIJe6S7FpOlj4ARsQ99_P8v4-c",
             "categories": [
-                "Beauty salon",
-                "Massage therapist",
-                "Tattoo artist"
+                "Medical clinic"
             ],
-            "fid": "0x8848719166158771:0xa3a34c3989d33e18",
-            "cid": "11791352059395259928",
-            "reviewsCount": 46,
-            "imagesCount": 37,
+            "fid": "0x808fa59316bba47b:0xe7e32ffffc7d0fb1",
+            "cid": "16709251818973892529",
+            "reviewsCount": 2,
+            "imagesCount": 1,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:32:42.571Z",
+            "scrapedAt": "2026-02-24T08:06:55.315Z",
+            "googleFoodUrl": null,
+            "hotelAds": [],
+            "openingHours": [],
+            "peopleAlsoSearch": [],
+            "placesTags": [],
+            "reviewsTags": [],
+            "additionalInfo": {
+                "Accessibility": [
+                    {
+                        "Wheelchair accessible entrance": true
+                    },
+                    {
+                        "Wheelchair accessible parking lot": true
+                    },
+                    {
+                        "Wheelchair accessible restroom": true
+                    }
+                ],
+                "Amenities": [
+                    {
+                        "Restroom": true
+                    }
+                ],
+                "Planning": [
+                    {
+                        "Appointments recommended": true
+                    }
+                ],
+                "Payments": [
+                    {
+                        "Credit cards": true
+                    },
+                    {
+                        "Debit cards": true
+                    }
+                ]
+            },
+            "gasPrices": [],
+            "url": "https://www.google.com/maps/search/?api=1&query=Byers%20Eye%20Institute%20in%20Portola%20Valley&query_place_id=ChIJe6S7FpOlj4ARsQ99_P8v4-c",
+            "searchPageUrl": "https://www.google.com/maps/search/Eye%20Clinics%20in%20Raalte%20All%20(State),%20All%20(Country)?hl=en",
+            "searchString": "Eye Clinics in Raalte All (State), All (Country)",
+            "language": "en",
+            "rank": 1,
+            "isAdvertisement": false,
+            "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Hjusw1fgKrz-CKD7azPlUA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=257.24106&pitch=0&thumbfov=100",
+            "kgmid": "/g/11vq2zdwzb"
+        },
+        {
+            "title": "Byers Eye Institute",
+            "price": null,
+            "categoryName": "Medical clinic",
+            "address": "2452 Watson Ct, Palo Alto, CA 94303",
+            "neighborhood": null,
+            "street": "2452 Watson Ct",
+            "city": "Palo Alto",
+            "postalCode": "94303",
+            "state": "California",
+            "countryCode": "US",
+            "website": "https://stanfordhealthcare.org/medical-clinics/byers-eye-institute.html?cid=clinic%7Clocal%7CGoogle",
+            "phone": "(650) 723-6995",
+            "phoneUnformatted": "+16507236995",
+            "claimThisBusiness": false,
+            "location": {
+                "lat": 37.4484607,
+                "lng": -122.1205821
+            },
+            "totalScore": 3.4,
+            "permanentlyClosed": false,
+            "temporarilyClosed": false,
+            "placeId": "ChIJaeFkA6G7j4AR2NjPrWf9Ew0",
+            "categories": [
+                "Medical clinic",
+                "Ophthalmologist"
+            ],
+            "fid": "0x808fbba10364e169:0xd13fd67adcfd8d8",
+            "cid": "942375368790104280",
+            "reviewsCount": 168,
+            "imagesCount": 46,
+            "imageCategories": [],
+            "scrapedAt": "2026-02-24T08:06:55.316Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [
                 {
                     "day": "Monday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "8\u202fAM to 5\u202fPM"
                 },
                 {
                     "day": "Tuesday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "8\u202fAM to 5\u202fPM"
                 },
                 {
                     "day": "Wednesday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "8\u202fAM to 5\u202fPM"
                 },
                 {
                     "day": "Thursday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "8\u202fAM to 5\u202fPM"
                 },
                 {
                     "day": "Friday",
-                    "hours": "10\u202fAM to 7\u202fPM"
+                    "hours": "8\u202fAM to 5\u202fPM"
                 },
                 {
                     "day": "Saturday",
-                    "hours": "10\u202fAM to 5\u202fPM"
+                    "hours": "Closed"
                 },
                 {
                     "day": "Sunday",
@@ -91,130 +169,6 @@
                     },
                     {
                         "Wheelchair accessible parking lot": true
-                    }
-                ],
-                "Offerings": [
-                    {
-                        "Beverages": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Restroom": true
-                    }
-                ],
-                "Planning": [
-                    {
-                        "Appointment required": true
-                    },
-                    {
-                        "Appointments recommended": true
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    }
-                ],
-                "Children": [
-                    {
-                        "Good for kids": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Remedy%2022%20Salon&query_place_id=ChIJcYcVZpFxSIgRGD7TiTlMo6M",
-            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Athens%20New%20York,%20United%20States?hl=en",
-            "searchString": "Saloons in Athens New York, United States",
-            "language": "en",
-            "rank": 1,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoXFbUnECtImFiatqb6n07tiEGyBeoD2uhQkWvdErqvClWqO46h4iLpf3vjf7b_LWVixdkbbLdV6JgYUbtwS-cHCPpprKR7px6j35LQ9ceRvAZyyhPLxl6AcAUo-xlyybycMS0=w408-h290-k-no",
-            "kgmid": "/g/11rvg85dx9"
-        },
-        {
-            "title": "The Loft Hair & Spa Salon",
-            "price": null,
-            "categoryName": "Beauty salon",
-            "address": "101 S Shafer St, Athens, OH 45701",
-            "neighborhood": null,
-            "street": "101 S Shafer St",
-            "city": "Athens",
-            "postalCode": "45701",
-            "state": "Ohio",
-            "countryCode": "US",
-            "website": "http://thelofthairandspa.com/",
-            "phone": "(740) 447-5053",
-            "phoneUnformatted": "+17404475053",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 39.3283275,
-                "lng": -82.111075
-            },
-            "totalScore": 4.6,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJP6v0TpFzSIgRq6RTRCbzqNM",
-            "categories": [
-                "Beauty salon",
-                "Nail salon"
-            ],
-            "fid": "0x884873914ef4ab3f:0xd3a8f3264453a4ab",
-            "cid": "15251707483770823851",
-            "reviewsCount": 144,
-            "imagesCount": 37,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:32:42.572Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Monday",
-                    "hours": "10\u202fAM to 5\u202fPM"
-                },
-                {
-                    "day": "Tuesday",
-                    "hours": "10\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Wednesday",
-                    "hours": "10\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Thursday",
-                    "hours": "10\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Friday",
-                    "hours": "10\u202fAM to 5\u202fPM"
-                },
-                {
-                    "day": "Saturday",
-                    "hours": "9\u202fAM to 2\u202fPM"
-                },
-                {
-                    "day": "Sunday",
-                    "hours": "Closed"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "From the business": [
-                    {
-                        "Identifies as women-owned": true
-                    }
-                ],
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": true
                     },
                     {
                         "Wheelchair accessible restroom": true
@@ -222,15 +176,7 @@
                 ],
                 "Amenities": [
                     {
-                        "Gender-neutral restroom": true
-                    },
-                    {
                         "Restroom": true
-                    }
-                ],
-                "Crowd": [
-                    {
-                        "LGBTQ+ friendly": true
                     }
                 ],
                 "Planning": [
@@ -243,16 +189,10 @@
                 ],
                 "Payments": [
                     {
-                        "Checks": true
-                    },
-                    {
                         "Credit cards": true
                     },
                     {
                         "Debit cards": true
-                    },
-                    {
-                        "NFC mobile payments": true
                     },
                     {
                         "Credit cards": true
@@ -260,178 +200,48 @@
                 ],
                 "Parking": [
                     {
-                        "Free parking lot": true
-                    },
-                    {
                         "On-site parking": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=The%20Loft%20Hair%20%26%20Spa%20Salon&query_place_id=ChIJP6v0TpFzSIgRq6RTRCbzqNM",
-            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Athens%20New%20York,%20United%20States?hl=en",
-            "searchString": "Saloons in Athens New York, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Byers%20Eye%20Institute&query_place_id=ChIJaeFkA6G7j4AR2NjPrWf9Ew0",
+            "searchPageUrl": "https://www.google.com/maps/search/Eye%20Clinics%20in%20Raalte%20All%20(State),%20All%20(Country)?hl=en",
+            "searchString": "Eye Clinics in Raalte All (State), All (Country)",
             "language": "en",
             "rank": 2,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwer6L84JYEeapIoLLOnJaaSp1bitnwgbn7O7iw8-Qks8Gi33NFOotey7-hA2pqBZrLHVS9W4rXlUs45lB-UXeTojKdcPUuSAHZ8jkJOa9Ly_DikhGmKY8wMc9sha-4U9OMgmMAcH=w408-h306-k-no",
-            "kgmid": "/g/11f3xkbqjg"
+            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepcWi0C2ex_J6YItFbcLJ47f8VATWM7VXk19r_yq6XSutU2oIv-LFTX7vU6HETgU860F8ACKhwyAAN0NXNbWuuH-yZ-MZXjjNmVv2gAV_2Ko7HS9wPpXRZaT_fYYxUfWkCQqBEd=w408-h306-k-no",
+            "kgmid": "/g/1v8j0p60"
         },
         {
-            "title": "The Infinity Salon",
+            "title": "Family Eye Care",
             "price": null,
-            "categoryName": "Beauty salon",
-            "address": "1100 E State St, Athens, OH 45701",
+            "categoryName": "Optician",
+            "address": "Union City, CA 94587",
             "neighborhood": null,
-            "street": "1100 E State St",
-            "city": "Athens",
-            "postalCode": "45701",
-            "state": "Ohio",
+            "street": null,
+            "city": "Union City",
+            "postalCode": null,
+            "state": "California",
             "countryCode": "US",
-            "website": "http://theinfinitysalon.com/",
-            "phone": "(740) 594-4600",
-            "phoneUnformatted": "+17405944600",
-            "claimThisBusiness": false,
+            "claimThisBusiness": true,
             "location": {
-                "lat": 39.3348844,
-                "lng": -82.0513487
+                "lat": 37.5900438,
+                "lng": -122.0303795
             },
-            "totalScore": 4.3,
             "permanentlyClosed": false,
             "temporarilyClosed": false,
-            "placeId": "ChIJ563YZmFySIgRcFCobVTf6aI",
+            "placeId": "ChIJ26h0hnuVj4AR21WYuEoKlj8",
             "categories": [
-                "Beauty salon",
-                "Hair salon",
-                "Nail salon",
-                "Tanning salon"
+                "Optician"
             ],
-            "fid": "0x8848726166d8ade7:0xa2e9df546da85070",
-            "cid": "11739159457427902576",
-            "reviewsCount": 127,
-            "imagesCount": 48,
+            "fid": "0x808f957b8674a8db:0x3f960a4ab89855db",
+            "cid": "4581860986936907227",
+            "reviewsCount": null,
+            "imagesCount": 1,
             "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:32:42.572Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Monday",
-                    "hours": "Closed"
-                },
-                {
-                    "day": "Tuesday",
-                    "hours": "9:30\u202fAM to 8\u202fPM"
-                },
-                {
-                    "day": "Wednesday",
-                    "hours": "9:30\u202fAM to 8\u202fPM"
-                },
-                {
-                    "day": "Thursday",
-                    "hours": "9:30\u202fAM to 8\u202fPM"
-                },
-                {
-                    "day": "Friday",
-                    "hours": "9:30\u202fAM to 6\u202fPM"
-                },
-                {
-                    "day": "Saturday",
-                    "hours": "9:30\u202fAM to 5\u202fPM"
-                },
-                {
-                    "day": "Sunday",
-                    "hours": "Closed"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
-                        "Wheelchair accessible entrance": true
-                    },
-                    {
-                        "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Restroom": true
-                    }
-                ],
-                "Planning": [
-                    {
-                        "Appointments recommended": true
-                    },
-                    {
-                        "Accepts walk-ins": true
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    },
-                    {
-                        "NFC mobile payments": true
-                    },
-                    {
-                        "Credit cards": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=The%20Infinity%20Salon&query_place_id=ChIJ563YZmFySIgRcFCobVTf6aI",
-            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Athens%20New%20York,%20United%20States?hl=en",
-            "searchString": "Saloons in Athens New York, United States",
-            "language": "en",
-            "rank": 3,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweq05MyufG-1Me1RzWAzZY97e8-rYGGOuELSocW4s3PYiKO-5gEwHn1FMfuJh1iZd9tlZANqoj2-toA4afGheTROC2dJOD6C0yGnv0e38LBzE0vCAPcY3lROAOXkJv_E8C7iLUWy=w408-h306-k-no",
-            "kgmid": "/g/1tgzc0nv"
-        },
-        {
-            "title": "Raphael's Aveda Concept Salon",
-            "price": null,
-            "categoryName": "Beauty salon",
-            "address": "42 N Court St, Athens, OH 45701",
-            "neighborhood": null,
-            "street": "42 N Court St",
-            "city": "Athens",
-            "postalCode": "45701",
-            "state": "Ohio",
-            "countryCode": "US",
-            "website": "http://www.raphaelssalon.com/",
-            "phone": "(740) 592-4779",
-            "phoneUnformatted": "+17405924779",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 39.3304116,
-                "lng": -82.1009031
-            },
-            "totalScore": 4.4,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJQ1s8crxzSIgRVqSSBWaCB9g",
-            "categories": [
-                "Beauty salon",
-                "Hair salon",
-                "Cosmetics store",
-                "Nail salon"
-            ],
-            "fid": "0x884873bc723c5b43:0xd80782660592a456",
-            "cid": "15566554011721180246",
-            "reviewsCount": 90,
-            "imagesCount": 21,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:32:42.572Z",
+            "scrapedAt": "2026-02-24T08:06:55.316Z",
             "googleFoodUrl": null,
             "hotelAds": [],
             "openingHours": [],
@@ -441,142 +251,10 @@
             "additionalInfo": {
                 "Accessibility": [
                     {
-                        "Wheelchair accessible restroom": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Restroom": true
-                    }
-                ],
-                "Planning": [
-                    {
-                        "Appointment required": true
-                    },
-                    {
-                        "Appointments recommended": true
-                    }
-                ],
-                "Payments": [
-                    {
-                        "Credit cards": true
-                    },
-                    {
-                        "Debit cards": true
-                    },
-                    {
-                        "NFC mobile payments": true
-                    },
-                    {
-                        "Credit cards": true
-                    }
-                ],
-                "Children": [
-                    {
-                        "Good for kids": true
-                    }
-                ]
-            },
-            "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Raphael's%20Aveda%20Concept%20Salon&query_place_id=ChIJQ1s8crxzSIgRVqSSBWaCB9g",
-            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Athens%20New%20York,%20United%20States?hl=en",
-            "searchString": "Saloons in Athens New York, United States",
-            "language": "en",
-            "rank": 4,
-            "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAwepMXoOJj09O0ExvzU02iCvr08EtnDz8gVsi0PmHoPiEC2914Pf9a4c9soGcwmcUOzlvP4lLtNgANMm4O6uSSle39n8KQRiU53-kyndL7adEKMSHs26mh5lqPluNCI8dI57eve0=w408-h306-k-no",
-            "kgmid": "/g/1tgc0gdv"
-        },
-        {
-            "title": "Attractions Hair & Nail Salon",
-            "price": null,
-            "categoryName": "Hair salon",
-            "address": "19 N Court St, Athens, OH 45701",
-            "neighborhood": null,
-            "street": "19 N Court St",
-            "city": "Athens",
-            "postalCode": "45701",
-            "state": "Ohio",
-            "countryCode": "US",
-            "website": "http://www.attractionshairandtanning.com/",
-            "phone": "(740) 594-4231",
-            "phoneUnformatted": "+17405944231",
-            "claimThisBusiness": false,
-            "location": {
-                "lat": 39.3299525,
-                "lng": -82.1012714
-            },
-            "totalScore": 4,
-            "permanentlyClosed": false,
-            "temporarilyClosed": false,
-            "placeId": "ChIJcbFte7xzSIgRtc0OlZboH3I",
-            "categories": [
-                "Hair salon"
-            ],
-            "fid": "0x884873bc7b6db171:0x721fe896950ecdb5",
-            "cid": "8223547178045328821",
-            "reviewsCount": 345,
-            "imagesCount": 14,
-            "imageCategories": [],
-            "scrapedAt": "2026-02-24T07:32:42.572Z",
-            "googleFoodUrl": null,
-            "hotelAds": [],
-            "openingHours": [
-                {
-                    "day": "Monday",
-                    "hours": "9\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Tuesday",
-                    "hours": "9\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Wednesday",
-                    "hours": "9\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Thursday",
-                    "hours": "9\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Friday",
-                    "hours": "9\u202fAM to 7\u202fPM"
-                },
-                {
-                    "day": "Saturday",
-                    "hours": "9\u202fAM to 5\u202fPM"
-                },
-                {
-                    "day": "Sunday",
-                    "hours": "Closed"
-                }
-            ],
-            "peopleAlsoSearch": [],
-            "placesTags": [],
-            "reviewsTags": [],
-            "additionalInfo": {
-                "Accessibility": [
-                    {
                         "Wheelchair accessible entrance": true
                     },
                     {
                         "Wheelchair accessible parking lot": true
-                    },
-                    {
-                        "Wheelchair accessible restroom": true
-                    }
-                ],
-                "Amenities": [
-                    {
-                        "Restroom": true
-                    }
-                ],
-                "Planning": [
-                    {
-                        "Appointment required": true
-                    },
-                    {
-                        "Appointments recommended": true
                     }
                 ],
                 "Payments": [
@@ -585,29 +263,18 @@
                     },
                     {
                         "Debit cards": true
-                    },
-                    {
-                        "NFC mobile payments": true
-                    },
-                    {
-                        "Credit cards": true
-                    }
-                ],
-                "Children": [
-                    {
-                        "Good for kids": true
                     }
                 ]
             },
             "gasPrices": [],
-            "url": "https://www.google.com/maps/search/?api=1&query=Attractions%20Hair%20%26%20Nail%20Salon&query_place_id=ChIJcbFte7xzSIgRtc0OlZboH3I",
-            "searchPageUrl": "https://www.google.com/maps/search/Saloons%20in%20Athens%20New%20York,%20United%20States?hl=en",
-            "searchString": "Saloons in Athens New York, United States",
+            "url": "https://www.google.com/maps/search/?api=1&query=Family%20Eye%20Care&query_place_id=ChIJ26h0hnuVj4AR21WYuEoKlj8",
+            "searchPageUrl": "https://www.google.com/maps/search/Eye%20Clinics%20in%20Raalte%20All%20(State),%20All%20(Country)?hl=en",
+            "searchString": "Eye Clinics in Raalte All (State), All (Country)",
             "language": "en",
-            "rank": 5,
+            "rank": 3,
             "isAdvertisement": false,
-            "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqG4wVVowLo1eC-5rBIRHZmDJNMh82GlkfIYTjOjB1SezrI0zqfF4b1eSNzEnIzpFJun_HGdbfeM26eVttbO0gvT_6J20TNNbbDcIIFXw8TFH3UWLbNf206MFesh4wIcJ386-JJ=w408-h408-k-no",
-            "kgmid": "/g/11bwl1trdl"
+            "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OAw18NgwznAJZ6IIfVCTJw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=102.76943&pitch=0&thumbfov=100",
+            "kgmid": "/g/11l65zrt0r"
         }
     ]
 }
